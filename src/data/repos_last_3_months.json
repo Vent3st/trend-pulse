@@ -1,0 +1,902 @@
+[
+  {
+    "name": "karpathy/nanochat",
+    "url": "https://github.com/karpathy/nanochat",
+    "followers": 275,
+    "forks": 4914,
+    "stars": 38895,
+    "created_at": "2025-10-13",
+    "description": "The best ChatGPT that $100 can buy."
+  },
+  {
+    "name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "followers": 201,
+    "forks": 2144,
+    "stars": 22345,
+    "created_at": "2025-09-22",
+    "description": "Public repository for Agent Skills"
+  },
+  {
+    "name": "karpathy/llm-council",
+    "url": "https://github.com/karpathy/llm-council",
+    "followers": 164,
+    "forks": 2150,
+    "stars": 11643,
+    "created_at": "2025-11-22",
+    "description": "LLM Council works together to answer your hardest questions"
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "followers": 105,
+    "forks": 876,
+    "stars": 10494,
+    "created_at": "2025-10-09",
+    "description": "Claude Code superpowers: core skills library"
+  },
+  {
+    "name": "HKUDS/AI-Trader",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "followers": 103,
+    "forks": 1603,
+    "stars": 10081,
+    "created_at": "2025-10-23",
+    "description": "\"AI-Trader: Can AI Beat the Market?\"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971"
+  },
+  {
+    "name": "toon-format/toon",
+    "url": "https://github.com/toon-format/toon",
+    "followers": 99,
+    "forks": 926,
+    "stars": 20954,
+    "created_at": "2025-10-22",
+    "description": "\ud83c\udf92 Token-Oriented Object Notation (TOON) \u2013 Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK."
+  },
+  {
+    "name": "SamsungSAILMontreal/TinyRecursiveModels",
+    "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+    "followers": 99,
+    "forks": 925,
+    "stars": 6055,
+    "created_at": "2025-10-07",
+    "description": ""
+  },
+  {
+    "name": "dvlab-research/DreamOmni2",
+    "url": "https://github.com/dvlab-research/DreamOmni2",
+    "followers": 95,
+    "forks": 204,
+    "stars": 2437,
+    "created_at": "2025-09-28",
+    "description": "This project is the official implementation of 'DreamOmni2: Multimodal Instruction-based Editing and Generation''"
+  },
+  {
+    "name": "zai-org/Open-AutoGLM",
+    "url": "https://github.com/zai-org/Open-AutoGLM",
+    "followers": 93,
+    "forks": 2810,
+    "stars": 17971,
+    "created_at": "2025-12-08",
+    "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone"
+  },
+  {
+    "name": "Tongyi-MAI/Z-Image",
+    "url": "https://github.com/Tongyi-MAI/Z-Image",
+    "followers": 93,
+    "forks": 435,
+    "stars": 7427,
+    "created_at": "2025-11-26",
+    "description": ""
+  },
+  {
+    "name": "deepseek-ai/DeepSeek-OCR",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "followers": 92,
+    "forks": 1922,
+    "stars": 21497,
+    "created_at": "2025-10-17",
+    "description": "Contexts Optical Compression"
+  },
+  {
+    "name": "Snapchat/Valdi",
+    "url": "https://github.com/Snapchat/Valdi",
+    "followers": 82,
+    "forks": 540,
+    "stars": 15896,
+    "created_at": "2025-11-06",
+    "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity."
+  },
+  {
+    "name": "diet103/claude-code-infrastructure-showcase",
+    "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+    "followers": 82,
+    "forks": 1027,
+    "stars": 7748,
+    "created_at": "2025-10-30",
+    "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents"
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "followers": 76,
+    "forks": 858,
+    "stars": 7789,
+    "created_at": "2025-10-17",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+  },
+  {
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
+    "followers": 72,
+    "forks": 487,
+    "stars": 6286,
+    "created_at": "2025-11-10",
+    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model."
+  },
+  {
+    "name": "NoFxAiOS/nofx",
+    "url": "https://github.com/NoFxAiOS/nofx",
+    "followers": 70,
+    "forks": 2364,
+    "stars": 9110,
+    "created_at": "2025-10-28",
+    "description": "Open-source Trading OS with pluggable AI brain | From market data \u2192 AI reasoning \u2192 Trade execution | Self-hosted & Multi-exchange"
+  },
+  {
+    "name": "midudev/jscamp",
+    "url": "https://github.com/midudev/jscamp",
+    "followers": 65,
+    "forks": 341,
+    "stars": 3320,
+    "created_at": "2025-09-28",
+    "description": "Contenido y ejercicios del JSCamp InfoJobs"
+  },
+  {
+    "name": "iflytek/astron-agent",
+    "url": "https://github.com/iflytek/astron-agent",
+    "followers": 62,
+    "forks": 1065,
+    "stars": 7815,
+    "created_at": "2025-09-19",
+    "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents."
+  },
+  {
+    "name": "Open-Dev-Society/OpenStock",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "followers": 46,
+    "forks": 762,
+    "stars": 6430,
+    "created_at": "2025-09-28",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free."
+  },
+  {
+    "name": "google/A2UI",
+    "url": "https://github.com/google/A2UI",
+    "followers": 46,
+    "forks": 350,
+    "stars": 5136,
+    "created_at": "2025-09-24",
+    "description": ""
+  },
+  {
+    "name": "EveryInc/compound-engineering-plugin",
+    "url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "followers": 44,
+    "forks": 248,
+    "stars": 2952,
+    "created_at": "2025-10-09",
+    "description": "Official Claude Code compound engineering plugin"
+  },
+  {
+    "name": "neuphonic/neutts-air",
+    "url": "https://github.com/neuphonic/neutts-air",
+    "followers": 40,
+    "forks": 448,
+    "stars": 4273,
+    "created_at": "2025-10-02",
+    "description": "On-device TTS model by Neuphonic"
+  },
+  {
+    "name": "facebookresearch/sam-3d-objects",
+    "url": "https://github.com/facebookresearch/sam-3d-objects",
+    "followers": 39,
+    "forks": 457,
+    "stars": 4973,
+    "created_at": "2025-09-29",
+    "description": "SAM 3D Objects"
+  },
+  {
+    "name": "straight-tamago/misaka26",
+    "url": "https://github.com/straight-tamago/misaka26",
+    "followers": 39,
+    "forks": 130,
+    "stars": 3138,
+    "created_at": "2025-11-16",
+    "description": "iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. "
+  },
+  {
+    "name": "ginobefun/agentic-design-patterns-cn",
+    "url": "https://github.com/ginobefun/agentic-design-patterns-cn",
+    "followers": 38,
+    "forks": 654,
+    "stars": 5587,
+    "created_at": "2025-10-09",
+    "description": "\u300aAgentic Design Patterns\u300b\u4e2d\u6587\u7ffb\u8bd1\u7248"
+  },
+  {
+    "name": "tw93/Mole",
+    "url": "https://github.com/tw93/Mole",
+    "followers": 37,
+    "forks": 375,
+    "stars": 11316,
+    "created_at": "2025-09-23",
+    "description": "\ud83d\udc39 Deep clean and optimize your Mac."
+  },
+  {
+    "name": "IAmTomShaw/f1-race-replay",
+    "url": "https://github.com/IAmTomShaw/f1-race-replay",
+    "followers": 37,
+    "forks": 399,
+    "stars": 3404,
+    "created_at": "2025-11-21",
+    "description": "An interactive Formula 1 race visualisation and data analysis tool built with Python! \ud83c\udfce\ufe0f"
+  },
+  {
+    "name": "MattParkerDev/SharpIDE",
+    "url": "https://github.com/MattParkerDev/SharpIDE",
+    "followers": 37,
+    "forks": 82,
+    "stars": 3067,
+    "created_at": "2025-11-08",
+    "description": "A modern, cross platform IDE for .NET, built with .NET & Godot"
+  },
+  {
+    "name": "francescopace/espectre",
+    "url": "https://github.com/francescopace/espectre",
+    "followers": 36,
+    "forks": 260,
+    "stars": 3856,
+    "created_at": "2025-10-26",
+    "description": "\ud83d\udedc ESPectre \ud83d\udc7b  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration."
+  },
+  {
+    "name": "ByteDance-Seed/Depth-Anything-3",
+    "url": "https://github.com/ByteDance-Seed/Depth-Anything-3",
+    "followers": 36,
+    "forks": 308,
+    "stars": 3608,
+    "created_at": "2025-11-12",
+    "description": "Depth Anything 3"
+  },
+  {
+    "name": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "followers": 34,
+    "forks": 557,
+    "stars": 4138,
+    "created_at": "2025-10-14",
+    "description": "An autonomous agent for deep financial research"
+  },
+  {
+    "name": "ruc-datalab/DeepAnalyze",
+    "url": "https://github.com/ruc-datalab/DeepAnalyze",
+    "followers": 34,
+    "forks": 478,
+    "stars": 3239,
+    "created_at": "2025-10-11",
+    "description": "DeepAnalyze is the first agentic LLM for autonomous data science. \ud83c\udf88\u4f60\u7684AI\u6570\u636e\u5206\u6790\u5e08\uff0c\u81ea\u52a8\u5206\u6790\u5927\u91cf\u6570\u636e\uff0c\u4e00\u952e\u751f\u6210\u4e13\u4e1a\u5206\u6790\u62a5\u544a\uff01"
+  },
+  {
+    "name": "steveyegge/beads",
+    "url": "https://github.com/steveyegge/beads",
+    "followers": 33,
+    "forks": 357,
+    "stars": 5842,
+    "created_at": "2025-10-12",
+    "description": "Beads - A memory upgrade for your coding agent"
+  },
+  {
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "followers": 33,
+    "forks": 365,
+    "stars": 4057,
+    "created_at": "2025-11-23",
+    "description": "\ud83c\udf4c 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library"
+  },
+  {
+    "name": "travisvn/awesome-claude-skills",
+    "url": "https://github.com/travisvn/awesome-claude-skills",
+    "followers": 33,
+    "forks": 200,
+    "stars": 3277,
+    "created_at": "2025-10-16",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows \u2014 particularly Claude Code"
+  },
+  {
+    "name": "moazbuilds/CodeMachine-CLI",
+    "url": "https://github.com/moazbuilds/CodeMachine-CLI",
+    "followers": 32,
+    "forks": 220,
+    "stars": 2026,
+    "created_at": "2025-09-28",
+    "description": "CLI-native orchestration engine for autonomous workflows and production-ready code. \u26a1\ufe0f"
+  },
+  {
+    "name": "datalab-to/chandra",
+    "url": "https://github.com/datalab-to/chandra",
+    "followers": 31,
+    "forks": 415,
+    "stars": 3742,
+    "created_at": "2025-10-08",
+    "description": "OCR model that handles complex tables, forms, handwriting with full layout."
+  },
+  {
+    "name": "wquguru/nof0",
+    "url": "https://github.com/wquguru/nof0",
+    "followers": 31,
+    "forks": 439,
+    "stars": 2773,
+    "created_at": "2025-10-22",
+    "description": "NOF0 - \u5f00\u6e90\u7684 AI \u4ea4\u6613\u7ade\u6280\u573a"
+  },
+  {
+    "name": "BehiSecc/awesome-claude-skills",
+    "url": "https://github.com/BehiSecc/awesome-claude-skills",
+    "followers": 30,
+    "forks": 233,
+    "stars": 3224,
+    "created_at": "2025-10-17",
+    "description": "A curated list of Claude Skills."
+  },
+  {
+    "name": "openai/openai-apps-sdk-examples",
+    "url": "https://github.com/openai/openai-apps-sdk-examples",
+    "followers": 30,
+    "forks": 395,
+    "stars": 1873,
+    "created_at": "2025-10-06",
+    "description": "Example apps for the Apps SDK"
+  },
+  {
+    "name": "google-coral/coralnpu",
+    "url": "https://github.com/google-coral/coralnpu",
+    "followers": 29,
+    "forks": 212,
+    "stars": 1950,
+    "created_at": "2025-10-02",
+    "description": "A machine learning accelerator core designed for energy-efficient AI at the edge."
+  },
+  {
+    "name": "pathwaycom/bdh",
+    "url": "https://github.com/pathwaycom/bdh",
+    "followers": 27,
+    "forks": 169,
+    "stars": 3321,
+    "created_at": "2025-09-30",
+    "description": "Baby Dragon Hatchling (BDH) \u2013 Architecture and Code"
+  },
+  {
+    "name": "facebookresearch/omnilingual-asr",
+    "url": "https://github.com/facebookresearch/omnilingual-asr",
+    "followers": 27,
+    "forks": 213,
+    "stars": 2487,
+    "created_at": "2025-11-06",
+    "description": "Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages"
+  },
+  {
+    "name": "google/mcp",
+    "url": "https://github.com/google/mcp",
+    "followers": 27,
+    "forks": 203,
+    "stars": 2149,
+    "created_at": "2025-12-05",
+    "description": "Google \ud83d\udc9a MCP"
+  },
+  {
+    "name": "MoonshotAI/kimi-cli",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "followers": 26,
+    "forks": 357,
+    "stars": 3640,
+    "created_at": "2025-10-15",
+    "description": "Kimi CLI is your next CLI agent."
+  },
+  {
+    "name": "microsoft/fara",
+    "url": "https://github.com/microsoft/fara",
+    "followers": 26,
+    "forks": 284,
+    "stars": 3275,
+    "created_at": "2025-10-29",
+    "description": "Fara-7B: An Efficient Agentic Model for Computer Use"
+  },
+  {
+    "name": "CaviraOSS/OpenMemory",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "followers": 26,
+    "forks": 300,
+    "stars": 2640,
+    "created_at": "2025-10-19",
+    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc."
+  },
+  {
+    "name": "Anionex/banana-slides",
+    "url": "https://github.com/Anionex/banana-slides",
+    "followers": 25,
+    "forks": 508,
+    "stars": 4804,
+    "created_at": "2025-11-29",
+    "description": "\u4e00\u4e2a\u57fa\u4e8enano banana pro\ud83c\udf4c\u7684\u539f\u751fAI PPT\u751f\u6210\u5e94\u7528\uff0c\u8fc8\u5411\u771f\u6b63\u7684\uff02Vibe PPT\uff02; \u652f\u6301\u4e0a\u4f20\u4efb\u610f\u6a21\u677f\u56fe\u7247\uff1b\u4e0a\u4f20\u4efb\u610f\u7d20\u6750&\u667a\u80fd\u89e3\u6790\uff1b\u4e00\u53e5\u8bdd/\u5927\u7eb2/\u9875\u9762\u63cf\u8ff0\u81ea\u52a8\u751f\u6210PPT\uff1b\u53e3\u5934\u4fee\u6539\u6307\u5b9a\u533a\u57df\u3001\u4e00\u952e\u5bfc\u51fa - An AI-native PPT generator based on nano banana pro\ud83c\udf4c"
+  },
+  {
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "followers": 25,
+    "forks": 369,
+    "stars": 3913,
+    "created_at": "2025-09-21",
+    "description": "Fully automatic censorship removal for language models"
+  },
+  {
+    "name": "KeygraphHQ/shannon",
+    "url": "https://github.com/KeygraphHQ/shannon",
+    "followers": 25,
+    "forks": 354,
+    "stars": 2664,
+    "created_at": "2025-09-27",
+    "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark."
+  },
+  {
+    "name": "apple/ml-sharp",
+    "url": "https://github.com/apple/ml-sharp",
+    "followers": 23,
+    "forks": 208,
+    "stars": 3566,
+    "created_at": "2025-12-12",
+    "description": "Sharp Monocular View Synthesis in Less Than a Second"
+  },
+  {
+    "name": "alam00000/bentopdf",
+    "url": "https://github.com/alam00000/bentopdf",
+    "followers": 22,
+    "forks": 513,
+    "stars": 7524,
+    "created_at": "2025-10-12",
+    "description": "A Privacy First PDF Toolkit"
+  },
+  {
+    "name": "HKUDS/Paper2Slides",
+    "url": "https://github.com/HKUDS/Paper2Slides",
+    "followers": 22,
+    "forks": 316,
+    "stars": 2349,
+    "created_at": "2025-12-07",
+    "description": "\"Paper2Slides: From Paper to Presentation in One Click\""
+  },
+  {
+    "name": "QwenLM/Qwen3-Omni",
+    "url": "https://github.com/QwenLM/Qwen3-Omni",
+    "followers": 21,
+    "forks": 191,
+    "stars": 3135,
+    "created_at": "2025-09-21",
+    "description": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time."
+  },
+  {
+    "name": "K-Dense-AI/claude-scientific-skills",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "followers": 21,
+    "forks": 255,
+    "stars": 2114,
+    "created_at": "2025-10-19",
+    "description": "A set of ready to use scientific skills for Claude"
+  },
+  {
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "followers": 20,
+    "forks": 550,
+    "stars": 5226,
+    "created_at": "2025-10-17",
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection"
+  },
+  {
+    "name": "tonyantony300/alt-sendme",
+    "url": "https://github.com/tonyantony300/alt-sendme",
+    "followers": 19,
+    "forks": 238,
+    "stars": 4440,
+    "created_at": "2025-10-17",
+    "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions."
+  },
+  {
+    "name": "numman-ali/openskills",
+    "url": "https://github.com/numman-ali/openskills",
+    "followers": 19,
+    "forks": 207,
+    "stars": 2908,
+    "created_at": "2025-10-26",
+    "description": "Universal skills loader for AI coding agents - npm i -g openskills"
+  },
+  {
+    "name": "iflytek/astron-rpa",
+    "url": "https://github.com/iflytek/astron-rpa",
+    "followers": 18,
+    "forks": 848,
+    "stars": 4978,
+    "created_at": "2025-09-20",
+    "description": "Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises."
+  },
+  {
+    "name": "HisMax/RedInk",
+    "url": "https://github.com/HisMax/RedInk",
+    "followers": 18,
+    "forks": 775,
+    "stars": 3930,
+    "created_at": "2025-11-25",
+    "description": "\u7ea2\u58a8 - \u57fa\u4e8e\ud83c\udf4cNano Banana Pro\ud83c\udf4c \u7684\u4e00\u7ad9\u5f0f\u5c0f\u7ea2\u4e66\u56fe\u6587\u751f\u6210\u5668 \u300a\u4e00\u53e5\u8bdd\u4e00\u5f20\u56fe\u7247\u751f\u6210\u5c0f\u7ea2\u4e66\u56fe\u6587\u300b Red Ink - A one-stop Xiaohongshu image-and-text generator based on the \ud83c\udf4cNano Banana Pro\ud83c\udf4c, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\""
+  },
+  {
+    "name": "Facepunch/sbox-public",
+    "url": "https://github.com/Facepunch/sbox-public",
+    "followers": 18,
+    "forks": 220,
+    "stars": 3418,
+    "created_at": "2025-11-24",
+    "description": "s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games"
+  },
+  {
+    "name": "fathulfahmy/aio-usb-drive",
+    "url": "https://github.com/fathulfahmy/aio-usb-drive",
+    "followers": 18,
+    "forks": 121,
+    "stars": 2261,
+    "created_at": "2025-10-06",
+    "description": "Curated collection of useful to have programs on a multiboot USB drive"
+  },
+  {
+    "name": "subhashchy/The-Accidental-CTO",
+    "url": "https://github.com/subhashchy/The-Accidental-CTO",
+    "followers": 17,
+    "forks": 227,
+    "stars": 3014,
+    "created_at": "2025-09-26",
+    "description": "How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary "
+  },
+  {
+    "name": "borndotcom/react-native-godot",
+    "url": "https://github.com/borndotcom/react-native-godot",
+    "followers": 17,
+    "forks": 106,
+    "stars": 2479,
+    "created_at": "2025-11-01",
+    "description": "React Native Godot - Embed Godot Engine in React Native apps"
+  },
+  {
+    "name": "karpathy/reader3",
+    "url": "https://github.com/karpathy/reader3",
+    "followers": 16,
+    "forks": 341,
+    "stars": 2647,
+    "created_at": "2025-11-18",
+    "description": "Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it."
+  },
+  {
+    "name": "FareedKhan-dev/all-agentic-architectures",
+    "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+    "followers": 16,
+    "forks": 335,
+    "stars": 2040,
+    "created_at": "2025-09-24",
+    "description": "Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development."
+  },
+  {
+    "name": "facebook/openzl",
+    "url": "https://github.com/facebook/openzl",
+    "followers": 15,
+    "forks": 121,
+    "stars": 2851,
+    "created_at": "2025-09-30",
+    "description": "A novel data compression framework"
+  },
+  {
+    "name": "Tencent-Hunyuan/HunyuanImage-3.0",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
+    "followers": 15,
+    "forks": 123,
+    "stars": 2595,
+    "created_at": "2025-09-27",
+    "description": "HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation"
+  },
+  {
+    "name": "MiniMax-AI/MiniMax-M2",
+    "url": "https://github.com/MiniMax-AI/MiniMax-M2",
+    "followers": 15,
+    "forks": 155,
+    "stars": 2042,
+    "created_at": "2025-10-25",
+    "description": "MiniMax-M2, a model built for Max coding & agentic workflows."
+  },
+  {
+    "name": "folke/sidekick.nvim",
+    "url": "https://github.com/folke/sidekick.nvim",
+    "followers": 15,
+    "forks": 73,
+    "stars": 1992,
+    "created_at": "2025-09-26",
+    "description": "Your Neovim AI sidekick"
+  },
+  {
+    "name": "code-yeongyu/oh-my-opencode",
+    "url": "https://github.com/code-yeongyu/oh-my-opencode",
+    "followers": 15,
+    "forks": 145,
+    "stars": 2059,
+    "created_at": "2025-12-03",
+    "description": "#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) \u00b7 Curated agents with proper models \u00b7 Crafted tools like LSP/AST included \u00b7 Curated MCPs \u00b7 Claude Code Compatible Layer \u2014 Steroids for your OpenCode. The Best LLM Agent Experience is Here."
+  },
+  {
+    "name": "pshenok/server-survival",
+    "url": "https://github.com/pshenok/server-survival",
+    "followers": 14,
+    "forks": 385,
+    "stars": 3458,
+    "created_at": "2025-11-21",
+    "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling."
+  },
+  {
+    "name": "firecrawl/open-agent-builder",
+    "url": "https://github.com/firecrawl/open-agent-builder",
+    "followers": 14,
+    "forks": 371,
+    "stars": 1961,
+    "created_at": "2025-10-16",
+    "description": "\ud83d\udd25 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution"
+  },
+  {
+    "name": "liujuntao123/smart-excalidraw-next",
+    "url": "https://github.com/liujuntao123/smart-excalidraw-next",
+    "followers": 13,
+    "forks": 285,
+    "stars": 2440,
+    "created_at": "2025-10-30",
+    "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language"
+  },
+  {
+    "name": "assetnote/react2shell-scanner",
+    "url": "https://github.com/assetnote/react2shell-scanner",
+    "followers": 13,
+    "forks": 240,
+    "stars": 2276,
+    "created_at": "2025-12-04",
+    "description": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)"
+  },
+  {
+    "name": "TimmyOVO/deepseek-ocr.rs",
+    "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
+    "followers": 13,
+    "forks": 156,
+    "stars": 2055,
+    "created_at": "2025-10-25",
+    "description": "Rust multi\u2011backend OCR/VLM engine (DeepSeek\u2011OCR, PaddleOCR\u2011VL, DotsOCR) with DSQ quantization and an OpenAI\u2011compatible server & CLI \u2013 run locally without Python."
+  },
+  {
+    "name": "Soul-AILab/SoulX-Podcast",
+    "url": "https://github.com/Soul-AILab/SoulX-Podcast",
+    "followers": 12,
+    "forks": 337,
+    "stars": 2736,
+    "created_at": "2025-09-22",
+    "description": "SoulX-Podcast is an inference codebase by the Soul AI team for generating high-fidelity podcasts from text."
+  },
+  {
+    "name": "Lissy93/networking-toolbox",
+    "url": "https://github.com/Lissy93/networking-toolbox",
+    "followers": 12,
+    "forks": 166,
+    "stars": 2017,
+    "created_at": "2025-09-27",
+    "description": "\ud83d\udedc 100+ offline-first networking tools and utilities"
+  },
+  {
+    "name": "anthropic-experimental/sandbox-runtime",
+    "url": "https://github.com/anthropic-experimental/sandbox-runtime",
+    "followers": 12,
+    "forks": 106,
+    "stars": 1964,
+    "created_at": "2025-10-20",
+    "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container."
+  },
+  {
+    "name": "KsanaDock/Microverse",
+    "url": "https://github.com/KsanaDock/Microverse",
+    "followers": 12,
+    "forks": 335,
+    "stars": 1957,
+    "created_at": "2025-10-09",
+    "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication."
+  },
+  {
+    "name": "showlab/Paper2Video",
+    "url": "https://github.com/showlab/Paper2Video",
+    "followers": 12,
+    "forks": 290,
+    "stars": 1974,
+    "created_at": "2025-10-03",
+    "description": "Automatic Video Generation from Scientific Papers"
+  },
+  {
+    "name": "JerryZLiu/Dayflow",
+    "url": "https://github.com/JerryZLiu/Dayflow",
+    "followers": 10,
+    "forks": 258,
+    "stars": 5193,
+    "created_at": "2025-09-23",
+    "description": "Generate a timeline of your day, automatically"
+  },
+  {
+    "name": "deepnote/deepnote",
+    "url": "https://github.com/deepnote/deepnote",
+    "followers": 10,
+    "forks": 154,
+    "stars": 2439,
+    "created_at": "2025-09-29",
+    "description": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/"
+  },
+  {
+    "name": "XiaoMi/xiaomi-miloco",
+    "url": "https://github.com/XiaoMi/xiaomi-miloco",
+    "followers": 10,
+    "forks": 122,
+    "stars": 1922,
+    "created_at": "2025-11-06",
+    "description": "Xiaomi Miloco"
+  },
+  {
+    "name": "siddharthvaddem/openscreen",
+    "url": "https://github.com/siddharthvaddem/openscreen",
+    "followers": 9,
+    "forks": 209,
+    "stars": 3529,
+    "created_at": "2025-10-10",
+    "description": "Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. "
+  },
+  {
+    "name": "scanopy/scanopy",
+    "url": "https://github.com/scanopy/scanopy",
+    "followers": 9,
+    "forks": 101,
+    "stars": 2452,
+    "created_at": "2025-09-29",
+    "description": "Clean network diagrams. One-time setup, zero upkeep."
+  },
+  {
+    "name": "mixedbread-ai/mgrep",
+    "url": "https://github.com/mixedbread-ai/mgrep",
+    "followers": 9,
+    "forks": 102,
+    "stars": 2293,
+    "created_at": "2025-11-06",
+    "description": "A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more."
+  },
+  {
+    "name": "nickrunning/wechat-selkies",
+    "url": "https://github.com/nickrunning/wechat-selkies",
+    "followers": 9,
+    "forks": 190,
+    "stars": 2263,
+    "created_at": "2025-10-12",
+    "description": "\u57fa\u4e8eSelkies\u7684Linux\u7f51\u9875\u7248\u5fae\u4fe1/QQ\uff0c\u652f\u6301\u672c\u5730\u4e2d\u6587\u8f93\u5165\u6cd5\uff0c\u652f\u6301AMD64\u548cARM64\u3002"
+  },
+  {
+    "name": "RohanAdwankar/oxdraw",
+    "url": "https://github.com/RohanAdwankar/oxdraw",
+    "followers": 9,
+    "forks": 71,
+    "stars": 2118,
+    "created_at": "2025-10-07",
+    "description": "Diagram as Code Tool Written in Rust with Draggable Editing"
+  },
+  {
+    "name": "Tencent-Hunyuan/HunyuanVideo-1.5",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
+    "followers": 9,
+    "forks": 97,
+    "stars": 1998,
+    "created_at": "2025-11-20",
+    "description": "HunyuanVideo-1.5: A leading lightweight video generation model"
+  },
+  {
+    "name": "aidenybai/react-grab",
+    "url": "https://github.com/aidenybai/react-grab",
+    "followers": 8,
+    "forks": 164,
+    "stars": 3733,
+    "created_at": "2025-10-17",
+    "description": "Select context for coding agents directly from your website"
+  },
+  {
+    "name": "deta/surf",
+    "url": "https://github.com/deta/surf",
+    "followers": 8,
+    "forks": 213,
+    "stars": 2969,
+    "created_at": "2025-10-20",
+    "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local)."
+  },
+  {
+    "name": "productdevbook/port-killer",
+    "url": "https://github.com/productdevbook/port-killer",
+    "followers": 8,
+    "forks": 54,
+    "stars": 2138,
+    "created_at": "2025-12-16",
+    "description": "Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers."
+  },
+  {
+    "name": "mistralai/mistral-vibe",
+    "url": "https://github.com/mistralai/mistral-vibe",
+    "followers": 7,
+    "forks": 170,
+    "stars": 2171,
+    "created_at": "2025-12-08",
+    "description": "Minimal CLI coding agent by Mistral"
+  },
+  {
+    "name": "iChochy/NCE",
+    "url": "https://github.com/iChochy/NCE",
+    "followers": 6,
+    "forks": 411,
+    "stars": 2166,
+    "created_at": "2025-09-24",
+    "description": "\u300a\u65b0\u6982\u5ff5\u82f1\u8bed\u300b\u5168\u56db\u518c\u5728\u7ebf\u8bfe\u6587\u6717\u8bfb\u3001\u5355\u53e5\u70b9\u8bfb\u3001\u4e2d\u82f1\u5bf9\u7167"
+  },
+  {
+    "name": "TanStack/ai",
+    "url": "https://github.com/TanStack/ai",
+    "followers": 6,
+    "forks": 80,
+    "stars": 1944,
+    "created_at": "2025-10-08",
+    "description": "\ud83e\udd16 SDK that enhances your applications with AI capabilities"
+  },
+  {
+    "name": "donlon/cloudflare-error-page",
+    "url": "https://github.com/donlon/cloudflare-error-page",
+    "followers": 4,
+    "forks": 200,
+    "stars": 4218,
+    "created_at": "2025-11-19",
+    "description": "Cloudflare error page generator"
+  },
+  {
+    "name": "JStone2934/LiveGalGame",
+    "url": "https://github.com/JStone2934/LiveGalGame",
+    "followers": 4,
+    "forks": 67,
+    "stars": 2254,
+    "created_at": "2025-09-28",
+    "description": "\u8ba9\u4f60\u5728\u548c\u7f8e\u5c11\u5973\u804a\u5929\u65f6\u80fd\u50cfGalGame\u4e00\u6837\u6709\u9009\u9879\u548c\u5b57\u5e55\u7684\u795e\u4eba\u5e94\u7528"
+  },
+  {
+    "name": "unhappychoice/gitlogue",
+    "url": "https://github.com/unhappychoice/gitlogue",
+    "followers": 3,
+    "forks": 83,
+    "stars": 3707,
+    "created_at": "2025-11-08",
+    "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story."
+  },
+  {
+    "name": "666OS/ClashMac",
+    "url": "https://github.com/666OS/ClashMac",
+    "followers": 3,
+    "forks": 97,
+    "stars": 2490,
+    "created_at": "2025-11-28",
+    "description": "\u57fa\u4e8e Clash (mihomo) \u5185\u6838\u7684\u8f7b\u91cf\u7ea7 macOS \u83dc\u5355\u680f\u5ba2\u6237\u7aef\u3002Lightweight macOS Clash (mihomo) menu bar client."
+  }
+]

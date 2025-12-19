@@ -1,0 +1,26 @@
+# Netlify configuration for Next.js
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Enable Next.js runtime
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Headers for API caching
+[[headers]]
+  for = "/api/*"
+  [headers.values]
+    Cache-Control = "s-maxage=3600, stale-while-revalidate=86400"
+
+# Redirects (if needed)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  conditions = {Role = ["admin"]}
+

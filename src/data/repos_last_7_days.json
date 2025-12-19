@@ -1,0 +1,902 @@
+[
+  {
+    "name": "daRkZvoidSTRi/Flashloan-Arbitrage-Bot",
+    "url": "https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot",
+    "followers": 55,
+    "forks": 128,
+    "stars": 201,
+    "created_at": "2025-12-12",
+    "description": "Flashloan Arbitrage Bot for Ethereum"
+  },
+  {
+    "name": "apple/ml-sharp",
+    "url": "https://github.com/apple/ml-sharp",
+    "followers": 23,
+    "forks": 208,
+    "stars": 3566,
+    "created_at": "2025-12-12",
+    "description": "Sharp Monocular View Synthesis in Less Than a Second"
+  },
+  {
+    "name": "VibiumDev/vibium",
+    "url": "https://github.com/VibiumDev/vibium",
+    "followers": 23,
+    "forks": 21,
+    "stars": 161,
+    "created_at": "2025-12-12",
+    "description": "Browser automation for AI agents and humans"
+  },
+  {
+    "name": "DGoettlich/history-llms",
+    "url": "https://github.com/DGoettlich/history-llms",
+    "followers": 21,
+    "forks": 6,
+    "stars": 664,
+    "created_at": "2025-12-14",
+    "description": "Information hub for our project training the largest possible historical LLMs."
+  },
+  {
+    "name": "agentskills/agentskills",
+    "url": "https://github.com/agentskills/agentskills",
+    "followers": 18,
+    "forks": 28,
+    "stars": 778,
+    "created_at": "2025-12-16",
+    "description": "Specification and documentation for Agent Skills"
+  },
+  {
+    "name": "lwj2015/lightron",
+    "url": "https://github.com/lwj2015/lightron",
+    "followers": 11,
+    "forks": 20,
+    "stars": 214,
+    "created_at": "2025-12-16",
+    "description": "A light implementation of megatron for research and study"
+  },
+  {
+    "name": "alibaba-damo-academy/T2I-Distill",
+    "url": "https://github.com/alibaba-damo-academy/T2I-Distill",
+    "followers": 10,
+    "forks": 6,
+    "stars": 182,
+    "created_at": "2025-12-13",
+    "description": "[Tech Report] Few-Step Distillation for Text-to-Image Generation: A Practical Guide"
+  },
+  {
+    "name": "iwae/HarmonyOS-Inno",
+    "url": "https://github.com/iwae/HarmonyOS-Inno",
+    "followers": 10,
+    "forks": 16,
+    "stars": 139,
+    "created_at": "2025-12-14",
+    "description": "HarmonyOS Next innovative capabilities case repo."
+  },
+  {
+    "name": "productdevbook/port-killer",
+    "url": "https://github.com/productdevbook/port-killer",
+    "followers": 8,
+    "forks": 54,
+    "stars": 2138,
+    "created_at": "2025-12-16",
+    "description": "Native macOS app for finding and killing processes on open ports. Perfect for developers."
+  },
+  {
+    "name": "Maxteabag/sqlit",
+    "url": "https://github.com/Maxteabag/sqlit",
+    "followers": 6,
+    "forks": 20,
+    "stars": 947,
+    "created_at": "2025-12-13",
+    "description": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more."
+  },
+  {
+    "name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "followers": 6,
+    "forks": 62,
+    "stars": 349,
+    "created_at": "2025-12-17",
+    "description": "100+ LLM interview questions with answers. "
+  },
+  {
+    "name": "FunAudioLLM/Fun-ASR",
+    "url": "https://github.com/FunAudioLLM/Fun-ASR",
+    "followers": 5,
+    "forks": 24,
+    "stars": 439,
+    "created_at": "2025-12-15",
+    "description": "Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. "
+  },
+  {
+    "name": "dsphper/lanhu-mcp",
+    "url": "https://github.com/dsphper/lanhu-mcp",
+    "followers": 5,
+    "forks": 14,
+    "stars": 253,
+    "created_at": "2025-12-17",
+    "description": "\u26a1 \u9700\u6c42\u5206\u6790\u6548\u7387\u63d0\u5347 200%\uff01\u5168\u7403\u9996\u4e2a\u4e3a AI \u7f16\u7a0b\u65f6\u4ee3\u8bbe\u8ba1\u7684\u56e2\u961f\u534f\u4f5c MCP \u670d\u52a1\u5668\uff0c\u81ea\u52a8\u5206\u6790\u9700\u6c42\u81ea\u52a8\u7f16\u5199\u524d\u540e\u7aef\u4ee3\u7801\uff0c\u4e0b\u8f7d\u5207\u56fe"
+  },
+  {
+    "name": "theNetworkChuck/frigate-nvr-guide",
+    "url": "https://github.com/theNetworkChuck/frigate-nvr-guide",
+    "followers": 5,
+    "forks": 24,
+    "stars": 111,
+    "created_at": "2025-12-15",
+    "description": "Complete guide for building a local AI surveillance system with Frigate NVR. Includes Raspberry Pi + Hailo setup, desktop + Coral setup, progressive configs, and WiFi troubleshooting."
+  },
+  {
+    "name": "ZiadFrancis/ReinforcementTrading_Part_1",
+    "url": "https://github.com/ZiadFrancis/ReinforcementTrading_Part_1",
+    "followers": 5,
+    "forks": 92,
+    "stars": 100,
+    "created_at": "2025-12-12",
+    "description": ""
+  },
+  {
+    "name": "gaearon/rscexplorer",
+    "url": "https://github.com/gaearon/rscexplorer",
+    "followers": 4,
+    "forks": 19,
+    "stars": 772,
+    "created_at": "2025-12-16",
+    "description": "A tool for people curious about the React Server Components protocol"
+  },
+  {
+    "name": "Gentleman-Programming/gentleman-guardian-angel",
+    "url": "https://github.com/Gentleman-Programming/gentleman-guardian-angel",
+    "followers": 4,
+    "forks": 34,
+    "stars": 394,
+    "created_at": "2025-12-12",
+    "description": "\ud83d\ude07 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards."
+  },
+  {
+    "name": "Dao-AILab/sonic-moe",
+    "url": "https://github.com/Dao-AILab/sonic-moe",
+    "followers": 4,
+    "forks": 14,
+    "stars": 334,
+    "created_at": "2025-12-15",
+    "description": "Accelerating MoE with IO and Tile-aware Optimizations"
+  },
+  {
+    "name": "cmontella/purrtran",
+    "url": "https://github.com/cmontella/purrtran",
+    "followers": 4,
+    "forks": 3,
+    "stars": 293,
+    "created_at": "2025-12-12",
+    "description": "\ud83d\ude3b It's the cat's meow! \ud83d\ude3d "
+  },
+  {
+    "name": "grcengineering/gigachad-grc",
+    "url": "https://github.com/grcengineering/gigachad-grc",
+    "followers": 4,
+    "forks": 45,
+    "stars": 79,
+    "created_at": "2025-12-15",
+    "description": "A holistic GRC tool that does all the things. If it doesn't, add it!"
+  },
+  {
+    "name": "Shichun-Liu/Agent-Memory-Paper-List",
+    "url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
+    "followers": 3,
+    "forks": 10,
+    "stars": 350,
+    "created_at": "2025-12-13",
+    "description": "The paper list of \"Memory in the Age of AI Agents: A Survey\""
+  },
+  {
+    "name": "taetaehoho/poly-kalshi-arb",
+    "url": "https://github.com/taetaehoho/poly-kalshi-arb",
+    "followers": 3,
+    "forks": 112,
+    "stars": 330,
+    "created_at": "2025-12-16",
+    "description": ""
+  },
+  {
+    "name": "hyperbrowserai/hyperbooklm",
+    "url": "https://github.com/hyperbrowserai/hyperbooklm",
+    "followers": 3,
+    "forks": 33,
+    "stars": 275,
+    "created_at": "2025-12-15",
+    "description": ""
+  },
+  {
+    "name": "Noumena-Network/nmoe",
+    "url": "https://github.com/Noumena-Network/nmoe",
+    "followers": 3,
+    "forks": 21,
+    "stars": 269,
+    "created_at": "2025-12-17",
+    "description": "MoE training for Me and You and maybe other people "
+  },
+  {
+    "name": "xmannv/xkey",
+    "url": "https://github.com/xmannv/xkey",
+    "followers": 3,
+    "forks": 30,
+    "stars": 232,
+    "created_at": "2025-12-16",
+    "description": "Vietnamese Input for macOS - B\u1ed9 g\u00f5 Ti\u1ebfng Vi\u1ec7t m\u00e3 ngu\u1ed3n m\u1edf cho macOS"
+  },
+  {
+    "name": "MrSibe/KnowNote",
+    "url": "https://github.com/MrSibe/KnowNote",
+    "followers": 3,
+    "forks": 22,
+    "stars": 230,
+    "created_at": "2025-12-15",
+    "description": "\u4e00\u4e2a\u7c7b\u4f3c\u4e8eNotebook LM\uff0c\u4ee5\u7528\u6237\u81ea\u6709\u77e5\u8bc6\u4e3a\u4e2d\u5fc3\u7684 AI \u5de5\u4f5c\u7a7a\u95f4\uff0c\u5e2e\u52a9\u4f60\u601d\u8003\u3001\u7814\u7a76\u4e0e\u5199\u4f5c\u3002\u66f4\u65b9\u4fbf\uff0c\u66f4\u8f7b\u91cf\uff0c\u66f4\u61c2\u4f60\uff01"
+  },
+  {
+    "name": "gemini-cli-extensions/conductor",
+    "url": "https://github.com/gemini-cli-extensions/conductor",
+    "followers": 3,
+    "forks": 12,
+    "stars": 171,
+    "created_at": "2025-12-17",
+    "description": "Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features."
+  },
+  {
+    "name": "sebastienros/comptime",
+    "url": "https://github.com/sebastienros/comptime",
+    "followers": 3,
+    "forks": 2,
+    "stars": 155,
+    "created_at": "2025-12-18",
+    "description": "Comptime brings meta-programming capabilities to C#, enabling compile-time code generation and evaluation."
+  },
+  {
+    "name": "buildermethods/design-os",
+    "url": "https://github.com/buildermethods/design-os",
+    "followers": 3,
+    "forks": 20,
+    "stars": 113,
+    "created_at": "2025-12-16",
+    "description": "The missing design process between your product idea and your codebase."
+  },
+  {
+    "name": "Jarred-Sumner/poof",
+    "url": "https://github.com/Jarred-Sumner/poof",
+    "followers": 3,
+    "forks": 3,
+    "stars": 95,
+    "created_at": "2025-12-18",
+    "description": "Ephemeral filesystem isolation via Linux overlayfs (experimental)"
+  },
+  {
+    "name": "prs-eth/LitePT",
+    "url": "https://github.com/prs-eth/LitePT",
+    "followers": 3,
+    "forks": 8,
+    "stars": 89,
+    "created_at": "2025-12-16",
+    "description": "LitePT: Lighter Yet Stronger Point Transformer"
+  },
+  {
+    "name": "auvred/golar",
+    "url": "https://github.com/auvred/golar",
+    "followers": 3,
+    "forks": 1,
+    "stars": 86,
+    "created_at": "2025-12-15",
+    "description": "Embedded languages framework based on typescript-go"
+  },
+  {
+    "name": "eooce/Gla-deploy",
+    "url": "https://github.com/eooce/Gla-deploy",
+    "followers": 2,
+    "forks": 214,
+    "stars": 1162,
+    "created_at": "2025-12-13",
+    "description": ""
+  },
+  {
+    "name": "XiaomiMiMo/MiMo-V2-Flash",
+    "url": "https://github.com/XiaomiMiMo/MiMo-V2-Flash",
+    "followers": 2,
+    "forks": 21,
+    "stars": 718,
+    "created_at": "2025-12-15",
+    "description": "MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model"
+  },
+  {
+    "name": "hezhizheng/go-wxpush",
+    "url": "https://github.com/hezhizheng/go-wxpush",
+    "followers": 2,
+    "forks": 21,
+    "stars": 398,
+    "created_at": "2025-12-12",
+    "description": "\u6781\u7b80\u4e14\u514d\u8d39\u7684\u5fae\u4fe1\u6d88\u606f\u63a8\u9001\u670d\u52a1 (\u57fa\u4e8egolang)"
+  },
+  {
+    "name": "2025Emma/vibe-coding-cn",
+    "url": "https://github.com/2025Emma/vibe-coding-cn",
+    "followers": 2,
+    "forks": 51,
+    "stars": 396,
+    "created_at": "2025-12-17",
+    "description": ""
+  },
+  {
+    "name": "jgthms/picknplace.js",
+    "url": "https://github.com/jgthms/picknplace.js",
+    "followers": 2,
+    "forks": 11,
+    "stars": 219,
+    "created_at": "2025-12-14",
+    "description": "A proof of concept of a viable drag and drop alternative"
+  },
+  {
+    "name": "hanebox/ekphos",
+    "url": "https://github.com/hanebox/ekphos",
+    "followers": 2,
+    "forks": 10,
+    "stars": 186,
+    "created_at": "2025-12-15",
+    "description": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian"
+  },
+  {
+    "name": "kijai/ComfyUI-SCAIL-Pose",
+    "url": "https://github.com/kijai/ComfyUI-SCAIL-Pose",
+    "followers": 2,
+    "forks": 13,
+    "stars": 172,
+    "created_at": "2025-12-14",
+    "description": "ComfyUI nodes for SCAIL-Pose preprocessing"
+  },
+  {
+    "name": "samwho/llmwalk",
+    "url": "https://github.com/samwho/llmwalk",
+    "followers": 2,
+    "forks": 1,
+    "stars": 141,
+    "created_at": "2025-12-14",
+    "description": "Explore the answer-space of open LLMs"
+  },
+  {
+    "name": "marckohlbrugge/unofficial-37signals-coding-style-guide",
+    "url": "https://github.com/marckohlbrugge/unofficial-37signals-coding-style-guide",
+    "followers": 2,
+    "forks": 9,
+    "stars": 136,
+    "created_at": "2025-12-17",
+    "description": "Transferable Rails patterns and development philosophy extracted from 37signals' Fizzy codebase"
+  },
+  {
+    "name": "PanSalut/Koffan",
+    "url": "https://github.com/PanSalut/Koffan",
+    "followers": 2,
+    "forks": 11,
+    "stars": 117,
+    "created_at": "2025-12-17",
+    "description": "Open source selfhosted groceries list for families and shared households"
+  },
+  {
+    "name": "Suvink/cut-it-out",
+    "url": "https://github.com/Suvink/cut-it-out",
+    "followers": 2,
+    "forks": 22,
+    "stars": 112,
+    "created_at": "2025-12-13",
+    "description": "A browser bases background removal tool for images."
+  },
+  {
+    "name": "yeahhe365/gemini-nexus",
+    "url": "https://github.com/yeahhe365/gemini-nexus",
+    "followers": 2,
+    "forks": 15,
+    "stars": 93,
+    "created_at": "2025-12-19",
+    "description": "A powerful browser extension that integrates Google Gemini AI directly into your web experience. Features include sidebar chat, OCR text extraction, area sniping, and conversation history."
+  },
+  {
+    "name": "badlogic/gccli",
+    "url": "https://github.com/badlogic/gccli",
+    "followers": 2,
+    "forks": 7,
+    "stars": 83,
+    "created_at": "2025-12-12",
+    "description": "Minimal Google Calendar CLI"
+  },
+  {
+    "name": "ralliesai/tenk",
+    "url": "https://github.com/ralliesai/tenk",
+    "followers": 2,
+    "forks": 7,
+    "stars": 78,
+    "created_at": "2025-12-12",
+    "description": "Chat with SEC filings for any investment question"
+  },
+  {
+    "name": "tombcato/clash-ip-checker",
+    "url": "https://github.com/tombcato/clash-ip-checker",
+    "followers": 1,
+    "forks": 50,
+    "stars": 779,
+    "created_at": "2025-12-12",
+    "description": "\ud83e\udd16Automated node IP risk checking and tagging tool for Clash (\u9002\u7528\u4e8e Clash \u4ee3\u7406\u7684\u81ea\u52a8\u5316\u8282\u70b9 IP \u98ce\u9669\u68c0\u67e5\u5e76\u91cd\u547d\u540d\u6807\u8bb0\u5de5\u5177)"
+  },
+  {
+    "name": "eliasjudin/oai-skills",
+    "url": "https://github.com/eliasjudin/oai-skills",
+    "followers": 1,
+    "forks": 98,
+    "stars": 399,
+    "created_at": "2025-12-12",
+    "description": "The contents of /home/oai/skills in ChatGPT's code interpreter environment"
+  },
+  {
+    "name": "GuDaStudio/skills",
+    "url": "https://github.com/GuDaStudio/skills",
+    "followers": 1,
+    "forks": 22,
+    "stars": 383,
+    "created_at": "2025-12-16",
+    "description": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools."
+  },
+  {
+    "name": "Kruszoneq/macUSB",
+    "url": "https://github.com/Kruszoneq/macUSB",
+    "followers": 1,
+    "forks": 11,
+    "stars": 320,
+    "created_at": "2025-12-14",
+    "description": "The easiest way to create legacy macOS bootable drives on modern Macs. Revive old Intel Macs using your Apple Silicon machine - no Terminal knowledge required."
+  },
+  {
+    "name": "mmarinovic/tailwindsql",
+    "url": "https://github.com/mmarinovic/tailwindsql",
+    "followers": 1,
+    "forks": 3,
+    "stars": 244,
+    "created_at": "2025-12-15",
+    "description": ""
+  },
+  {
+    "name": "AshkanYarmoradi/go-invoice-ninja",
+    "url": "https://github.com/AshkanYarmoradi/go-invoice-ninja",
+    "followers": 1,
+    "forks": 3,
+    "stars": 205,
+    "created_at": "2025-12-17",
+    "description": "Go SDK for Invoice Ninja API - payments, invoices, clients, webhooks with retry & rate limiting"
+  },
+  {
+    "name": "Aratako/T5Gemma-TTS",
+    "url": "https://github.com/Aratako/T5Gemma-TTS",
+    "followers": 1,
+    "forks": 23,
+    "stars": 197,
+    "created_at": "2025-12-13",
+    "description": "Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM"
+  },
+  {
+    "name": "superstarryeyes/hys",
+    "url": "https://github.com/superstarryeyes/hys",
+    "followers": 1,
+    "forks": 5,
+    "stars": 175,
+    "created_at": "2025-12-15",
+    "description": "Terminal RSS Reader for Digital Minimalists in Zig \u2014 Tool for Escaping the Doomscroll"
+  },
+  {
+    "name": "NotAnyoneMe/ProxyChecker",
+    "url": "https://github.com/NotAnyoneMe/ProxyChecker",
+    "followers": 1,
+    "forks": 52,
+    "stars": 167,
+    "created_at": "2025-12-13",
+    "description": "HTTP, SOCKS4, SOCKS5 proxies checker with gui style"
+  },
+  {
+    "name": "BesianSherifaj-AI/PromptCraft",
+    "url": "https://github.com/BesianSherifaj-AI/PromptCraft",
+    "followers": 1,
+    "forks": 24,
+    "stars": 167,
+    "created_at": "2025-12-13",
+    "description": "An AI image gen prompt manager !"
+  },
+  {
+    "name": "Ami3466/tomcp",
+    "url": "https://github.com/Ami3466/tomcp",
+    "followers": 1,
+    "forks": 12,
+    "stars": 138,
+    "created_at": "2025-12-12",
+    "description": "Turn any website or doc into an MCP server"
+  },
+  {
+    "name": "klezVirus/Moonwalk--",
+    "url": "https://github.com/klezVirus/Moonwalk--",
+    "followers": 1,
+    "forks": 16,
+    "stars": 138,
+    "created_at": "2025-12-15",
+    "description": "Moonwalk++: Simple POC Combining StackMoonwalking and Memory Encryption"
+  },
+  {
+    "name": "Minerchu/dongguaTV",
+    "url": "https://github.com/Minerchu/dongguaTV",
+    "followers": 1,
+    "forks": 50,
+    "stars": 136,
+    "created_at": "2025-12-15",
+    "description": "\u51ac\u74dcTV \u2014\u2014 \u6253\u9020\u4f60\u7684\u79c1\u4eba Netflix\uff01TMDb \u667a\u80fd\u522e\u524a + \u5168\u7f51\u805a\u5408 + \u6781\u901f\u64ad\u653e"
+  },
+  {
+    "name": "jwadow/kiro-openai-gateway",
+    "url": "https://github.com/jwadow/kiro-openai-gateway",
+    "followers": 1,
+    "forks": 29,
+    "stars": 132,
+    "created_at": "2025-12-13",
+    "description": "OpenAI-compatible API gateway for Kiro IDE (AWS CodeWhisperer). Use free Claude models with any OpenAI client."
+  },
+  {
+    "name": "Cranot/deep-research",
+    "url": "https://github.com/Cranot/deep-research",
+    "followers": 1,
+    "forks": 13,
+    "stars": 126,
+    "created_at": "2025-12-14",
+    "description": "Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents."
+  },
+  {
+    "name": "yashwanthkkn/spector",
+    "url": "https://github.com/yashwanthkkn/spector",
+    "followers": 1,
+    "forks": 3,
+    "stars": 118,
+    "created_at": "2025-12-17",
+    "description": "A lightweight network and dependency inspector for ASP.NET Core applications. Spector captures HTTP traces (incoming and outgoing requests) and provides a real-time web UI for monitoring and debugging."
+  },
+  {
+    "name": "chaos-zhu/easyimg",
+    "url": "https://github.com/chaos-zhu/easyimg",
+    "followers": 1,
+    "forks": 8,
+    "stars": 110,
+    "created_at": "2025-12-14",
+    "description": "\u9002\u7528\u4e8e\u4e2a\u4eba\u7684\u4e00\u7ad9\u5f0f\u56fe\u5e8a\u670d\u52a1\uff0c\u66f4\u65b0\u901a\u77e5TG\uff1a"
+  },
+  {
+    "name": "Stewart86/hamr",
+    "url": "https://github.com/Stewart86/hamr",
+    "followers": 1,
+    "forks": 2,
+    "stars": 109,
+    "created_at": "2025-12-12",
+    "description": "Hamr is an extensible launcher for Hyprland built with Quickshell. Extend it with plugins that can be written in any languages."
+  },
+  {
+    "name": "tsoding/lamb",
+    "url": "https://github.com/tsoding/lamb",
+    "followers": 1,
+    "forks": 1,
+    "stars": 105,
+    "created_at": "2025-12-16",
+    "description": "Smallest Pure Functional Programming Language in C"
+  },
+  {
+    "name": "ysharma3501/MiraTTS",
+    "url": "https://github.com/ysharma3501/MiraTTS",
+    "followers": 1,
+    "forks": 9,
+    "stars": 104,
+    "created_at": "2025-12-17",
+    "description": "A high quality and fast TTS repository"
+  },
+  {
+    "name": "danja/dogalog",
+    "url": "https://github.com/danja/dogalog",
+    "followers": 1,
+    "forks": 2,
+    "stars": 103,
+    "created_at": "2025-12-12",
+    "description": "livecoding prolog style"
+  },
+  {
+    "name": "shuxueshuxue/SpexFlow",
+    "url": "https://github.com/shuxueshuxue/SpexFlow",
+    "followers": 1,
+    "forks": 19,
+    "stars": 101,
+    "created_at": "2025-12-12",
+    "description": "Node-based workflow for orchestrating codebase context and specifications for AI agents."
+  },
+  {
+    "name": "aiclientproxy/proxycast",
+    "url": "https://github.com/aiclientproxy/proxycast",
+    "followers": 1,
+    "forks": 21,
+    "stars": 101,
+    "created_at": "2025-12-13",
+    "description": "\u8ba9 AI \u7f16\u8f91\u5668\u4e4b\u95f4\u81ea\u7136\u6d41\u52a8\uff0c\u4e0d\u4ec5\u4ec5\u53ef\u4ee5\u5176\u4ed6\u5de5\u5177\u4f7f\u7528\uff0c\u4e5f\u53ef\u4ee5\u8f6c\u6362\u6210 api \u4e3a\u672c\u5730\u5f00\u53d1\u63d0\u4f9b\u52a8\u529b\u3002"
+  },
+  {
+    "name": "mdsaban/universal-app-opener",
+    "url": "https://github.com/mdsaban/universal-app-opener",
+    "followers": 1,
+    "forks": 14,
+    "stars": 100,
+    "created_at": "2025-12-18",
+    "description": "A zero-dependency JavaScript library that converts standard HTTP URLs (YouTube, LinkedIn) into Native Mobile Deep Links (Custom Schemes & Android Intents)."
+  },
+  {
+    "name": "atgreen/icl",
+    "url": "https://github.com/atgreen/icl",
+    "followers": 1,
+    "forks": 3,
+    "stars": 95,
+    "created_at": "2025-12-13",
+    "description": "Interactive Common Lisp: an enhanced REPL"
+  },
+  {
+    "name": "KlingTeam/SVG-T2I",
+    "url": "https://github.com/KlingTeam/SVG-T2I",
+    "followers": 1,
+    "forks": 0,
+    "stars": 94,
+    "created_at": "2025-12-12",
+    "description": "Official PyTorch Implementation of \"SVG-T2I: Scaling up Text-to-Image Latent Diffusion Model Without Variational Autoencoder\"."
+  },
+  {
+    "name": "eraycc/AutoGLM-TERMUX",
+    "url": "https://github.com/eraycc/AutoGLM-TERMUX",
+    "followers": 1,
+    "forks": 21,
+    "stars": 89,
+    "created_at": "2025-12-12",
+    "description": "\u5728\u5b89\u5353\u624b\u673a\u4e0a\u901a\u8fc7 Termux \u5feb\u901f\u90e8\u7f72 Open-AutoGLM \u667a\u80fd\u4f53\uff0c\u652f\u6301 AI \u8bed\u97f3\u8bc6\u522b\uff0c\u65e0\u9700Root\u6216\u7535\u8111\uff0c\u5373\u53ef\u5b9e\u73b0\u624b\u673a\u81ea\u52a8\u5316\u64cd\u4f5c\uff01Quickly deploy Open-AutoGLM agent on Android phone using Termux. Support AI voice recognition and enable automated operation of your phone without Root or PC!"
+  },
+  {
+    "name": "levu304/claude-code-boilerplate",
+    "url": "https://github.com/levu304/claude-code-boilerplate",
+    "followers": 1,
+    "forks": 56,
+    "stars": 88,
+    "created_at": "2025-12-16",
+    "description": "Universal coding standards and AI agent configurations for Claude Code projects"
+  },
+  {
+    "name": "fcoury/tsql",
+    "url": "https://github.com/fcoury/tsql",
+    "followers": 0,
+    "forks": 4,
+    "stars": 306,
+    "created_at": "2025-12-12",
+    "description": "\ud83d\udc18 tsql \u2014 A modern PostgreSQL manager TUI"
+  },
+  {
+    "name": "waynesutton/markdown-site",
+    "url": "https://github.com/waynesutton/markdown-site",
+    "followers": 0,
+    "forks": 44,
+    "stars": 306,
+    "created_at": "2025-12-14",
+    "description": "A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery."
+  },
+  {
+    "name": "aiflowy/aiflowy",
+    "url": "https://github.com/aiflowy/aiflowy",
+    "followers": 0,
+    "forks": 2,
+    "stars": 269,
+    "created_at": "2025-12-15",
+    "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
+  },
+  {
+    "name": "terauss/Polymarket-Kalshi-Arbitrage-bot",
+    "url": "https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot",
+    "followers": 0,
+    "forks": 250,
+    "stars": 254,
+    "created_at": "2025-12-18",
+    "description": "Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market. "
+  },
+  {
+    "name": "moasq/production-saas-starter",
+    "url": "https://github.com/moasq/production-saas-starter",
+    "followers": 0,
+    "forks": 26,
+    "stars": 187,
+    "created_at": "2025-12-16",
+    "description": "Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolith. Hexagonal Arch."
+  },
+  {
+    "name": "curionox/lifekline",
+    "url": "https://github.com/curionox/lifekline",
+    "followers": 0,
+    "forks": 275,
+    "stars": 170,
+    "created_at": "2025-12-14",
+    "description": "\u4eba\u751fK\u7ebf - \u57fa\u4e8eAI\u7684\u516b\u5b57\u547d\u7406\u53ef\u89c6\u5316\u5de5\u5177"
+  },
+  {
+    "name": "inclusionAI/AEnvironment",
+    "url": "https://github.com/inclusionAI/AEnvironment",
+    "followers": 0,
+    "forks": 19,
+    "stars": 171,
+    "created_at": "2025-12-16",
+    "description": "Standardized environment infrastructure for Agentic AI development."
+  },
+  {
+    "name": "lb-li/WinIsland",
+    "url": "https://github.com/lb-li/WinIsland",
+    "followers": 0,
+    "forks": 7,
+    "stars": 151,
+    "created_at": "2025-12-12",
+    "description": ""
+  },
+  {
+    "name": "josejacas/SwiftAnimPlayground",
+    "url": "https://github.com/josejacas/SwiftAnimPlayground",
+    "followers": 0,
+    "forks": 10,
+    "stars": 148,
+    "created_at": "2025-12-12",
+    "description": ""
+  },
+  {
+    "name": "nexxeln/opencode-config",
+    "url": "https://github.com/nexxeln/opencode-config",
+    "followers": 0,
+    "forks": 6,
+    "stars": 144,
+    "created_at": "2025-12-16",
+    "description": "my opencode config"
+  },
+  {
+    "name": "lvgalvao/pipeline-api-bitcoin-com-databricks",
+    "url": "https://github.com/lvgalvao/pipeline-api-bitcoin-com-databricks",
+    "followers": 0,
+    "forks": 12,
+    "stars": 125,
+    "created_at": "2025-12-16",
+    "description": ""
+  },
+  {
+    "name": "ByteDance-Seed/Seed-1.8",
+    "url": "https://github.com/ByteDance-Seed/Seed-1.8",
+    "followers": 0,
+    "forks": 2,
+    "stars": 124,
+    "created_at": "2025-12-17",
+    "description": ""
+  },
+  {
+    "name": "rehuan/AI-ANSWER-ASSISTANT",
+    "url": "https://github.com/rehuan/AI-ANSWER-ASSISTANT",
+    "followers": 0,
+    "forks": 16,
+    "stars": 118,
+    "created_at": "2025-12-16",
+    "description": "\u4e00\u4e2a\u667a\u80fd\u7684\u6d4f\u89c8\u5668\u7b54\u9898\u63d2\u4ef6\uff0c\u80fd\u591f\u81ea\u52a8\u8bc6\u522b\u7f51\u9875\u4e2d\u7684\u9898\u76ee\uff08\u5355\u9009\u3001\u591a\u9009\u3001\u586b\u7a7a\u9898\uff09\uff0c\u901a\u8fc7AI\u5927\u6a21\u578b\u83b7\u53d6\u7b54\u6848\u5e76\u81ea\u52a8\u586b\u5199\u3002"
+  },
+  {
+    "name": "tasselx/Keyden",
+    "url": "https://github.com/tasselx/Keyden",
+    "followers": 0,
+    "forks": 2,
+    "stars": 117,
+    "created_at": "2025-12-14",
+    "description": "Keyden is a clean and elegant macOS menu bar TOTP authenticator \u2014 securely store secrets in macOS Keychain, add accounts via QR code scanning, and copy codes with one click . Keyden \u662f\u4e00\u6b3e\u7b80\u6d01\u4f18\u96c5\u7684 macOS \u83dc\u5355\u680f TOTP \u9a8c\u8bc1\u5668\u2014\u2014\u5bc6\u94a5\u5b89\u5168\u5b58\u50a8\u4e8e macOS \u94a5\u5319\u4e32\uff0c\u652f\u6301\u626b\u7801\u6dfb\u52a0\u8d26\u53f7\u4e0e\u4e00\u952e\u590d\u5236\u9a8c\u8bc1\u7801"
+  },
+  {
+    "name": "xinzezhu/Open-AutoGLM-Android",
+    "url": "https://github.com/xinzezhu/Open-AutoGLM-Android",
+    "followers": 0,
+    "forks": 23,
+    "stars": 115,
+    "created_at": "2025-12-14",
+    "description": "\u5b89\u5353\u7248\u7684AutoGLM\uff0c\u4e0d\u9700\u8981\u90e8\u7f72\u76f4\u63a5\u5b89\u88c5\u5c31\u53ef\u4ee5\u4f7f\u7528\uff0c\u6b22\u8fce\u5171\u5efa~"
+  },
+  {
+    "name": "simonw/justjshtml",
+    "url": "https://github.com/simonw/justjshtml",
+    "followers": 0,
+    "forks": 6,
+    "stars": 102,
+    "created_at": "2025-12-15",
+    "description": "JavaScript port of EmilStenstrom/justhtml"
+  },
+  {
+    "name": "girachawda/SnapchatMemoryDownloader",
+    "url": "https://github.com/girachawda/SnapchatMemoryDownloader",
+    "followers": 0,
+    "forks": 12,
+    "stars": 100,
+    "created_at": "2025-12-15",
+    "description": "Download your snapchat memories straight to your external hard drive!"
+  },
+  {
+    "name": "kingshuaishuai/incremark",
+    "url": "https://github.com/kingshuaishuai/incremark",
+    "followers": 0,
+    "forks": 4,
+    "stars": 93,
+    "created_at": "2025-12-14",
+    "description": ""
+  },
+  {
+    "name": "vivienhenz24/fuzzy-canary",
+    "url": "https://github.com/vivienhenz24/fuzzy-canary",
+    "followers": 0,
+    "forks": 4,
+    "stars": 93,
+    "created_at": "2025-12-13",
+    "description": "Poor-man's solution to stopping AI companies from scraping your blog"
+  },
+  {
+    "name": "jufeng-2022/mtywatch",
+    "url": "https://github.com/jufeng-2022/mtywatch",
+    "followers": 0,
+    "forks": 11,
+    "stars": 89,
+    "created_at": "2025-12-14",
+    "description": "\u4e00\u53e5\u8bdd\u76d1\u63a7\u7f51\u9875\u5185\u5bb9\u53d8\u5316\uff0cAI | \u722c\u866b | \u7f51\u9875\u76d1\u63a7 | \u7f51\u9875\u66f4\u65b0\u63d0\u9192 | \u7f51\u9875\u5185\u5bb9\u8ba2\u9605"
+  },
+  {
+    "name": "hoangvu12/subgrid",
+    "url": "https://github.com/hoangvu12/subgrid",
+    "followers": 0,
+    "forks": 19,
+    "stars": 88,
+    "created_at": "2025-12-12",
+    "description": ""
+  },
+  {
+    "name": "Wei-Shaw/sub2api",
+    "url": "https://github.com/Wei-Shaw/sub2api",
+    "followers": 0,
+    "forks": 25,
+    "stars": 87,
+    "created_at": "2025-12-18",
+    "description": "Sub2API-\u4e00\u7ad9\u5f0f\u5f00\u6e90\u4e2d\u8f6c\u670d\u52a1\uff0c\u8ba9 Claude\u8ba2\u9605\u7edf\u4e00\u63a5\u5165\uff0c\u652f\u6301\u62fc\u8f66\u5171\u4eab\uff0c\u66f4\u9ad8\u6548\u5206\u644a\u6210\u672c\uff0c\u539f\u751f\u5de5\u5177\u65e0\u7f1d\u4f7f\u7528\u3002"
+  },
+  {
+    "name": "leoz9/AIWardrobe",
+    "url": "https://github.com/leoz9/AIWardrobe",
+    "followers": 0,
+    "forks": 14,
+    "stars": 86,
+    "created_at": "2025-12-13",
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001 AI \u7684\u8863\u6a71\u7ba1\u7406\u4e0e\u7a7f\u642d\u63a8\u8350\u7cfb\u7edf\u3002 \u4f7f\u7528\u56fe\u50cf\u7406\u89e3\u4e0e\u5927\u6a21\u578b\u80fd\u529b\uff0c\u5bf9\u8863\u7269\u8fdb\u884c\u7ba1\u7406\u4e0e\u642d\u914d\u63a8\u8350\u3002"
+  },
+  {
+    "name": "tuckershannon/ESP32-Desktop-Monitor",
+    "url": "https://github.com/tuckershannon/ESP32-Desktop-Monitor",
+    "followers": 0,
+    "forks": 2,
+    "stars": 85,
+    "created_at": "2025-12-17",
+    "description": ""
+  },
+  {
+    "name": "shiyi-0x7f/olib-mobile",
+    "url": "https://github.com/shiyi-0x7f/olib-mobile",
+    "followers": 0,
+    "forks": 3,
+    "stars": 82,
+    "created_at": "2025-12-15",
+    "description": "\ud83e\udd16 An open-source ebook reader built entirely with AI assistance. Third-party client, frontend interface only."
+  },
+  {
+    "name": "Infatoshi/docs.md",
+    "url": "https://github.com/Infatoshi/docs.md",
+    "followers": 0,
+    "forks": 9,
+    "stars": 81,
+    "created_at": "2025-12-16",
+    "description": ""
+  }
+]
