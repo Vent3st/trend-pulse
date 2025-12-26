@@ -37,3 +37,6 @@ Thumbs.db
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# Raw API response files (contain verbose data)
+scripts/*_raw.json
