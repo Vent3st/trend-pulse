@@ -108,7 +108,7 @@ export const RepoTable: React.FC<RepoTableProps> = ({ repos, loading, sortConfig
               align="left"
             />
             <SortableHeader
-              label="Followers"
+              label="Watchers"
               sortKey="followers"
               icon={<Users className="w-4 h-4 text-[var(--accent-primary)]" />}
               sortConfig={sortConfig}

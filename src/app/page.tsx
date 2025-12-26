@@ -91,7 +91,7 @@ export default function Dashboard() {
           
           <p className="text-[17px] sm:text-lg text-[var(--text-secondary)] max-w-2xl mx-auto leading-relaxed">
             Discover trending GitHub repositories ranked by{' '}
-            <span className="text-[var(--text-primary)] font-medium">true follower counts</span>
+            <span className="text-[var(--text-primary)] font-medium">true watcher counts</span>
             —real engagement metrics, not just stars.
           </p>
         </header>
@@ -100,7 +100,7 @@ export default function Dashboard() {
         <section className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12">
           <StatCard
             icon={<Eye className="w-5 h-5" />}
-            label="Total Followers"
+            label="Total Watchers"
             value={stats.totalFollowers.toLocaleString()}
             color="var(--accent-primary)"
           />
@@ -112,7 +112,7 @@ export default function Dashboard() {
           />
           <StatCard
             icon={<TrendingUp className="w-5 h-5" />}
-            label="Avg Followers"
+            label="Avg Watchers"
             value={stats.avgFollowers.toLocaleString()}
             color="var(--accent-purple)"
           />
