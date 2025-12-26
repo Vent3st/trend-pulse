@@ -8,13 +8,15 @@ import json
 import os
 import subprocess
 from datetime import datetime, timedelta
+from urllib.parse import quote
 
 # Use environment variable or fallback
 TOKEN = os.environ.get('GITHUB_TOKEN', '')
 
 def fetch_repos(query: str, output_file: str):
     """Fetch repos from GitHub Search API."""
-    url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=100"
+    encoded_query = quote(query)
+    url = f"https://api.github.com/search/repositories?q={encoded_query}&sort=stars&order=desc&per_page=100"
     
     headers = [
         "-H", "Accept: application/vnd.github.v3+json",
@@ -22,18 +24,34 @@ def fetch_repos(query: str, output_file: str):
     if TOKEN:
         headers.extend(["-H", f"Authorization: token {TOKEN}"])
     
-    cmd = ["curl", "-s"] + headers + [url]
+    cmd = ["curl", "-s", "--fail-with-body"] + headers + [url]
     
     try:
         result = subprocess.run(cmd, capture_output=True, text=True)
-        if result.returncode == 0:
-            data = json.loads(result.stdout)
-            with open(output_file, 'w') as f:
-                json.dump(data, f, indent=2)
-            print(f"✓ Saved {len(data.get('items', []))} repos to {output_file}")
-            return True
+        if result.returncode != 0:
+            print(f"✗ curl failed with code {result.returncode} for {os.path.basename(output_file)}")
+            if result.stderr:
+                print(f"  stderr: {result.stderr}")
+            return False
+        
+        if not result.stdout:
+            print(f"✗ Empty response for {os.path.basename(output_file)}")
+            return False
+            
+        data = json.loads(result.stdout)
+        
+        if 'message' in data and 'items' not in data:
+            print(f"✗ API error: {data.get('message', 'Unknown error')}")
+            return False
+            
+        with open(output_file, 'w') as f:
+            json.dump(data, f, indent=2)
+        print(f"✓ Saved {len(data.get('items', []))} repos to {os.path.basename(output_file)}")
+        return True
+    except json.JSONDecodeError as e:
+        print(f"✗ Invalid JSON response for {os.path.basename(output_file)}: {e}")
     except Exception as e:
-        print(f"✗ Error fetching {output_file}: {e}")
+        print(f"✗ Error fetching {os.path.basename(output_file)}: {e}")
     return False
 
 def main():
