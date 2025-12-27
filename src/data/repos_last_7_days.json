@@ -4,7 +4,7 @@
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "followers": 30,
     "forks": 271,
-    "stars": 3359,
+    "stars": 3372,
     "created_at": "2025-12-21",
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
   },
@@ -13,7 +13,7 @@
     "url": "https://github.com/bellard/mquickjs",
     "followers": 26,
     "forks": 149,
-    "stars": 4320,
+    "stars": 4327,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
@@ -21,8 +21,8 @@
     "name": "antonmedv/textarea",
     "url": "https://github.com/antonmedv/textarea",
     "followers": 11,
-    "forks": 54,
-    "stars": 817,
+    "forks": 55,
+    "stars": 824,
     "created_at": "2025-12-22",
     "description": "A minimalist text editor that lives URL"
   },
@@ -31,7 +31,7 @@
     "url": "https://github.com/ratava/lumina-energy-card",
     "followers": 7,
     "forks": 12,
-    "stars": 98,
+    "stars": 99,
     "created_at": "2025-12-21",
     "description": "Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays"
   },
@@ -40,7 +40,7 @@
     "url": "https://github.com/xcc-zach/xtalk",
     "followers": 6,
     "forks": 5,
-    "stars": 77,
+    "stars": 78,
     "created_at": "2025-12-21",
     "description": "X-Talk is an open-source full-duplex cascaded spoken dialogue system framework enabling low-latency, interruptible, and human-like speech interaction with a lightweight, pure-Python, production-ready architecture."
   },
@@ -67,7 +67,7 @@
     "url": "https://github.com/dennisyang1986/opensqt_market_maker",
     "followers": 4,
     "forks": 239,
-    "stars": 529,
+    "stars": 530,
     "created_at": "2025-12-24",
     "description": "OpenSQT \u662f\u4e00\u4e2a\u9ad8\u6027\u80fd\u3001\u4f4e\u5ef6\u8fdf\u7684\u52a0\u5bc6\u8d27\u5e01\u505a\u5e02\u5546\u7cfb\u7edf\uff0c\u4e13\u6ce8\u4e8e\u6c38\u7eed\u5408\u7ea6\u5e02\u573a\u7684\u505a\u591a\u7f51\u683c\u4ea4\u6613\u7b56\u7565\u3002\u7cfb\u7edf\u91c7\u7528 Go \u8bed\u8a00\u5f00\u53d1\uff0c\u57fa\u4e8e WebSocket \u5b9e\u65f6\u6570\u636e\u6d41\u9a71\u52a8\uff0c\u65e8\u5728\u4e3a Binance\u3001Bitget\u3001Gate.io \u7b49\u4e3b\u6d41\u4ea4\u6613\u6240\u63d0\u4f9b\u7a33\u5b9a\u7684\u6d41\u52a8\u6027\u652f\u6301\u3002"
   },
@@ -79,6 +79,15 @@
     "stars": 406,
     "created_at": "2025-12-22",
     "description": "WebGL-powered React Component for video to ASCII conversion"
+  },
+  {
+    "name": "WeichenFan/UAE",
+    "url": "https://github.com/WeichenFan/UAE",
+    "followers": 4,
+    "forks": 2,
+    "stars": 102,
+    "created_at": "2025-12-22",
+    "description": "Official repo for UAE"
   },
   {
     "name": "Turbo1123/turbometa-rayban-ai",
@@ -103,7 +112,7 @@
     "url": "https://github.com/eyeblech/cinecli",
     "followers": 3,
     "forks": 24,
-    "stars": 589,
+    "stars": 590,
     "created_at": "2025-12-21",
     "description": "CineCLI is a cross-platform command-line movie browser built with Python."
   },
@@ -112,7 +121,7 @@
     "url": "https://github.com/leedrake5/unredact",
     "followers": 3,
     "forks": 53,
-    "stars": 416,
+    "stars": 417,
     "created_at": "2025-12-23",
     "description": "A simple tool for reading in poorly redacted documents and reproducing their origional form"
   },
@@ -135,15 +144,6 @@
     "description": "AI writing agent powered by gemini 3 flash - autonomously creates novels and stories with deep reasoning"
   },
   {
-    "name": "WeichenFan/UAE",
-    "url": "https://github.com/WeichenFan/UAE",
-    "followers": 3,
-    "forks": 2,
-    "stars": 102,
-    "created_at": "2025-12-22",
-    "description": "Official repo for UAE"
-  },
-  {
     "name": "SourByte05/Vulnerability-Wiki-PoC",
     "url": "https://github.com/SourByte05/Vulnerability-Wiki-PoC",
     "followers": 3,
@@ -162,11 +162,20 @@
     "description": "A curated collection of my top AI-powered APIs for website optimization, SEO, conversions, and social media growth. This stack covers everything from data extraction and copywriting to landing page optimization and automated social content generation. Built for developers, marketers, and founders who want real growth tools \u2014 not fluff."
   },
   {
+    "name": "HyoKong/WorldWarp",
+    "url": "https://github.com/HyoKong/WorldWarp",
+    "followers": 3,
+    "forks": 4,
+    "stars": 60,
+    "created_at": "2025-12-22",
+    "description": "Long-range camera-conditioned scene generation from one single image."
+  },
+  {
     "name": "parcadei/Continuous-Claude",
     "url": "https://github.com/parcadei/Continuous-Claude",
     "followers": 2,
     "forks": 43,
-    "stars": 567,
+    "stars": 569,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -175,7 +184,7 @@
     "url": "https://github.com/remorses/tuitube",
     "followers": 2,
     "forks": 9,
-    "stars": 303,
+    "stars": 304,
     "created_at": "2025-12-22",
     "description": "Download videos from the command line with a TUI"
   },
@@ -183,7 +192,7 @@
     "name": "KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
     "url": "https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
     "followers": 2,
-    "forks": 35,
+    "forks": 36,
     "stars": 264,
     "created_at": "2025-12-21",
     "description": "100+ RAG interview questions with answers."
@@ -193,9 +202,18 @@
     "url": "https://github.com/siinghd/yourinfo",
     "followers": 2,
     "forks": 26,
-    "stars": 215,
+    "stars": 216,
     "created_at": "2025-12-24",
     "description": "Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization"
+  },
+  {
+    "name": "abhishekkrthakur/NyRAG",
+    "url": "https://github.com/abhishekkrthakur/NyRAG",
+    "followers": 2,
+    "forks": 21,
+    "stars": 185,
+    "created_at": "2025-12-22",
+    "description": "advanced, scalable, no-code RAG"
   },
   {
     "name": "popovicu/ultimate-linux",
@@ -252,20 +270,20 @@
     "description": "Modernes Glassmorphism-Dashboard f\u00fcr Home Assistant auf Basis von Mushroom Cards"
   },
   {
-    "name": "HyoKong/WorldWarp",
-    "url": "https://github.com/HyoKong/WorldWarp",
+    "name": "longvideoagent/LongVideoAgent",
+    "url": "https://github.com/longvideoagent/LongVideoAgent",
     "followers": 2,
-    "forks": 4,
-    "stars": 60,
-    "created_at": "2025-12-22",
-    "description": "Long-range camera-conditioned scene generation from one single image."
+    "forks": 3,
+    "stars": 63,
+    "created_at": "2025-12-24",
+    "description": ""
   },
   {
     "name": "ManifoldTechLtd/Odin-Nav-Stack",
     "url": "https://github.com/ManifoldTechLtd/Odin-Nav-Stack",
     "followers": 2,
     "forks": 2,
-    "stars": 59,
+    "stars": 60,
     "created_at": "2025-12-25",
     "description": "An open-source navigation stack based on Odin1."
   },
@@ -291,8 +309,8 @@
     "name": "ClashConnectRules/Self-Configuration",
     "url": "https://github.com/ClashConnectRules/Self-Configuration",
     "followers": 1,
-    "forks": 30,
-    "stars": 431,
+    "forks": 32,
+    "stars": 448,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -306,20 +324,11 @@
     "description": "App for agentic coding - access coding agent anywhere"
   },
   {
-    "name": "abhishekkrthakur/NyRAG",
-    "url": "https://github.com/abhishekkrthakur/NyRAG",
-    "followers": 1,
-    "forks": 21,
-    "stars": 183,
-    "created_at": "2025-12-22",
-    "description": "advanced, scalable, no-code RAG"
-  },
-  {
     "name": "ink1ing/anti-api",
     "url": "https://github.com/ink1ing/anti-api",
     "followers": 1,
-    "forks": 7,
-    "stars": 154,
+    "forks": 8,
+    "stars": 155,
     "created_at": "2025-12-24",
     "description": "Turn Antigravity into Anthropic API compatible server. Usable with Claude Code / Xcode / Cherry Studio / ChatWise!"
   },
@@ -333,6 +342,15 @@
     "description": "Lagident pings targets and collects information about response time and packet loss. Helps you identify anomalies across your network"
   },
   {
+    "name": "simonw/claude-code-transcripts",
+    "url": "https://github.com/simonw/claude-code-transcripts",
+    "followers": 1,
+    "forks": 17,
+    "stars": 144,
+    "created_at": "2025-12-24",
+    "description": "Tools for publishing transcripts for Claude Code sessions"
+  },
+  {
     "name": "0x0funky/audioghost-ai",
     "url": "https://github.com/0x0funky/audioghost-ai",
     "followers": 1,
@@ -342,20 +360,11 @@
     "description": "Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI."
   },
   {
-    "name": "simonw/claude-code-transcripts",
-    "url": "https://github.com/simonw/claude-code-transcripts",
-    "followers": 1,
-    "forks": 17,
-    "stars": 142,
-    "created_at": "2025-12-24",
-    "description": "Tools for publishing transcripts for Claude Code sessions"
-  },
-  {
     "name": "asklokesh/claudeskill-loki-mode",
     "url": "https://github.com/asklokesh/claudeskill-loki-mode",
     "followers": 1,
     "forks": 23,
-    "stars": 116,
+    "stars": 120,
     "created_at": "2025-12-26",
     "description": "Multi-agent autonomous startup system for Claude Code"
   },
@@ -364,7 +373,7 @@
     "url": "https://github.com/nguyenphutrong/quotio",
     "followers": 1,
     "forks": 19,
-    "stars": 113,
+    "stars": 114,
     "created_at": "2025-12-24",
     "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions \u2013 with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid."
   },
@@ -382,7 +391,7 @@
     "url": "https://github.com/AkideLiu/betterclaude-workers",
     "followers": 1,
     "forks": 14,
-    "stars": 101,
+    "stars": 102,
     "created_at": "2025-12-25",
     "description": "BetterClaude API Gateway"
   },
@@ -436,7 +445,7 @@
     "url": "https://github.com/joe-desimone/mongobleed",
     "followers": 1,
     "forks": 7,
-    "stars": 64,
+    "stars": 65,
     "created_at": "2025-12-26",
     "description": ""
   },
@@ -448,15 +457,6 @@
     "stars": 63,
     "created_at": "2025-12-22",
     "description": "UI for Backup automation over SSH, replacing custom shell scripts and cron configurations, as a binary < 50 MB"
-  },
-  {
-    "name": "longvideoagent/LongVideoAgent",
-    "url": "https://github.com/longvideoagent/LongVideoAgent",
-    "followers": 1,
-    "forks": 3,
-    "stars": 63,
-    "created_at": "2025-12-24",
-    "description": ""
   },
   {
     "name": "BitTheByte/Jarida",
@@ -499,7 +499,7 @@
     "url": "https://github.com/Maldev-Academy/DumpChromeSecrets",
     "followers": 0,
     "forks": 24,
-    "stars": 189,
+    "stars": 190,
     "created_at": "2025-12-21",
     "description": "Extract data from modern Chrome versions, including refresh tokens, cookies, saved credentials, autofill data, browsing history, and bookmarks"
   },
@@ -508,7 +508,7 @@
     "url": "https://github.com/Chil30/vless-all-in-one",
     "followers": 0,
     "forks": 40,
-    "stars": 163,
+    "stars": 166,
     "created_at": "2025-12-21",
     "description": "\ud83d\ude80 v2.0 All-in-One Proxy Script: One-click deployment for 15 protocols including VLESS Reality, Hysteria2, TUIC v5, and Snell. Now supports multi-protocol coexistence, automatic BBR optimization, and easy Server/Client setup on Debian, Ubuntu, CentOS, and Alpine."
   },
@@ -517,7 +517,7 @@
     "url": "https://github.com/MiniMax-AI/MiniMax-M2.1",
     "followers": 0,
     "forks": 10,
-    "stars": 153,
+    "stars": 154,
     "created_at": "2025-12-22",
     "description": "MiniMax M2.1, a SOTA model for real-world dev & agents."
   },
@@ -535,7 +535,7 @@
     "url": "https://github.com/tronghieuit/valtec-tts",
     "followers": 0,
     "forks": 58,
-    "stars": 126,
+    "stars": 127,
     "created_at": "2025-12-24",
     "description": "A Vietnamese Text-to-Speech system supporting multiple speakers with high-quality voice synthesis."
   },
@@ -589,7 +589,7 @@
     "url": "https://github.com/serendipity1004/cc-feature-implementer",
     "followers": 0,
     "forks": 68,
-    "stars": 87,
+    "stars": 88,
     "created_at": "2025-12-23",
     "description": ""
   },
@@ -616,7 +616,7 @@
     "url": "https://github.com/LAOGOU-666/ComfyUI-LG_SamplingUtils",
     "followers": 0,
     "forks": 3,
-    "stars": 83,
+    "stars": 84,
     "created_at": "2025-12-24",
     "description": ""
   },
@@ -643,7 +643,7 @@
     "url": "https://github.com/chongdashu/cc-skills-nanobananapro",
     "followers": 0,
     "forks": 16,
-    "stars": 72,
+    "stars": 73,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -877,7 +877,7 @@
     "url": "https://github.com/TalashNetCom/MiniKuma",
     "followers": 0,
     "forks": 0,
-    "stars": 56,
+    "stars": 57,
     "created_at": "2025-12-24",
     "description": "Uptime-Kuma CSS for Status Page | Give your UptimeKuma status page a minimal look with custom CSS only"
   },
@@ -891,12 +891,12 @@
     "description": "\u95f2\u9c7c\u5361\u5bc6\u673a\u5668\u4eba - \u81ea\u52a8\u56de\u590d\u3001\u81ea\u52a8\u53d1\u8d27\u3001\u8ba2\u5355\u7ba1\u7406\u3001\u591a\u8d26\u53f7\u652f\u6301"
   },
   {
-    "name": "Flasherking-ctrl/congenial-fiesta",
-    "url": "https://github.com/Flasherking-ctrl/congenial-fiesta",
+    "name": "valdanylchuk/xcc700",
+    "url": "https://github.com/valdanylchuk/xcc700",
     "followers": 0,
-    "forks": 0,
+    "forks": 1,
     "stars": 54,
-    "created_at": "2025-12-25",
-    "description": ""
+    "created_at": "2025-12-26",
+    "description": "mini C compiler for esp32"
   }
 ]
