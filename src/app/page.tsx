@@ -3,7 +3,17 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { RepoTable, Repo, SortConfig } from '@/components/RepoTable';
 import { FilterButtons, TimeFilter } from '@/components/FilterButtons';
-import { TrendingUp, Zap, Eye, Clock } from 'lucide-react';
+import { TrendingUp, Eye, Clock, GitFork, Star } from 'lucide-react';
+
+// Calculate days since creation (minimum 1 to avoid division by zero)
+function getDaysSinceCreation(dateStr: string): number {
+  if (!dateStr) return 1;
+  const created = new Date(dateStr);
+  const now = new Date();
+  const diffTime = Math.abs(now.getTime() - created.getTime());
+  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+  return Math.max(diffDays, 1);
+}
 
 export default function Dashboard() {
   const [filter, setFilter] = useState<TimeFilter>('30d');
@@ -32,7 +42,18 @@ export default function Dashboard() {
   const sortedRepos = useMemo(() => {
     if (!repos.length) return [];
     
-    return [...repos].sort((a, b) => {
+    // Add computed per-day metrics
+    const reposWithMetrics = repos.map(repo => {
+      const days = getDaysSinceCreation(repo.created_at);
+      return {
+        ...repo,
+        watchersPerDay: repo.followers / days,
+        forksPerDay: repo.forks / days,
+        starsPerDay: repo.stars / days,
+      };
+    });
+    
+    return reposWithMetrics.sort((a, b) => {
       const aVal = a[sortConfig.key];
       const bVal = b[sortConfig.key];
       
@@ -49,13 +70,14 @@ export default function Dashboard() {
   }, [repos, sortConfig]);
 
   const stats = useMemo(() => {
-    if (!repos.length) return { totalFollowers: 0, totalStars: 0, avgFollowers: 0 };
-    const totalFollowers = repos.reduce((acc, r) => acc + r.followers, 0);
+    if (!repos.length) return { totalWatchers: 0, totalStars: 0, totalForks: 0 };
+    const totalWatchers = repos.reduce((acc, r) => acc + r.followers, 0);
     const totalStars = repos.reduce((acc, r) => acc + r.stars, 0);
+    const totalForks = repos.reduce((acc, r) => acc + r.forks, 0);
     return {
-      totalFollowers,
+      totalWatchers,
       totalStars,
-      avgFollowers: Math.round(totalFollowers / repos.length),
+      totalForks,
     };
   }, [repos]);
 
@@ -76,20 +98,13 @@ export default function Dashboard() {
       />
       
       <main className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16">
-        {/* Hero Header */}
-        <header className="mb-16 text-center" style={{ fontFamily: 'var(--font-inter)' }}>
-          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-[var(--border-default)] bg-[var(--bg-card)] mb-6">
-            <TrendingUp className="w-4 h-4 text-[var(--accent-primary)]" />
-            <span className="text-sm font-medium text-[var(--text-primary)]">
-              Live Repository Analytics
-            </span>
-          </div>
-          
+        {/* Hero Header - Left aligned for faster scanning */}
+        <header className="mb-16" style={{ fontFamily: 'var(--font-inter)' }}>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight mb-4">
             <span className="gradient-text">Trend Pulse</span>
           </h1>
           
-          <p className="text-[17px] sm:text-lg text-[var(--text-secondary)] max-w-2xl mx-auto leading-relaxed">
+          <p className="text-[17px] sm:text-lg text-[var(--text-secondary)] max-w-2xl leading-relaxed">
             Discover trending GitHub repositories ranked by{' '}
             <span className="text-[var(--text-primary)] font-medium">true watcher counts</span>
             —real engagement metrics, not just stars.
@@ -101,20 +116,20 @@ export default function Dashboard() {
           <StatCard
             icon={<Eye className="w-5 h-5" />}
             label="Total Watchers"
-            value={stats.totalFollowers.toLocaleString()}
+            value={stats.totalWatchers.toLocaleString()}
             color="var(--accent-primary)"
           />
           <StatCard
-            icon={<Zap className="w-5 h-5" />}
+            icon={<GitFork className="w-5 h-5" />}
+            label="Total Forks"
+            value={stats.totalForks.toLocaleString()}
+            color="var(--accent-purple)"
+          />
+          <StatCard
+            icon={<Star className="w-5 h-5" />}
             label="Total Stars"
             value={stats.totalStars.toLocaleString()}
             color="var(--accent-blue)"
-          />
-          <StatCard
-            icon={<TrendingUp className="w-5 h-5" />}
-            label="Avg Watchers"
-            value={stats.avgFollowers.toLocaleString()}
-            color="var(--accent-purple)"
           />
         </section>
 
@@ -125,7 +140,7 @@ export default function Dashboard() {
         >
           <div>
             <h2 className="text-[13px] font-semibold text-[var(--text-secondary)] mb-3 tracking-wide uppercase">
-              Time Period
+              Repos Created In
             </h2>
             <FilterButtons activeFilter={filter} onFilterChange={setFilter} />
           </div>
@@ -145,11 +160,12 @@ export default function Dashboard() {
             style={{ fontFamily: 'var(--font-inter)' }}
           >
             <h3 className="text-[15px] font-semibold text-[var(--text-primary)]">
-              Top 100 Repositories
+              Top {repos.length} Repositories
             </h3>
-            <span className="inline-flex items-center px-3 py-1 text-[13px] font-medium rounded-full bg-[var(--bg-elevated)] border border-[var(--border-default)] text-[var(--text-secondary)]">
-              {repos.length} repos
-            </span>
+            <div className="inline-flex items-center gap-2 px-3 py-1.5 text-[13px] font-medium rounded-full bg-[var(--bg-elevated)] border border-[var(--border-default)] text-[var(--text-secondary)]">
+              <TrendingUp className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+              Live Repository Analytics
+            </div>
           </div>
           <RepoTable 
             repos={sortedRepos} 

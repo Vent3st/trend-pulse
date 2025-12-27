@@ -9,9 +9,9 @@ interface FilterButtonsProps {
 
 export const FilterButtons: React.FC<FilterButtonsProps> = ({ activeFilter, onFilterChange }) => {
   const filters: { id: TimeFilter; label: string }[] = [
-    { id: '7d', label: '7 Days' },
-    { id: '30d', label: '30 Days' },
-    { id: '90d', label: '90 Days' },
+    { id: '7d', label: 'Last 7 Days' },
+    { id: '30d', label: 'Last 30 Days' },
+    { id: '90d', label: 'Last 90 Days' },
   ];
 
   return (
