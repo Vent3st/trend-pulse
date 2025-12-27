@@ -4,7 +4,7 @@
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "followers": 30,
     "forks": 276,
-    "stars": 3431,
+    "stars": 3441,
     "created_at": "2025-12-21",
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
   },
@@ -13,7 +13,7 @@
     "url": "https://github.com/bellard/mquickjs",
     "followers": 26,
     "forks": 150,
-    "stars": 4358,
+    "stars": 4365,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
@@ -21,8 +21,8 @@
     "name": "antonmedv/textarea",
     "url": "https://github.com/antonmedv/textarea",
     "followers": 11,
-    "forks": 58,
-    "stars": 846,
+    "forks": 59,
+    "stars": 851,
     "created_at": "2025-12-22",
     "description": "A minimalist text editor that lives in URL"
   },
@@ -49,7 +49,7 @@
     "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
     "followers": 5,
     "forks": 30,
-    "stars": 406,
+    "stars": 407,
     "created_at": "2025-12-23",
     "description": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions."
   },
@@ -94,7 +94,7 @@
     "url": "https://github.com/Turbo1123/turbometa-rayban-ai",
     "followers": 4,
     "forks": 15,
-    "stars": 89,
+    "stars": 90,
     "created_at": "2025-12-21",
     "description": "World's First Full-Chinese Ray-Ban Meta AI Assistant - \u5168\u7403\u9996\u4e2a\u5168\u4e2d\u6587 Ray-Ban Meta \u667a\u80fd\u773c\u955c AI \u52a9\u624b"
   },
@@ -103,7 +103,7 @@
     "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
     "followers": 4,
     "forks": 15,
-    "stars": 84,
+    "stars": 85,
     "created_at": "2025-12-24",
     "description": "Connect Cursor, Copilot & Claude directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language."
   },
@@ -139,7 +139,7 @@
     "url": "https://github.com/Doriandarko/gemini-writer",
     "followers": 3,
     "forks": 35,
-    "stars": 198,
+    "stars": 199,
     "created_at": "2025-12-24",
     "description": "AI writing agent powered by gemini 3 flash - autonomously creates novels and stories with deep reasoning"
   },
@@ -174,8 +174,8 @@
     "name": "parcadei/Continuous-Claude",
     "url": "https://github.com/parcadei/Continuous-Claude",
     "followers": 2,
-    "forks": 44,
-    "stars": 576,
+    "forks": 45,
+    "stars": 578,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -184,7 +184,7 @@
     "url": "https://github.com/remorses/tuitube",
     "followers": 2,
     "forks": 9,
-    "stars": 305,
+    "stars": 306,
     "created_at": "2025-12-22",
     "description": "Download videos from the command line with a TUI"
   },
@@ -202,7 +202,7 @@
     "url": "https://github.com/siinghd/yourinfo",
     "followers": 2,
     "forks": 26,
-    "stars": 221,
+    "stars": 224,
     "created_at": "2025-12-24",
     "description": "Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization"
   },
@@ -210,7 +210,7 @@
     "name": "abhishekkrthakur/NyRAG",
     "url": "https://github.com/abhishekkrthakur/NyRAG",
     "followers": 2,
-    "forks": 21,
+    "forks": 22,
     "stars": 186,
     "created_at": "2025-12-22",
     "description": "advanced, scalable, no-code RAG"
@@ -220,7 +220,7 @@
     "url": "https://github.com/MiniMax-AI/MiniMax-M2.1",
     "followers": 2,
     "forks": 10,
-    "stars": 160,
+    "stars": 161,
     "created_at": "2025-12-22",
     "description": "MiniMax M2.1, a SOTA model for real-world dev & agents."
   },
@@ -229,7 +229,7 @@
     "url": "https://github.com/popovicu/ultimate-linux",
     "followers": 2,
     "forks": 4,
-    "stars": 154,
+    "stars": 155,
     "created_at": "2025-12-24",
     "description": "The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!"
   },
@@ -243,6 +243,15 @@
     "description": "A cyberpunk-style, real-time financial monitor that runs directly in the terminal. It visualizes cryptocurrency and stock market data using ASCII charts and dynamic coloring."
   },
   {
+    "name": "letieu/jira.nvim",
+    "url": "https://github.com/letieu/jira.nvim",
+    "followers": 2,
+    "forks": 2,
+    "stars": 118,
+    "created_at": "2025-12-21",
+    "description": "I got tired of opening my browser for Jira"
+  },
+  {
     "name": "kalil0321/reverse-api-engineer",
     "url": "https://github.com/kalil0321/reverse-api-engineer",
     "followers": 2,
@@ -250,15 +259,6 @@
     "stars": 117,
     "created_at": "2025-12-23",
     "description": "Claude engineer that captures traffic and automatically generates Python API clients. Reverse engineer APIs!"
-  },
-  {
-    "name": "letieu/jira.nvim",
-    "url": "https://github.com/letieu/jira.nvim",
-    "followers": 2,
-    "forks": 2,
-    "stars": 117,
-    "created_at": "2025-12-21",
-    "description": "I got tired of opening my browser for Jira"
   },
   {
     "name": "Imetomi/retro-futuristic-ui-design",
@@ -301,7 +301,7 @@
     "url": "https://github.com/ClashConnectRules/Self-Configuration",
     "followers": 1,
     "forks": 40,
-    "stars": 546,
+    "stars": 559,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -328,7 +328,7 @@
     "url": "https://github.com/simonw/claude-code-transcripts",
     "followers": 1,
     "forks": 17,
-    "stars": 158,
+    "stars": 162,
     "created_at": "2025-12-24",
     "description": "Tools for publishing transcripts for Claude Code sessions"
   },
@@ -355,7 +355,7 @@
     "url": "https://github.com/nook24/lagident",
     "followers": 1,
     "forks": 4,
-    "stars": 148,
+    "stars": 149,
     "created_at": "2025-12-21",
     "description": "Lagident pings targets and collects information about response time and packet loss. Helps you identify anomalies across your network"
   },
@@ -363,8 +363,8 @@
     "name": "asklokesh/claudeskill-loki-mode",
     "url": "https://github.com/asklokesh/claudeskill-loki-mode",
     "followers": 1,
-    "forks": 26,
-    "stars": 131,
+    "forks": 27,
+    "stars": 135,
     "created_at": "2025-12-26",
     "description": "Multi-agent autonomous startup system for Claude Code"
   },
@@ -381,7 +381,7 @@
     "name": "Lolendor/reVCDOS",
     "url": "https://github.com/Lolendor/reVCDOS",
     "followers": 1,
-    "forks": 60,
+    "forks": 62,
     "stars": 111,
     "created_at": "2025-12-23",
     "description": "Web-based port of GTA: Vice City running in browser via WebAssembly."
@@ -400,7 +400,7 @@
     "url": "https://github.com/LAOGOU-666/ComfyUI-LG_SamplingUtils",
     "followers": 1,
     "forks": 3,
-    "stars": 90,
+    "stars": 91,
     "created_at": "2025-12-24",
     "description": ""
   },
@@ -418,7 +418,7 @@
     "url": "https://github.com/joe-desimone/mongobleed",
     "followers": 1,
     "forks": 12,
-    "stars": 79,
+    "stars": 80,
     "created_at": "2025-12-26",
     "description": ""
   },
@@ -427,7 +427,7 @@
     "url": "https://github.com/tenacious6/cf-autoclick",
     "followers": 1,
     "forks": 31,
-    "stars": 75,
+    "stars": 76,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -463,7 +463,7 @@
     "url": "https://github.com/Dennis960/BackApp",
     "followers": 1,
     "forks": 2,
-    "stars": 68,
+    "stars": 70,
     "created_at": "2025-12-22",
     "description": "UI for Backup automation over SSH, replacing custom shell scripts and cron configurations, as a binary < 50 MB"
   },
@@ -499,7 +499,7 @@
     "url": "https://github.com/Maldev-Academy/DumpChromeSecrets",
     "followers": 0,
     "forks": 24,
-    "stars": 196,
+    "stars": 197,
     "created_at": "2025-12-21",
     "description": "Extract data from modern Chrome versions, including refresh tokens, cookies, saved credentials, autofill data, browsing history, and bookmarks"
   },
@@ -508,7 +508,7 @@
     "url": "https://github.com/Chil30/vless-all-in-one",
     "followers": 0,
     "forks": 40,
-    "stars": 170,
+    "stars": 171,
     "created_at": "2025-12-21",
     "description": "\ud83d\ude80 v2.0 All-in-One Proxy Script: One-click deployment for 15 protocols including VLESS Reality, Hysteria2, TUIC v5, and Snell. Now supports multi-protocol coexistence, automatic BBR optimization, and easy Server/Client setup on Debian, Ubuntu, CentOS, and Alpine."
   },
@@ -525,8 +525,8 @@
     "name": "tronghieuit/valtec-tts",
     "url": "https://github.com/tronghieuit/valtec-tts",
     "followers": 0,
-    "forks": 58,
-    "stars": 135,
+    "forks": 60,
+    "stars": 136,
     "created_at": "2025-12-24",
     "description": "A Vietnamese Text-to-Speech system supporting multiple speakers with high-quality voice synthesis."
   },
@@ -534,8 +534,8 @@
     "name": "teojs/clock-dashboard",
     "url": "https://github.com/teojs/clock-dashboard",
     "followers": 0,
-    "forks": 7,
-    "stars": 126,
+    "forks": 8,
+    "stars": 128,
     "created_at": "2025-12-21",
     "description": "\u5929\u6c14\u65f6\u949f\u770b\u677f"
   },
@@ -544,7 +544,7 @@
     "url": "https://github.com/tsoding/formula",
     "followers": 0,
     "forks": 12,
-    "stars": 120,
+    "stars": 123,
     "created_at": "2025-12-25",
     "description": "\"One Formula That Demystifies 3D Graphics\""
   },
@@ -585,11 +585,20 @@
     "description": ""
   },
   {
+    "name": "lxj2004/KMS-Pico-Module-ClientV2-Port25",
+    "url": "https://github.com/lxj2004/KMS-Pico-Module-ClientV2-Port25",
+    "followers": 0,
+    "forks": 0,
+    "stars": 87,
+    "created_at": "2025-12-27",
+    "description": "KMS Pico is a free tool for automatic activation of Microsoft Windows and Office using KMS technology. It enables quick and easy activation without license keys."
+  },
+  {
     "name": "klezVirus/ThreadPoolExecChain",
     "url": "https://github.com/klezVirus/ThreadPoolExecChain",
     "followers": 0,
     "forks": 3,
-    "stars": 85,
+    "stars": 86,
     "created_at": "2025-12-21",
     "description": "A simple POC to show how to chain multiple callbacks via tail calls to artificially construct a call stack"
   },
@@ -607,7 +616,7 @@
     "url": "https://github.com/RayRRT/BOFs",
     "followers": 0,
     "forks": 8,
-    "stars": 77,
+    "stars": 78,
     "created_at": "2025-12-22",
     "description": "Beacon Object Files (BOFs) for Cobalt Strike and Havoc C2. Implementations of Active Directory attacks and post-exploitation techniques."
   },
@@ -616,7 +625,7 @@
     "url": "https://github.com/chongdashu/cc-skills-nanobananapro",
     "followers": 0,
     "forks": 16,
-    "stars": 77,
+    "stars": 78,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -625,7 +634,7 @@
     "url": "https://github.com/leerob/pixo",
     "followers": 0,
     "forks": 2,
-    "stars": 76,
+    "stars": 77,
     "created_at": "2025-12-21",
     "description": "High-performance image compression library written in Rust."
   },
@@ -646,6 +655,15 @@
     "stars": 73,
     "created_at": "2025-12-25",
     "description": "\u5229\u7528claude code agent\u6846\u67b6\u4e00\u6b65\u4e00\u6b65\u5b9e\u73b0deep research\uff01\u5f88\u5f3a\u5927\u5f88\u7b80\u5355\u7684skills\u3002\u6211\u4e00\u6b65\u4e00\u6b65\u4ecb\u7ecd\u5b9e\u73b0deep research\uff0c\u56e0\u4e3adeep research\u5c31\u662fagent\u6846\u67b6\u7b2c\u4e00\u5e94\u7528\uff0c\u5bf9\u6bd4\u4e00\u4e0b\u5404\u4e2a\u6846\u67b6\u5b9e\u73b0\u8fd9\u4e2adeep research\uff0c\u5c31\u77e5\u9053\u54ea\u4e2a\u6846\u67b6\u624d\u662f\u771f\u5389\u5bb3\u3002"
+  },
+  {
+    "name": "linkert55g9w/AD0BE_PHS_FULL2O25",
+    "url": "https://github.com/linkert55g9w/AD0BE_PHS_FULL2O25",
+    "followers": 0,
+    "forks": 0,
+    "stars": 73,
+    "created_at": "2025-12-22",
+    "description": ""
   },
   {
     "name": "dearabhin/gemini-watermark-remover",
@@ -801,6 +819,24 @@
     "description": ""
   },
   {
+    "name": "liongliong/DeepSearch-FlashRAG",
+    "url": "https://github.com/liongliong/DeepSearch-FlashRAG",
+    "followers": 0,
+    "forks": 2,
+    "stars": 63,
+    "created_at": "2025-12-26",
+    "description": "2025 CCF BDCI DeepSearch \u8d5b\u9053 Top \u65b9\u6848"
+  },
+  {
+    "name": "valdanylchuk/xcc700",
+    "url": "https://github.com/valdanylchuk/xcc700",
+    "followers": 0,
+    "forks": 3,
+    "stars": 63,
+    "created_at": "2025-12-26",
+    "description": "mini C compiler for esp32"
+  },
+  {
     "name": "Anarkh-Lee/visual-docker-compose",
     "url": "https://github.com/Anarkh-Lee/visual-docker-compose",
     "followers": 0,
@@ -808,15 +844,6 @@
     "stars": 62,
     "created_at": "2025-12-25",
     "description": "\u4e00\u6b3e\u73b0\u4ee3\u5316\u7684 Docker Compose \u53ef\u89c6\u5316\u751f\u6210\u5668\uff0c\u901a\u8fc7\u62d6\u62fd\u64cd\u4f5c\u5feb\u901f\u6784\u5efa\u5bb9\u5668\u7f16\u6392\u914d\u7f6e\u6587\u4ef6\u3002"
-  },
-  {
-    "name": "valdanylchuk/xcc700",
-    "url": "https://github.com/valdanylchuk/xcc700",
-    "followers": 0,
-    "forks": 2,
-    "stars": 61,
-    "created_at": "2025-12-26",
-    "description": "mini C compiler for esp32"
   },
   {
     "name": "kenryu42/claude-code-safety-net",
@@ -864,39 +891,12 @@
     "description": "\u8ba9\u5c0f\u767d\u90fd\u53ef\u4ee5\u4e00\u952e\u8fdb\u884c\u6570\u636e\u5206\u6790\uff0c\u641e\u4e92\u8054\u7f51\u7684\uff0c\u641e\u7535\u5546\u7684\uff0c\u641e\u5404\u79cd\u5404\u6837\u7684\uff0c\u90a3\u4e48\u5176\u5b9e\u5c31\u4f1a\u7528\u5230 \u4e92\u8054\u7f51\u7684\u6570\u636e\u5206\u6790\uff0c \u4f8b\u5982\u4e92\u8054\u7f51\u4f1a\u5173\u5fc3 \u62c9\u65b0\uff0c\u7559\u5b58\uff0c\u4fc3\u6d3b\uff0c\u63a8\u8350\uff0c\u8f6c\u5316\uff0cA/B test, \u7528\u6237\u5206\u6790 \u7b49\u7b49\u5f88\u591a\u6709\u7528\u7684\u6570\u636e\u5206\u6790\u3002 \u547d\u4ee4\u5c31\u662f\u201c/do-more\u201d."
   },
   {
-    "name": "postrv/narsil-mcp",
-    "url": "https://github.com/postrv/narsil-mcp",
-    "followers": 0,
-    "forks": 4,
-    "stars": 58,
-    "created_at": "2025-12-24",
-    "description": "Rust MCP server for comprehensive code intelligence - 76 tools, 16 languages, security scanning, call graphs, and more"
-  },
-  {
     "name": "haiyewei/GoofishCredentialsBot",
     "url": "https://github.com/haiyewei/GoofishCredentialsBot",
     "followers": 0,
     "forks": 17,
-    "stars": 58,
+    "stars": 59,
     "created_at": "2025-12-25",
     "description": "\u95f2\u9c7c\u5361\u5bc6\u673a\u5668\u4eba - \u81ea\u52a8\u56de\u590d\u3001\u81ea\u52a8\u53d1\u8d27\u3001\u8ba2\u5355\u7ba1\u7406\u3001\u591a\u8d26\u53f7\u652f\u6301"
-  },
-  {
-    "name": "liongliong/DeepSearch-FlashRAG",
-    "url": "https://github.com/liongliong/DeepSearch-FlashRAG",
-    "followers": 0,
-    "forks": 2,
-    "stars": 58,
-    "created_at": "2025-12-26",
-    "description": "2025 CCF BDCI DeepSearch \u8d5b\u9053 Top \u65b9\u6848"
-  },
-  {
-    "name": "TalashNetCom/MiniKuma",
-    "url": "https://github.com/TalashNetCom/MiniKuma",
-    "followers": 0,
-    "forks": 0,
-    "stars": 57,
-    "created_at": "2025-12-24",
-    "description": "Uptime-Kuma CSS for Status Page | Give your UptimeKuma status page a minimal look with custom CSS only"
   }
 ]
