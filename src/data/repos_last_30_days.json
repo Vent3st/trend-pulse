@@ -2,9 +2,9 @@
   {
     "name": "sOLarFLaMEPyL/Arbitrage_Mev_BOT",
     "url": "https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT",
-    "followers": 115,
-    "forks": 301,
-    "stars": 526,
+    "followers": 119,
+    "forks": 335,
+    "stars": 575,
     "created_at": "2025-12-19",
     "description": "Basically, contract for MEV: takes flash loans, runs arbitrage between DEXes, does liquidations. Everything is ready, deploy and use."
   },
@@ -12,8 +12,8 @@
     "name": "zai-org/Open-AutoGLM",
     "url": "https://github.com/zai-org/Open-AutoGLM",
     "followers": 93,
-    "forks": 3125,
-    "stars": 19609,
+    "forks": 3126,
+    "stars": 19615,
     "created_at": "2025-12-08",
     "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone"
   },
@@ -31,7 +31,7 @@
     "url": "https://github.com/agentskills/agentskills",
     "followers": 49,
     "forks": 168,
-    "stars": 3752,
+    "stars": 3755,
     "created_at": "2025-12-16",
     "description": "Specification and documentation for Agent Skills"
   },
@@ -49,7 +49,7 @@
     "url": "https://github.com/AndyMik90/Auto-Claude",
     "followers": 39,
     "forks": 473,
-    "stars": 3674,
+    "stars": 3680,
     "created_at": "2025-12-04",
     "description": "Autonomous multi-session AI coding"
   },
@@ -58,7 +58,7 @@
     "url": "https://github.com/google/mcp",
     "followers": 36,
     "forks": 261,
-    "stars": 2582,
+    "stars": 2584,
     "created_at": "2025-12-05",
     "description": "Google \ud83d\udc9a MCP"
   },
@@ -67,7 +67,7 @@
     "url": "https://github.com/VibiumDev/vibium",
     "followers": 34,
     "forks": 70,
-    "stars": 1622,
+    "stars": 1629,
     "created_at": "2025-12-12",
     "description": "Browser automation for AI agents and humans"
   },
@@ -76,7 +76,7 @@
     "url": "https://github.com/lwj2015/lightron",
     "followers": 33,
     "forks": 64,
-    "stars": 733,
+    "stars": 734,
     "created_at": "2025-12-16",
     "description": "A light implementation of megatron for research and study"
   },
@@ -84,17 +84,17 @@
     "name": "Anionex/banana-slides",
     "url": "https://github.com/Anionex/banana-slides",
     "followers": 31,
-    "forks": 749,
-    "stars": 6796,
+    "forks": 750,
+    "stars": 6798,
     "created_at": "2025-11-29",
     "description": "\u4e00\u4e2a\u57fa\u4e8enano banana pro\ud83c\udf4c\u7684\u539f\u751fAI PPT\u751f\u6210\u5e94\u7528\uff0c\u8fc8\u5411\u771f\u6b63\u7684\uff02Vibe PPT\uff02; \u652f\u6301\u4e0a\u4f20\u4efb\u610f\u6a21\u677f\u56fe\u7247\uff1b\u4e0a\u4f20\u4efb\u610f\u7d20\u6750&\u667a\u80fd\u89e3\u6790\uff1b\u4e00\u53e5\u8bdd/\u5927\u7eb2/\u9875\u9762\u63cf\u8ff0\u81ea\u52a8\u751f\u6210PPT\uff1b\u53e3\u5934\u4fee\u6539\u6307\u5b9a\u533a\u57df\u3001\u4e00\u952e\u5bfc\u51fa - An AI-native PPT generator based on nano banana pro\ud83c\udf4c"
   },
   {
     "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-    "followers": 29,
+    "followers": 30,
     "forks": 266,
-    "stars": 3311,
+    "stars": 3323,
     "created_at": "2025-12-21",
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
   },
@@ -103,7 +103,7 @@
     "url": "https://github.com/cporter202/API-mega-list",
     "followers": 27,
     "forks": 434,
-    "stars": 2177,
+    "stars": 2178,
     "created_at": "2025-12-09",
     "description": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub\u2014period. \ud83d\udcaa"
   },
@@ -111,17 +111,26 @@
     "name": "apple/ml-sharp",
     "url": "https://github.com/apple/ml-sharp",
     "followers": 26,
-    "forks": 343,
-    "stars": 5325,
+    "forks": 344,
+    "stars": 5327,
     "created_at": "2025-12-12",
     "description": "Sharp Monocular View Synthesis in Less Than a Second"
+  },
+  {
+    "name": "bellard/mquickjs",
+    "url": "https://github.com/bellard/mquickjs",
+    "followers": 25,
+    "forks": 147,
+    "stars": 4293,
+    "created_at": "2025-12-22",
+    "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
   {
     "name": "code-yeongyu/oh-my-opencode",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
     "followers": 25,
     "forks": 214,
-    "stars": 3115,
+    "stars": 3117,
     "created_at": "2025-12-03",
     "description": "#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) \u00b7 Curated agents with proper models \u00b7 Crafted tools like LSP/AST included \u00b7 Curated MCPs \u00b7 Claude Code Compatible Layer \u2014 Steroids for your OpenCode. The Best LLM Agent Experience is Here."
   },
@@ -144,15 +153,6 @@
     "description": "Original Proof-of-Concepts for React2Shell CVE-2025-55182"
   },
   {
-    "name": "bellard/mquickjs",
-    "url": "https://github.com/bellard/mquickjs",
-    "followers": 24,
-    "forks": 146,
-    "stars": 4288,
-    "created_at": "2025-12-22",
-    "description": "Public repository of the Micro QuickJS Javascript Engine"
-  },
-  {
     "name": "HKUDS/Paper2Slides",
     "url": "https://github.com/HKUDS/Paper2Slides",
     "followers": 24,
@@ -166,16 +166,25 @@
     "url": "https://github.com/gommzystudio/device-activity-tracker",
     "followers": 22,
     "forks": 270,
-    "stars": 1474,
+    "stars": 1477,
     "created_at": "2025-12-07",
     "description": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)"
+  },
+  {
+    "name": "twostraws/SwiftAgents",
+    "url": "https://github.com/twostraws/SwiftAgents",
+    "followers": 20,
+    "forks": 27,
+    "stars": 480,
+    "created_at": "2025-12-06",
+    "description": "An AGENTS.md file for Swift and SwiftUI projects."
   },
   {
     "name": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
     "followers": 17,
     "forks": 395,
-    "stars": 2153,
+    "stars": 2156,
     "created_at": "2025-11-30",
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
   },
@@ -184,7 +193,7 @@
     "url": "https://github.com/cporter202/scraping-apis-for-devs",
     "followers": 15,
     "forks": 227,
-    "stars": 1130,
+    "stars": 1131,
     "created_at": "2025-12-10",
     "description": "This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. "
   },
@@ -202,7 +211,7 @@
     "url": "https://github.com/thu-ml/TurboDiffusion",
     "followers": 14,
     "forks": 144,
-    "stars": 2530,
+    "stars": 2532,
     "created_at": "2025-12-06",
     "description": "TurboDiffusion: 100\u2013200\u00d7 Acceleration for Video Diffusion Models"
   },
@@ -211,7 +220,7 @@
     "url": "https://github.com/gemini-cli-extensions/conductor",
     "followers": 13,
     "forks": 80,
-    "stars": 951,
+    "stars": 953,
     "created_at": "2025-12-17",
     "description": "Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features."
   },
@@ -223,15 +232,6 @@
     "stars": 2314,
     "created_at": "2025-12-04",
     "description": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)"
-  },
-  {
-    "name": "deepseek-ai/DeepSeek-Math-V2",
-    "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
-    "followers": 12,
-    "forks": 122,
-    "stars": 1498,
-    "created_at": "2025-11-27",
-    "description": ""
   },
   {
     "name": "zai-org/GLM-TTS",
@@ -255,8 +255,8 @@
     "name": "antonmedv/textarea",
     "url": "https://github.com/antonmedv/textarea",
     "followers": 11,
-    "forks": 48,
-    "stars": 778,
+    "forks": 50,
+    "stars": 789,
     "created_at": "2025-12-22",
     "description": "A minimalist text editor that lives URL"
   },
@@ -292,7 +292,7 @@
     "url": "https://github.com/AutoMaker-Org/automaker",
     "followers": 10,
     "forks": 162,
-    "stars": 926,
+    "stars": 928,
     "created_at": "2025-12-07",
     "description": ""
   },
@@ -301,7 +301,7 @@
     "url": "https://github.com/productdevbook/port-killer",
     "followers": 9,
     "forks": 75,
-    "stars": 2557,
+    "stars": 2558,
     "created_at": "2025-12-16",
     "description": "Native macOS app for finding and killing processes on open ports. Perfect for developers."
   },
@@ -328,7 +328,7 @@
     "url": "https://github.com/MineDojo/NitroGen",
     "followers": 9,
     "forks": 113,
-    "stars": 1000,
+    "stars": 1001,
     "created_at": "2025-12-17",
     "description": "A Foundation Model for Generalist Gaming Agents"
   },
@@ -351,20 +351,11 @@
     "description": "Offical Implementation of SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations"
   },
   {
-    "name": "soufianekhiat/ImAnim",
-    "url": "https://github.com/soufianekhiat/ImAnim",
-    "followers": 9,
-    "forks": 16,
-    "stars": 498,
-    "created_at": "2025-11-27",
-    "description": "Animation Engine for Dear ImGui"
-  },
-  {
     "name": "Maxteabag/sqlit",
     "url": "https://github.com/Maxteabag/sqlit",
     "followers": 8,
     "forks": 45,
-    "stars": 2158,
+    "stars": 2159,
     "created_at": "2025-12-13",
     "description": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more."
   },
@@ -373,7 +364,7 @@
     "url": "https://github.com/PastKing/tgbot-verify",
     "followers": 8,
     "forks": 577,
-    "stars": 1586,
+    "stars": 1587,
     "created_at": "2025-12-07",
     "description": "\u4e00\u4e2a\u57fa\u4e8e Python Telegram Bot \u7684\u81ea\u52a8\u5316\u8ba4\u8bc1\u5de5\u5177\uff0c\u80fd\u591f\u81ea\u52a8\u5b8c\u6210 SheerID \u5e73\u53f0\u7684\u5b66\u751f/\u6559\u5e08\u8eab\u4efd\u9a8c\u8bc1\u6d41\u7a0b\u3002"
   },
@@ -391,7 +382,7 @@
     "url": "https://github.com/antonmedv/gitmal",
     "followers": 8,
     "forks": 39,
-    "stars": 1099,
+    "stars": 1100,
     "created_at": "2025-11-30",
     "description": "A static page generator for repos"
   },
@@ -400,7 +391,7 @@
     "url": "https://github.com/Lulzx/tinypdf",
     "followers": 8,
     "forks": 46,
-    "stars": 1082,
+    "stars": 1083,
     "created_at": "2025-12-18",
     "description": "Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs."
   },
@@ -409,7 +400,7 @@
     "url": "https://github.com/durable-streams/durable-streams",
     "followers": 8,
     "forks": 24,
-    "stars": 1061,
+    "stars": 1063,
     "created_at": "2025-12-04",
     "description": "The open protocol for real-time sync to client applications"
   },
@@ -435,8 +426,8 @@
     "name": "2025Emma/vibe-coding-cn",
     "url": "https://github.com/2025Emma/vibe-coding-cn",
     "followers": 7,
-    "forks": 305,
-    "stars": 2719,
+    "forks": 306,
+    "stars": 2724,
     "created_at": "2025-12-17",
     "description": ""
   },
@@ -454,7 +445,7 @@
     "url": "https://github.com/SawyerHood/dev-browser",
     "followers": 7,
     "forks": 96,
-    "stars": 1497,
+    "stars": 1498,
     "created_at": "2025-12-02",
     "description": "A Claude Skill to give your agent the ability to use a web browser"
   },
@@ -499,7 +490,7 @@
     "url": "https://github.com/datawhalechina/vibe-vibe",
     "followers": 6,
     "forks": 117,
-    "stars": 1321,
+    "stars": 1323,
     "created_at": "2025-11-28",
     "description": "The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack, Empowering Everyone to Build Products with AI | Live at: www.vibevibe.cn   \uff1b\u9996\u4e2a\u7cfb\u7edf\u5316 Vibe Coding \u5f00\u6e90\u6559\u7a0b | \u96f6\u57fa\u7840\u5230\u5168\u6808\u5b9e\u6218\uff0c\u8ba9\u4eba\u4eba\u90fd\u80fd\u7528 AI \u5f00\u53d1\u4ea7\u54c1 | \u5728\u7ebf\u5730\u5740\uff1awww.vibevibe.cn"
   },
@@ -508,7 +499,7 @@
     "url": "https://github.com/QwenLM/Qwen-Image-Layered",
     "followers": 6,
     "forks": 69,
-    "stars": 1017,
+    "stars": 1018,
     "created_at": "2025-12-18",
     "description": "Qwen-Image-Layered: Layered Decomposition for Inherent Editablity"
   },
@@ -526,7 +517,7 @@
     "url": "https://github.com/GuDaStudio/skills",
     "followers": 6,
     "forks": 33,
-    "stars": 750,
+    "stars": 751,
     "created_at": "2025-12-16",
     "description": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools."
   },
@@ -538,15 +529,6 @@
     "stars": 673,
     "created_at": "2025-12-10",
     "description": "AI \u9a71\u52a8\u7684 SVG \u6f14\u793a\u6587\u7a3f\u751f\u6210\u7cfb\u7edf\uff0c\u652f\u6301 PPT\u3001\u5c0f\u7ea2\u4e66\u3001\u670b\u53cb\u5708\u7b49\u591a\u683c\u5f0f | 15 \u4e2a\u793a\u4f8b | 229 \u9875 | \u751f\u6210\u53ef\u7f16\u8f91\u7684 ppt \u683c\u5f0f"
-  },
-  {
-    "name": "RanFeng/clipsketch-ai",
-    "url": "https://github.com/RanFeng/clipsketch-ai",
-    "followers": 6,
-    "forks": 55,
-    "stars": 599,
-    "created_at": "2025-11-27",
-    "description": "\u5c06\u89c6\u9891\u77ac\u95f4\u8f6c\u5316\u4e3a\u624b\u7ed8\u6545\u4e8b Turn Video Moments into Hand-Drawn Stories"
   },
   {
     "name": "ringtailsoftware/uvm32",
@@ -571,18 +553,9 @@
     "url": "https://github.com/firecrawl/open-scouts",
     "followers": 5,
     "forks": 133,
-    "stars": 946,
+    "stars": 947,
     "created_at": "2025-11-28",
     "description": "  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. "
-  },
-  {
-    "name": "moleculemmeng020425/christmas-tree",
-    "url": "https://github.com/moleculemmeng020425/christmas-tree",
-    "followers": 5,
-    "forks": 381,
-    "stars": 884,
-    "created_at": "2025-11-27",
-    "description": "\u4e00\u68f5\u9ad8\u4fdd\u771f3D\u4ea4\u4e92\u5723\u8bde\u6811"
   },
   {
     "name": "zai-org/GLM-ASR",
@@ -616,7 +589,7 @@
     "url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
     "followers": 5,
     "forks": 22,
-    "stars": 539,
+    "stars": 540,
     "created_at": "2025-12-13",
     "description": "The paper list of \"Memory in the Age of AI Agents: A Survey\""
   },
@@ -628,6 +601,15 @@
     "stars": 524,
     "created_at": "2025-12-19",
     "description": ""
+  },
+  {
+    "name": "Dao-AILab/sonic-moe",
+    "url": "https://github.com/Dao-AILab/sonic-moe",
+    "followers": 5,
+    "forks": 32,
+    "stars": 467,
+    "created_at": "2025-12-15",
+    "description": "Accelerating MoE with IO and Tile-aware Optimizations"
   },
   {
     "name": "Gururagavendra/gmail-cleaner",
@@ -657,20 +639,11 @@
     "description": "A tool for people curious about the React Server Components protocol"
   },
   {
-    "name": "frankiejun/wxpush",
-    "url": "https://github.com/frankiejun/wxpush",
-    "followers": 4,
-    "forks": 162,
-    "stars": 603,
-    "created_at": "2025-11-27",
-    "description": "\u4e00\u4e2a\u6781\u7b80\u4e14\u514d\u8d39\u7684\u5fae\u4fe1\u6d88\u606f\u63a8\u9001\u670d\u52a1"
-  },
-  {
     "name": "dennisyang1986/opensqt_market_maker",
     "url": "https://github.com/dennisyang1986/opensqt_market_maker",
     "followers": 4,
     "forks": 232,
-    "stars": 511,
+    "stars": 513,
     "created_at": "2025-12-24",
     "description": "OpenSQT \u662f\u4e00\u4e2a\u9ad8\u6027\u80fd\u3001\u4f4e\u5ef6\u8fdf\u7684\u52a0\u5bc6\u8d27\u5e01\u505a\u5e02\u5546\u7cfb\u7edf\uff0c\u4e13\u6ce8\u4e8e\u6c38\u7eed\u5408\u7ea6\u5e02\u573a\u7684\u505a\u591a\u7f51\u683c\u4ea4\u6613\u7b56\u7565\u3002\u7cfb\u7edf\u91c7\u7528 Go \u8bed\u8a00\u5f00\u53d1\uff0c\u57fa\u4e8e WebSocket \u5b9e\u65f6\u6570\u636e\u6d41\u9a71\u52a8\uff0c\u65e8\u5728\u4e3a Binance\u3001Bitget\u3001Gate.io \u7b49\u4e3b\u6d41\u4ea4\u6613\u6240\u63d0\u4f9b\u7a33\u5b9a\u7684\u6d41\u52a8\u6027\u652f\u6301\u3002"
   },
@@ -688,7 +661,7 @@
     "url": "https://github.com/hezhizheng/go-wxpush",
     "followers": 3,
     "forks": 86,
-    "stars": 952,
+    "stars": 953,
     "created_at": "2025-12-12",
     "description": "\u6781\u7b80\u4e14\u514d\u8d39\u7684\u5fae\u4fe1\u6d88\u606f\u63a8\u9001\u670d\u52a1 (\u57fa\u4e8egolang)"
   },
@@ -709,6 +682,15 @@
     "stars": 650,
     "created_at": "2025-12-19",
     "description": "Gemini Nexus \u662f\u4e00\u6b3e\u6df1\u5ea6\u96c6\u6210 Google Gemini \u80fd\u529b\u7684 Chrome \u6269\u5c55\u7a0b\u5e8f\u3002\u5b83\u4e0d\u4ec5\u4ec5\u662f\u4e00\u4e2a\u4fa7\u8fb9\u680f\u63d2\u4ef6\uff0c\u800c\u662f\u901a\u8fc7\u6ce8\u5165\u5f0f\u7684\u60ac\u6d6e\u5de5\u5177\u680f\u3001\u5f3a\u5927\u7684\u56fe\u50cf AI \u5904\u7406\u4ee5\u53ca\u524d\u6cbf\u7684\u6d4f\u89c8\u5668\u63a7\u5236\u534f\u8bae (MCP)\uff0c\u5c06 AI \u7684\u89e6\u89d2\u4f38\u5411\u7f51\u9875\u6d4f\u89c8\u7684\u6bcf\u4e00\u4e2a\u4ea4\u4e92\u7ec6\u8282\u3002"
+  },
+  {
+    "name": "norish-recipes/norish",
+    "url": "https://github.com/norish-recipes/norish",
+    "followers": 3,
+    "forks": 28,
+    "stars": 586,
+    "created_at": "2025-12-03",
+    "description": "Norish - A realtime, self-hosted recipe app for families & friends "
   },
   {
     "name": "eyeblech/cinecli",
@@ -738,6 +720,24 @@
     "description": "Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182."
   },
   {
+    "name": "NoeFabris/opencode-antigravity-auth",
+    "url": "https://github.com/NoeFabris/opencode-antigravity-auth",
+    "followers": 3,
+    "forks": 31,
+    "stars": 482,
+    "created_at": "2025-12-09",
+    "description": ""
+  },
+  {
+    "name": "ali-vilab/Wan-Move",
+    "url": "https://github.com/ali-vilab/Wan-Move",
+    "followers": 3,
+    "forks": 18,
+    "stars": 466,
+    "created_at": "2025-12-06",
+    "description": "[NeurIPS 2025] Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance"
+  },
+  {
     "name": "eooce/Gla-deploy",
     "url": "https://github.com/eooce/Gla-deploy",
     "followers": 2,
@@ -751,7 +751,7 @@
     "url": "https://github.com/aiclientproxy/proxycast",
     "followers": 2,
     "forks": 82,
-    "stars": 774,
+    "stars": 776,
     "created_at": "2025-12-13",
     "description": "\u8ba9 AI \u7f16\u8f91\u5668\u4e4b\u95f4\u81ea\u7136\u6d41\u52a8\uff0c\u4e0d\u4ec5\u4ec5\u53ef\u4ee5\u5176\u4ed6\u5de5\u5177\u4f7f\u7528\uff0c\u4e5f\u53ef\u4ee5\u8f6c\u6362\u6210 api \u4e3a\u672c\u5730\u5f00\u53d1\u63d0\u4f9b\u52a8\u529b\u3002"
   },
@@ -769,25 +769,16 @@
     "url": "https://github.com/aiflowy/aiflowy",
     "followers": 2,
     "forks": 51,
-    "stars": 616,
+    "stars": 619,
     "created_at": "2025-12-15",
     "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
-  },
-  {
-    "name": "norish-recipes/norish",
-    "url": "https://github.com/norish-recipes/norish",
-    "followers": 2,
-    "forks": 28,
-    "stars": 579,
-    "created_at": "2025-12-03",
-    "description": "Norish - A realtime, self-hosted recipe app for families & friends "
   },
   {
     "name": "parcadei/Continuous-Claude",
     "url": "https://github.com/parcadei/Continuous-Claude",
     "followers": 2,
     "forks": 42,
-    "stars": 543,
+    "stars": 550,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -805,7 +796,7 @@
     "url": "https://github.com/journey-ad/gemini-watermark-remover",
     "followers": 1,
     "forks": 134,
-    "stars": 1294,
+    "stars": 1297,
     "created_at": "2025-12-19",
     "description": "A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / \u57fa\u4e8e Javascript \u7684\u7eaf\u6d4f\u89c8\u5668\u7aef Gemini AI \u56fe\u50cf\u65e0\u635f\u53bb\u6c34\u5370\u5de5\u5177\uff0c\u4f7f\u7528\u6570\u5b66\u7cbe\u786e\u7684\u53cd\u5411 Alpha \u6df7\u5408\u7b97\u6cd5"
   },
@@ -814,7 +805,7 @@
     "url": "https://github.com/bountyyfi/lonkero",
     "followers": 1,
     "forks": 3,
-    "stars": 865,
+    "stars": 867,
     "created_at": "2025-12-05",
     "description": "Wraps around your attack surface"
   },
@@ -864,6 +855,15 @@
     "description": "\u7b2c\u4e09\u65b9B\u7ad9\u5ba2\u6237\u7aef\uff0cBiliBili KanPai \"( \u309c- \u309c)\u3064\u30ed \u5e72\u676f~\"\uff09!"
   },
   {
+    "name": "jlongster/tigma",
+    "url": "https://github.com/jlongster/tigma",
+    "followers": 1,
+    "forks": 13,
+    "stars": 488,
+    "created_at": "2025-12-22",
+    "description": ""
+  },
+  {
     "name": "ZiHuixi/QQgroup-annual-report-analyzer",
     "url": "https://github.com/ZiHuixi/QQgroup-annual-report-analyzer",
     "followers": 0,
@@ -895,7 +895,7 @@
     "url": "https://github.com/allenk/GeminiWatermarkTool",
     "followers": 0,
     "forks": 48,
-    "stars": 523,
+    "stars": 524,
     "created_at": "2025-12-12",
     "description": "Gemini Nano Banana / Pro watermark maintenance tool"
   }
