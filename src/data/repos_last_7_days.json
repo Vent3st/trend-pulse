@@ -3,8 +3,8 @@
     "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "followers": 30,
-    "forks": 273,
-    "stars": 3395,
+    "forks": 275,
+    "stars": 3411,
     "created_at": "2025-12-21",
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
   },
@@ -12,8 +12,8 @@
     "name": "bellard/mquickjs",
     "url": "https://github.com/bellard/mquickjs",
     "followers": 26,
-    "forks": 149,
-    "stars": 4344,
+    "forks": 150,
+    "stars": 4347,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
@@ -21,8 +21,8 @@
     "name": "antonmedv/textarea",
     "url": "https://github.com/antonmedv/textarea",
     "followers": 11,
-    "forks": 56,
-    "stars": 834,
+    "forks": 57,
+    "stars": 839,
     "created_at": "2025-12-22",
     "description": "A minimalist text editor that lives URL"
   },
@@ -39,7 +39,7 @@
     "name": "xcc-zach/xtalk",
     "url": "https://github.com/xcc-zach/xtalk",
     "followers": 7,
-    "forks": 5,
+    "forks": 6,
     "stars": 82,
     "created_at": "2025-12-21",
     "description": "X-Talk is an open-source full-duplex cascaded spoken dialogue system framework enabling low-latency, interruptible, and human-like speech interaction with a lightweight, pure-Python, production-ready architecture."
@@ -49,7 +49,7 @@
     "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
     "followers": 5,
     "forks": 30,
-    "stars": 405,
+    "stars": 406,
     "created_at": "2025-12-23",
     "description": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions."
   },
@@ -66,8 +66,8 @@
     "name": "dennisyang1986/opensqt_market_maker",
     "url": "https://github.com/dennisyang1986/opensqt_market_maker",
     "followers": 4,
-    "forks": 241,
-    "stars": 534,
+    "forks": 242,
+    "stars": 538,
     "created_at": "2025-12-24",
     "description": "OpenSQT \u662f\u4e00\u4e2a\u9ad8\u6027\u80fd\u3001\u4f4e\u5ef6\u8fdf\u7684\u52a0\u5bc6\u8d27\u5e01\u505a\u5e02\u5546\u7cfb\u7edf\uff0c\u4e13\u6ce8\u4e8e\u6c38\u7eed\u5408\u7ea6\u5e02\u573a\u7684\u505a\u591a\u7f51\u683c\u4ea4\u6613\u7b56\u7565\u3002\u7cfb\u7edf\u91c7\u7528 Go \u8bed\u8a00\u5f00\u53d1\uff0c\u57fa\u4e8e WebSocket \u5b9e\u65f6\u6570\u636e\u6d41\u9a71\u52a8\uff0c\u65e8\u5728\u4e3a Binance\u3001Bitget\u3001Gate.io \u7b49\u4e3b\u6d41\u4ea4\u6613\u6240\u63d0\u4f9b\u7a33\u5b9a\u7684\u6d41\u52a8\u6027\u652f\u6301\u3002"
   },
@@ -76,7 +76,7 @@
     "url": "https://github.com/elijah0528/video2ascii",
     "followers": 4,
     "forks": 29,
-    "stars": 407,
+    "stars": 408,
     "created_at": "2025-12-22",
     "description": "WebGL-powered React Component for video to ASCII conversion"
   },
@@ -102,8 +102,8 @@
     "name": "miscusi-peek/cheatengine-mcp-bridge",
     "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
     "followers": 4,
-    "forks": 14,
-    "stars": 81,
+    "forks": 15,
+    "stars": 83,
     "created_at": "2025-12-24",
     "description": "Connect Cursor, Copilot & Claude directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language."
   },
@@ -112,7 +112,7 @@
     "url": "https://github.com/eyeblech/cinecli",
     "followers": 3,
     "forks": 24,
-    "stars": 594,
+    "stars": 596,
     "created_at": "2025-12-21",
     "description": "CineCLI is a cross-platform command-line movie browser built with Python."
   },
@@ -175,7 +175,7 @@
     "url": "https://github.com/parcadei/Continuous-Claude",
     "followers": 2,
     "forks": 43,
-    "stars": 571,
+    "stars": 573,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -184,7 +184,7 @@
     "url": "https://github.com/remorses/tuitube",
     "followers": 2,
     "forks": 9,
-    "stars": 304,
+    "stars": 305,
     "created_at": "2025-12-22",
     "description": "Download videos from the command line with a TUI"
   },
@@ -193,7 +193,7 @@
     "url": "https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
     "followers": 2,
     "forks": 37,
-    "stars": 266,
+    "stars": 267,
     "created_at": "2025-12-21",
     "description": "100+ RAG interview questions with answers."
   },
@@ -202,7 +202,7 @@
     "url": "https://github.com/siinghd/yourinfo",
     "followers": 2,
     "forks": 26,
-    "stars": 218,
+    "stars": 219,
     "created_at": "2025-12-24",
     "description": "Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization"
   },
@@ -220,7 +220,7 @@
     "url": "https://github.com/popovicu/ultimate-linux",
     "followers": 2,
     "forks": 4,
-    "stars": 151,
+    "stars": 152,
     "created_at": "2025-12-24",
     "description": "The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!"
   },
@@ -229,9 +229,18 @@
     "url": "https://github.com/pierridotite/stonks-dashboard",
     "followers": 2,
     "forks": 12,
-    "stars": 134,
+    "stars": 135,
     "created_at": "2025-12-23",
     "description": "A cyberpunk-style, real-time financial monitor that runs directly in the terminal. It visualizes cryptocurrency and stock market data using ASCII charts and dynamic coloring."
+  },
+  {
+    "name": "kalil0321/reverse-api-engineer",
+    "url": "https://github.com/kalil0321/reverse-api-engineer",
+    "followers": 2,
+    "forks": 4,
+    "stars": 117,
+    "created_at": "2025-12-23",
+    "description": "Claude engineer that captures traffic and automatically generates Python API clients. Reverse engineer APIs!"
   },
   {
     "name": "letieu/jira.nvim",
@@ -241,15 +250,6 @@
     "stars": 117,
     "created_at": "2025-12-21",
     "description": "I got tired of opening my browser for Jira"
-  },
-  {
-    "name": "kalil0321/reverse-api-engineer",
-    "url": "https://github.com/kalil0321/reverse-api-engineer",
-    "followers": 2,
-    "forks": 4,
-    "stars": 116,
-    "created_at": "2025-12-23",
-    "description": "Claude engineer that captures traffic and automatically generates Python API clients. Reverse engineer APIs!"
   },
   {
     "name": "Imetomi/retro-futuristic-ui-design",
@@ -265,9 +265,18 @@
     "url": "https://github.com/BangerTech/Prism-Dashboard",
     "followers": 2,
     "forks": 2,
-    "stars": 65,
+    "stars": 66,
     "created_at": "2025-12-23",
     "description": "Modernes Glassmorphism-Dashboard f\u00fcr Home Assistant auf Basis von Mushroom Cards"
+  },
+  {
+    "name": "longvideoagent/LongVideoAgent",
+    "url": "https://github.com/longvideoagent/LongVideoAgent",
+    "followers": 2,
+    "forks": 3,
+    "stars": 64,
+    "created_at": "2025-12-24",
+    "description": ""
   },
   {
     "name": "ManifoldTechLtd/Odin-Nav-Stack",
@@ -279,20 +288,11 @@
     "description": "An open-source navigation stack based on Odin1."
   },
   {
-    "name": "longvideoagent/LongVideoAgent",
-    "url": "https://github.com/longvideoagent/LongVideoAgent",
-    "followers": 2,
-    "forks": 3,
-    "stars": 63,
-    "created_at": "2025-12-24",
-    "description": ""
-  },
-  {
     "name": "jd-opensource/JDOxyGent4J",
     "url": "https://github.com/jd-opensource/JDOxyGent4J",
     "followers": 2,
     "forks": 8,
-    "stars": 55,
+    "stars": 56,
     "created_at": "2025-12-22",
     "description": "JDOxyGent4J: The Java sibling of the OxyGent ecosystem."
   },
@@ -300,8 +300,8 @@
     "name": "ClashConnectRules/Self-Configuration",
     "url": "https://github.com/ClashConnectRules/Self-Configuration",
     "followers": 1,
-    "forks": 37,
-    "stars": 497,
+    "forks": 38,
+    "stars": 526,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -319,16 +319,25 @@
     "url": "https://github.com/tiann/hapi",
     "followers": 1,
     "forks": 31,
-    "stars": 307,
+    "stars": 308,
     "created_at": "2025-12-24",
     "description": "App for agentic coding - access coding agent anywhere"
+  },
+  {
+    "name": "MiniMax-AI/MiniMax-M2.1",
+    "url": "https://github.com/MiniMax-AI/MiniMax-M2.1",
+    "followers": 1,
+    "forks": 10,
+    "stars": 158,
+    "created_at": "2025-12-22",
+    "description": "MiniMax M2.1, a SOTA model for real-world dev & agents."
   },
   {
     "name": "ink1ing/anti-api",
     "url": "https://github.com/ink1ing/anti-api",
     "followers": 1,
     "forks": 9,
-    "stars": 156,
+    "stars": 157,
     "created_at": "2025-12-24",
     "description": "Turn Antigravity into Anthropic API compatible server. Usable with Claude Code / Xcode / Cherry Studio / ChatWise!"
   },
@@ -337,9 +346,18 @@
     "url": "https://github.com/simonw/claude-code-transcripts",
     "followers": 1,
     "forks": 17,
-    "stars": 150,
+    "stars": 155,
     "created_at": "2025-12-24",
     "description": "Tools for publishing transcripts for Claude Code sessions"
+  },
+  {
+    "name": "0x0funky/audioghost-ai",
+    "url": "https://github.com/0x0funky/audioghost-ai",
+    "followers": 1,
+    "forks": 8,
+    "stars": 149,
+    "created_at": "2025-12-22",
+    "description": "Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI."
   },
   {
     "name": "nook24/lagident",
@@ -351,20 +369,11 @@
     "description": "Lagident pings targets and collects information about response time and packet loss. Helps you identify anomalies across your network"
   },
   {
-    "name": "0x0funky/audioghost-ai",
-    "url": "https://github.com/0x0funky/audioghost-ai",
-    "followers": 1,
-    "forks": 8,
-    "stars": 147,
-    "created_at": "2025-12-22",
-    "description": "Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI."
-  },
-  {
     "name": "asklokesh/claudeskill-loki-mode",
     "url": "https://github.com/asklokesh/claudeskill-loki-mode",
     "followers": 1,
     "forks": 26,
-    "stars": 123,
+    "stars": 125,
     "created_at": "2025-12-26",
     "description": "Multi-agent autonomous startup system for Claude Code"
   },
@@ -373,7 +382,7 @@
     "url": "https://github.com/nguyenphutrong/quotio",
     "followers": 1,
     "forks": 20,
-    "stars": 118,
+    "stars": 119,
     "created_at": "2025-12-24",
     "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions \u2013 with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid."
   },
@@ -381,8 +390,8 @@
     "name": "Lolendor/reVCDOS",
     "url": "https://github.com/Lolendor/reVCDOS",
     "followers": 1,
-    "forks": 58,
-    "stars": 109,
+    "forks": 59,
+    "stars": 111,
     "created_at": "2025-12-23",
     "description": "Web-based port of GTA: Vice City running in browser via WebAssembly."
   },
@@ -418,7 +427,7 @@
     "url": "https://github.com/joe-desimone/mongobleed",
     "followers": 1,
     "forks": 8,
-    "stars": 70,
+    "stars": 73,
     "created_at": "2025-12-26",
     "description": ""
   },
@@ -454,7 +463,7 @@
     "url": "https://github.com/Dennis960/BackApp",
     "followers": 1,
     "forks": 2,
-    "stars": 64,
+    "stars": 67,
     "created_at": "2025-12-22",
     "description": "UI for Backup automation over SSH, replacing custom shell scripts and cron configurations, as a binary < 50 MB"
   },
@@ -466,15 +475,6 @@
     "stars": 59,
     "created_at": "2025-12-23",
     "description": "Jarida (Jadx + Frida) is a Jadx GUI plugin that lets you trace and optionally patch Java method return values at runtime using Frida, directly from Jadx\u2019s decompiled view."
-  },
-  {
-    "name": "farazsth98/poc-CVE-2025-38352",
-    "url": "https://github.com/farazsth98/poc-CVE-2025-38352",
-    "followers": 1,
-    "forks": 6,
-    "stars": 56,
-    "created_at": "2025-12-21",
-    "description": "This is a proof of concept for CVE-2025-38352, a vulnerability in the Linux kernel's POSIX CPU timers implementation. The September 2025 Android Bulletin mentions that this vulnerability has been used in limited, targeted exploitation in the wild."
   },
   {
     "name": "cyl19970726/poly-sdk",
@@ -499,7 +499,7 @@
     "url": "https://github.com/Maldev-Academy/DumpChromeSecrets",
     "followers": 0,
     "forks": 24,
-    "stars": 194,
+    "stars": 195,
     "created_at": "2025-12-21",
     "description": "Extract data from modern Chrome versions, including refresh tokens, cookies, saved credentials, autofill data, browsing history, and bookmarks"
   },
@@ -508,18 +508,9 @@
     "url": "https://github.com/Chil30/vless-all-in-one",
     "followers": 0,
     "forks": 40,
-    "stars": 168,
+    "stars": 170,
     "created_at": "2025-12-21",
     "description": "\ud83d\ude80 v2.0 All-in-One Proxy Script: One-click deployment for 15 protocols including VLESS Reality, Hysteria2, TUIC v5, and Snell. Now supports multi-protocol coexistence, automatic BBR optimization, and easy Server/Client setup on Debian, Ubuntu, CentOS, and Alpine."
-  },
-  {
-    "name": "MiniMax-AI/MiniMax-M2.1",
-    "url": "https://github.com/MiniMax-AI/MiniMax-M2.1",
-    "followers": 0,
-    "forks": 10,
-    "stars": 156,
-    "created_at": "2025-12-22",
-    "description": "MiniMax M2.1, a SOTA model for real-world dev & agents."
   },
   {
     "name": "HugoSMPnet/HugoSMP-Client",
@@ -535,7 +526,7 @@
     "url": "https://github.com/tronghieuit/valtec-tts",
     "followers": 0,
     "forks": 58,
-    "stars": 130,
+    "stars": 133,
     "created_at": "2025-12-24",
     "description": "A Vietnamese Text-to-Speech system supporting multiple speakers with high-quality voice synthesis."
   },
@@ -544,7 +535,7 @@
     "url": "https://github.com/teojs/clock-dashboard",
     "followers": 0,
     "forks": 7,
-    "stars": 124,
+    "stars": 125,
     "created_at": "2025-12-21",
     "description": "\u5929\u6c14\u65f6\u949f\u770b\u677f"
   },
@@ -562,7 +553,7 @@
     "url": "https://github.com/tsoding/formula",
     "followers": 0,
     "forks": 12,
-    "stars": 116,
+    "stars": 118,
     "created_at": "2025-12-25",
     "description": "\"One Formula That Demystifies 3D Graphics\""
   },
@@ -598,7 +589,7 @@
     "url": "https://github.com/LAOGOU-666/ComfyUI-LG_SamplingUtils",
     "followers": 0,
     "forks": 3,
-    "stars": 87,
+    "stars": 89,
     "created_at": "2025-12-24",
     "description": ""
   },
@@ -634,7 +625,7 @@
     "url": "https://github.com/chongdashu/cc-skills-nanobananapro",
     "followers": 0,
     "forks": 16,
-    "stars": 74,
+    "stars": 75,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -643,7 +634,7 @@
     "url": "https://github.com/tmkook/vchat",
     "followers": 0,
     "forks": 6,
-    "stars": 73,
+    "stars": 74,
     "created_at": "2025-12-23",
     "description": "vchat is a chat ui automation testing framework."
   },
@@ -652,7 +643,7 @@
     "url": "https://github.com/leerob/pixo",
     "followers": 0,
     "forks": 2,
-    "stars": 72,
+    "stars": 75,
     "created_at": "2025-12-21",
     "description": "High-performance image compression library written in Rust."
   },
@@ -661,9 +652,18 @@
     "url": "https://github.com/liangdabiao/Claude-Code-Deep-Research-main",
     "followers": 0,
     "forks": 9,
-    "stars": 71,
+    "stars": 73,
     "created_at": "2025-12-25",
     "description": "\u5229\u7528claude code agent\u6846\u67b6\u4e00\u6b65\u4e00\u6b65\u5b9e\u73b0deep research\uff01\u5f88\u5f3a\u5927\u5f88\u7b80\u5355\u7684skills\u3002\u6211\u4e00\u6b65\u4e00\u6b65\u4ecb\u7ecd\u5b9e\u73b0deep research\uff0c\u56e0\u4e3adeep research\u5c31\u662fagent\u6846\u67b6\u7b2c\u4e00\u5e94\u7528\uff0c\u5bf9\u6bd4\u4e00\u4e0b\u5404\u4e2a\u6846\u67b6\u5b9e\u73b0\u8fd9\u4e2adeep research\uff0c\u5c31\u77e5\u9053\u54ea\u4e2a\u6846\u67b6\u624d\u662f\u771f\u5389\u5bb3\u3002"
+  },
+  {
+    "name": "dearabhin/gemini-watermark-remover",
+    "url": "https://github.com/dearabhin/gemini-watermark-remover",
+    "followers": 0,
+    "forks": 17,
+    "stars": 71,
+    "created_at": "2025-12-22",
+    "description": "Watermark Remover for Gemini AI Images"
   },
   {
     "name": "emiliioaguirre/youtube-live-tts",
@@ -673,15 +673,6 @@
     "stars": 71,
     "created_at": "2025-12-22",
     "description": "Real-time TTS for YouTube live streams."
-  },
-  {
-    "name": "dearabhin/gemini-watermark-remover",
-    "url": "https://github.com/dearabhin/gemini-watermark-remover",
-    "followers": 0,
-    "forks": 17,
-    "stars": 70,
-    "created_at": "2025-12-22",
-    "description": "Watermark Remover for Gemini AI Images"
   },
   {
     "name": "mitkox/fteplusai",
@@ -846,6 +837,15 @@
     "description": "\u57fa\u4e8e Open-AutoGLM \u7684\u624b\u673a\u81ea\u52a8\u5316\u5b9a\u65f6\u4efb\u52a1\u7cfb\u7edf\uff0c\u8ba9 AI \u5e2e\u4f60\u5b9a\u65f6\u5b8c\u6210\u624b\u673a\u4e0a\u7684\u91cd\u590d\u6027\u5de5\u4f5c\u3002"
   },
   {
+    "name": "kenryu42/claude-code-safety-net",
+    "url": "https://github.com/kenryu42/claude-code-safety-net",
+    "followers": 0,
+    "forks": 3,
+    "stars": 60,
+    "created_at": "2025-12-25",
+    "description": "A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute."
+  },
+  {
     "name": "symbolicsoft/folder.zone",
     "url": "https://github.com/symbolicsoft/folder.zone",
     "followers": 0,
@@ -859,9 +859,18 @@
     "url": "https://github.com/liangdabiao/claude-data-analysis-ultra-main",
     "followers": 0,
     "forks": 14,
-    "stars": 58,
+    "stars": 59,
     "created_at": "2025-12-24",
     "description": "\u8ba9\u5c0f\u767d\u90fd\u53ef\u4ee5\u4e00\u952e\u8fdb\u884c\u6570\u636e\u5206\u6790\uff0c\u641e\u4e92\u8054\u7f51\u7684\uff0c\u641e\u7535\u5546\u7684\uff0c\u641e\u5404\u79cd\u5404\u6837\u7684\uff0c\u90a3\u4e48\u5176\u5b9e\u5c31\u4f1a\u7528\u5230 \u4e92\u8054\u7f51\u7684\u6570\u636e\u5206\u6790\uff0c \u4f8b\u5982\u4e92\u8054\u7f51\u4f1a\u5173\u5fc3 \u62c9\u65b0\uff0c\u7559\u5b58\uff0c\u4fc3\u6d3b\uff0c\u63a8\u8350\uff0c\u8f6c\u5316\uff0cA/B test, \u7528\u6237\u5206\u6790 \u7b49\u7b49\u5f88\u591a\u6709\u7528\u7684\u6570\u636e\u5206\u6790\u3002 \u547d\u4ee4\u5c31\u662f\u201c/do-more\u201d."
+  },
+  {
+    "name": "valdanylchuk/xcc700",
+    "url": "https://github.com/valdanylchuk/xcc700",
+    "followers": 0,
+    "forks": 2,
+    "stars": 59,
+    "created_at": "2025-12-26",
+    "description": "mini C compiler for esp32"
   },
   {
     "name": "postrv/narsil-mcp",
@@ -873,13 +882,13 @@
     "description": "Rust MCP server for comprehensive code intelligence - 76 tools, 16 languages, security scanning, call graphs, and more"
   },
   {
-    "name": "valdanylchuk/xcc700",
-    "url": "https://github.com/valdanylchuk/xcc700",
+    "name": "haiyewei/GoofishCredentialsBot",
+    "url": "https://github.com/haiyewei/GoofishCredentialsBot",
     "followers": 0,
-    "forks": 2,
+    "forks": 17,
     "stars": 57,
-    "created_at": "2025-12-26",
-    "description": "mini C compiler for esp32"
+    "created_at": "2025-12-25",
+    "description": "\u95f2\u9c7c\u5361\u5bc6\u673a\u5668\u4eba - \u81ea\u52a8\u56de\u590d\u3001\u81ea\u52a8\u53d1\u8d27\u3001\u8ba2\u5355\u7ba1\u7406\u3001\u591a\u8d26\u53f7\u652f\u6301"
   },
   {
     "name": "TalashNetCom/MiniKuma",
@@ -889,14 +898,5 @@
     "stars": 57,
     "created_at": "2025-12-24",
     "description": "Uptime-Kuma CSS for Status Page | Give your UptimeKuma status page a minimal look with custom CSS only"
-  },
-  {
-    "name": "haiyewei/GoofishCredentialsBot",
-    "url": "https://github.com/haiyewei/GoofishCredentialsBot",
-    "followers": 0,
-    "forks": 17,
-    "stars": 56,
-    "created_at": "2025-12-25",
-    "description": "\u95f2\u9c7c\u5361\u5bc6\u673a\u5668\u4eba - \u81ea\u52a8\u56de\u590d\u3001\u81ea\u52a8\u53d1\u8d27\u3001\u8ba2\u5355\u7ba1\u7406\u3001\u591a\u8d26\u53f7\u652f\u6301"
   }
 ]
