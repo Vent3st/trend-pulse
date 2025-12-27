@@ -3,8 +3,8 @@
     "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "followers": 30,
-    "forks": 269,
-    "stars": 3341,
+    "forks": 271,
+    "stars": 3357,
     "created_at": "2025-12-21",
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
   },
@@ -12,8 +12,8 @@
     "name": "bellard/mquickjs",
     "url": "https://github.com/bellard/mquickjs",
     "followers": 26,
-    "forks": 147,
-    "stars": 4308,
+    "forks": 149,
+    "stars": 4315,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
@@ -21,8 +21,8 @@
     "name": "antonmedv/textarea",
     "url": "https://github.com/antonmedv/textarea",
     "followers": 11,
-    "forks": 52,
-    "stars": 802,
+    "forks": 53,
+    "stars": 808,
     "created_at": "2025-12-22",
     "description": "A minimalist text editor that lives URL"
   },
@@ -40,7 +40,7 @@
     "url": "https://github.com/xcc-zach/xtalk",
     "followers": 6,
     "forks": 5,
-    "stars": 75,
+    "stars": 77,
     "created_at": "2025-12-21",
     "description": "X-Talk is an open-source full-duplex cascaded spoken dialogue system framework enabling low-latency, interruptible, and human-like speech interaction with a lightweight, pure-Python, production-ready architecture."
   },
@@ -49,7 +49,7 @@
     "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
     "followers": 5,
     "forks": 30,
-    "stars": 401,
+    "stars": 402,
     "created_at": "2025-12-23",
     "description": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions."
   },
@@ -66,8 +66,8 @@
     "name": "dennisyang1986/opensqt_market_maker",
     "url": "https://github.com/dennisyang1986/opensqt_market_maker",
     "followers": 4,
-    "forks": 237,
-    "stars": 526,
+    "forks": 239,
+    "stars": 528,
     "created_at": "2025-12-24",
     "description": "OpenSQT \u662f\u4e00\u4e2a\u9ad8\u6027\u80fd\u3001\u4f4e\u5ef6\u8fdf\u7684\u52a0\u5bc6\u8d27\u5e01\u505a\u5e02\u5546\u7cfb\u7edf\uff0c\u4e13\u6ce8\u4e8e\u6c38\u7eed\u5408\u7ea6\u5e02\u573a\u7684\u505a\u591a\u7f51\u683c\u4ea4\u6613\u7b56\u7565\u3002\u7cfb\u7edf\u91c7\u7528 Go \u8bed\u8a00\u5f00\u53d1\uff0c\u57fa\u4e8e WebSocket \u5b9e\u65f6\u6570\u636e\u6d41\u9a71\u52a8\uff0c\u65e8\u5728\u4e3a Binance\u3001Bitget\u3001Gate.io \u7b49\u4e3b\u6d41\u4ea4\u6613\u6240\u63d0\u4f9b\u7a33\u5b9a\u7684\u6d41\u52a8\u6027\u652f\u6301\u3002"
   },
@@ -76,7 +76,7 @@
     "url": "https://github.com/elijah0528/video2ascii",
     "followers": 4,
     "forks": 29,
-    "stars": 404,
+    "stars": 405,
     "created_at": "2025-12-22",
     "description": "WebGL-powered React Component for video to ASCII conversion"
   },
@@ -85,7 +85,7 @@
     "url": "https://github.com/Turbo1123/turbometa-rayban-ai",
     "followers": 4,
     "forks": 15,
-    "stars": 88,
+    "stars": 89,
     "created_at": "2025-12-21",
     "description": "World's First Full-Chinese Ray-Ban Meta AI Assistant - \u5168\u7403\u9996\u4e2a\u5168\u4e2d\u6587 Ray-Ban Meta \u667a\u80fd\u773c\u955c AI \u52a9\u624b"
   },
@@ -94,7 +94,7 @@
     "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
     "followers": 4,
     "forks": 14,
-    "stars": 77,
+    "stars": 78,
     "created_at": "2025-12-24",
     "description": "Connect Cursor, Copilot & Claude directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language."
   },
@@ -103,7 +103,7 @@
     "url": "https://github.com/eyeblech/cinecli",
     "followers": 3,
     "forks": 24,
-    "stars": 587,
+    "stars": 588,
     "created_at": "2025-12-21",
     "description": "CineCLI is a cross-platform command-line movie browser built with Python."
   },
@@ -112,7 +112,7 @@
     "url": "https://github.com/leedrake5/unredact",
     "followers": 3,
     "forks": 53,
-    "stars": 415,
+    "stars": 416,
     "created_at": "2025-12-23",
     "description": "A simple tool for reading in poorly redacted documents and reproducing their origional form"
   },
@@ -139,7 +139,7 @@
     "url": "https://github.com/WeichenFan/UAE",
     "followers": 3,
     "forks": 2,
-    "stars": 101,
+    "stars": 102,
     "created_at": "2025-12-22",
     "description": "Official repo for UAE"
   },
@@ -166,7 +166,7 @@
     "url": "https://github.com/parcadei/Continuous-Claude",
     "followers": 2,
     "forks": 42,
-    "stars": 559,
+    "stars": 564,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -183,8 +183,8 @@
     "name": "KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
     "url": "https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
     "followers": 2,
-    "forks": 34,
-    "stars": 259,
+    "forks": 35,
+    "stars": 262,
     "created_at": "2025-12-21",
     "description": "100+ RAG interview questions with answers."
   },
@@ -193,7 +193,7 @@
     "url": "https://github.com/siinghd/yourinfo",
     "followers": 2,
     "forks": 26,
-    "stars": 211,
+    "stars": 214,
     "created_at": "2025-12-24",
     "description": "Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization"
   },
@@ -202,7 +202,7 @@
     "url": "https://github.com/popovicu/ultimate-linux",
     "followers": 2,
     "forks": 4,
-    "stars": 147,
+    "stars": 148,
     "created_at": "2025-12-24",
     "description": "The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!"
   },
@@ -238,7 +238,7 @@
     "url": "https://github.com/Imetomi/retro-futuristic-ui-design",
     "followers": 2,
     "forks": 6,
-    "stars": 70,
+    "stars": 72,
     "created_at": "2025-12-22",
     "description": "Creating web-based retro effects is quite hard, use this for inspiration"
   },
@@ -247,7 +247,7 @@
     "url": "https://github.com/BangerTech/Prism-Dashboard",
     "followers": 2,
     "forks": 2,
-    "stars": 63,
+    "stars": 65,
     "created_at": "2025-12-23",
     "description": "Modernes Glassmorphism-Dashboard f\u00fcr Home Assistant auf Basis von Mushroom Cards"
   },
@@ -292,7 +292,7 @@
     "url": "https://github.com/ClashConnectRules/Self-Configuration",
     "followers": 1,
     "forks": 29,
-    "stars": 420,
+    "stars": 426,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -301,7 +301,7 @@
     "url": "https://github.com/tiann/hapi",
     "followers": 1,
     "forks": 30,
-    "stars": 301,
+    "stars": 302,
     "created_at": "2025-12-24",
     "description": "App for agentic coding - access coding agent anywhere"
   },
@@ -310,7 +310,7 @@
     "url": "https://github.com/abhishekkrthakur/NyRAG",
     "followers": 1,
     "forks": 21,
-    "stars": 179,
+    "stars": 180,
     "created_at": "2025-12-22",
     "description": "advanced, scalable, no-code RAG"
   },
@@ -319,7 +319,7 @@
     "url": "https://github.com/ink1ing/anti-api",
     "followers": 1,
     "forks": 7,
-    "stars": 151,
+    "stars": 154,
     "created_at": "2025-12-24",
     "description": "Turn Antigravity into Anthropic API compatible server. Usable with Claude Code / Xcode / Cherry Studio / ChatWise!"
   },
@@ -346,7 +346,7 @@
     "url": "https://github.com/simonw/claude-code-transcripts",
     "followers": 1,
     "forks": 17,
-    "stars": 138,
+    "stars": 140,
     "created_at": "2025-12-24",
     "description": "Tools for publishing transcripts for Claude Code sessions"
   },
@@ -354,10 +354,19 @@
     "name": "nguyenphutrong/quotio",
     "url": "https://github.com/nguyenphutrong/quotio",
     "followers": 1,
-    "forks": 18,
-    "stars": 111,
+    "forks": 19,
+    "stars": 113,
     "created_at": "2025-12-24",
     "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions \u2013 with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid."
+  },
+  {
+    "name": "asklokesh/claudeskill-loki-mode",
+    "url": "https://github.com/asklokesh/claudeskill-loki-mode",
+    "followers": 1,
+    "forks": 23,
+    "stars": 112,
+    "created_at": "2025-12-26",
+    "description": "Multi-agent autonomous startup system for Claude Code"
   },
   {
     "name": "Lolendor/reVCDOS",
@@ -369,20 +378,11 @@
     "description": "Web-based port of GTA: Vice City running in browser via WebAssembly."
   },
   {
-    "name": "asklokesh/claudeskill-loki-mode",
-    "url": "https://github.com/asklokesh/claudeskill-loki-mode",
-    "followers": 1,
-    "forks": 23,
-    "stars": 105,
-    "created_at": "2025-12-26",
-    "description": "Multi-agent autonomous startup system for Claude Code"
-  },
-  {
     "name": "AkideLiu/betterclaude-workers",
     "url": "https://github.com/AkideLiu/betterclaude-workers",
     "followers": 1,
-    "forks": 13,
-    "stars": 99,
+    "forks": 14,
+    "stars": 100,
     "created_at": "2025-12-25",
     "description": "BetterClaude API Gateway"
   },
@@ -400,7 +400,7 @@
     "url": "https://github.com/tenacious6/cf-autoclick",
     "followers": 1,
     "forks": 31,
-    "stars": 74,
+    "stars": 75,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -432,6 +432,15 @@
     "description": "W.I.P Ngrok Alternative: Self-hosted and open-source OOB reverse tunnel (TCP/UDP/SNI/HTTP/MC)"
   },
   {
+    "name": "joe-desimone/mongobleed",
+    "url": "https://github.com/joe-desimone/mongobleed",
+    "followers": 1,
+    "forks": 7,
+    "stars": 63,
+    "created_at": "2025-12-26",
+    "description": ""
+  },
+  {
     "name": "Dennis960/BackApp",
     "url": "https://github.com/Dennis960/BackApp",
     "followers": 1,
@@ -447,15 +456,6 @@
     "forks": 3,
     "stars": 63,
     "created_at": "2025-12-24",
-    "description": ""
-  },
-  {
-    "name": "joe-desimone/mongobleed",
-    "url": "https://github.com/joe-desimone/mongobleed",
-    "followers": 1,
-    "forks": 7,
-    "stars": 60,
-    "created_at": "2025-12-26",
     "description": ""
   },
   {
@@ -481,7 +481,7 @@
     "url": "https://github.com/cyl19970726/poly-sdk",
     "followers": 0,
     "forks": 98,
-    "stars": 340,
+    "stars": 341,
     "created_at": "2025-12-23",
     "description": ""
   },
@@ -489,8 +489,8 @@
     "name": "BlackSky-Jose/solana-fun-token-launch-pad",
     "url": "https://github.com/BlackSky-Jose/solana-fun-token-launch-pad",
     "followers": 0,
-    "forks": 199,
-    "stars": 197,
+    "forks": 200,
+    "stars": 198,
     "created_at": "2025-12-24",
     "description": "A comprehensive Next.js-based token launchpad platform for creating and managing SPL tokens on the Solana blockchain. This application provides an intuitive interface for token creation, liquidity management, market creation, and token authority management"
   },
@@ -499,7 +499,7 @@
     "url": "https://github.com/Maldev-Academy/DumpChromeSecrets",
     "followers": 0,
     "forks": 24,
-    "stars": 188,
+    "stars": 189,
     "created_at": "2025-12-21",
     "description": "Extract data from modern Chrome versions, including refresh tokens, cookies, saved credentials, autofill data, browsing history, and bookmarks"
   },
@@ -517,7 +517,7 @@
     "url": "https://github.com/MiniMax-AI/MiniMax-M2.1",
     "followers": 0,
     "forks": 9,
-    "stars": 145,
+    "stars": 148,
     "created_at": "2025-12-22",
     "description": "MiniMax M2.1, a SOTA model for real-world dev & agents."
   },
@@ -534,8 +534,8 @@
     "name": "tronghieuit/valtec-tts",
     "url": "https://github.com/tronghieuit/valtec-tts",
     "followers": 0,
-    "forks": 57,
-    "stars": 125,
+    "forks": 58,
+    "stars": 126,
     "created_at": "2025-12-24",
     "description": "A Vietnamese Text-to-Speech system supporting multiple speakers with high-quality voice synthesis."
   },
@@ -544,7 +544,7 @@
     "url": "https://github.com/teojs/clock-dashboard",
     "followers": 0,
     "forks": 7,
-    "stars": 119,
+    "stars": 122,
     "created_at": "2025-12-21",
     "description": "\u5929\u6c14\u65f6\u949f\u770b\u677f"
   },
@@ -553,7 +553,7 @@
     "url": "https://github.com/chaogei/windsurf-account-manager-simple",
     "followers": 0,
     "forks": 50,
-    "stars": 118,
+    "stars": 119,
     "created_at": "2025-12-23",
     "description": ""
   },
@@ -562,7 +562,7 @@
     "url": "https://github.com/tsoding/formula",
     "followers": 0,
     "forks": 11,
-    "stars": 107,
+    "stars": 112,
     "created_at": "2025-12-25",
     "description": "\"One Formula That Demystifies 3D Graphics\""
   },
@@ -588,7 +588,7 @@
     "name": "serendipity1004/cc-feature-implementer",
     "url": "https://github.com/serendipity1004/cc-feature-implementer",
     "followers": 0,
-    "forks": 67,
+    "forks": 68,
     "stars": 87,
     "created_at": "2025-12-23",
     "description": ""
@@ -607,7 +607,7 @@
     "url": "https://github.com/justhtmls/html-tools",
     "followers": 0,
     "forks": 32,
-    "stars": 83,
+    "stars": 84,
     "created_at": "2025-12-22",
     "description": "\u5f00\u6e90 HTML \u5de5\u5177\u96c6 - \u8f7b\u91cf\u3001\u6574\u6d01\u3001\u514d\u8d39\u3001\u9690\u79c1\u3001\u65e0\u9700\u5b89\u88c5"
   },
@@ -616,7 +616,7 @@
     "url": "https://github.com/LAOGOU-666/ComfyUI-LG_SamplingUtils",
     "followers": 0,
     "forks": 3,
-    "stars": 82,
+    "stars": 83,
     "created_at": "2025-12-24",
     "description": ""
   },
@@ -639,6 +639,15 @@
     "description": "vchat is a chat ui automation testing framework."
   },
   {
+    "name": "chongdashu/cc-skills-nanobananapro",
+    "url": "https://github.com/chongdashu/cc-skills-nanobananapro",
+    "followers": 0,
+    "forks": 16,
+    "stars": 72,
+    "created_at": "2025-12-25",
+    "description": ""
+  },
+  {
     "name": "emiliioaguirre/youtube-live-tts",
     "url": "https://github.com/emiliioaguirre/youtube-live-tts",
     "followers": 0,
@@ -648,20 +657,11 @@
     "description": "Real-time TTS for YouTube live streams."
   },
   {
-    "name": "chongdashu/cc-skills-nanobananapro",
-    "url": "https://github.com/chongdashu/cc-skills-nanobananapro",
-    "followers": 0,
-    "forks": 16,
-    "stars": 71,
-    "created_at": "2025-12-25",
-    "description": ""
-  },
-  {
     "name": "liangdabiao/Claude-Code-Deep-Research-main",
     "url": "https://github.com/liangdabiao/Claude-Code-Deep-Research-main",
     "followers": 0,
     "forks": 9,
-    "stars": 69,
+    "stars": 70,
     "created_at": "2025-12-25",
     "description": "\u5229\u7528claude code agent\u6846\u67b6\u4e00\u6b65\u4e00\u6b65\u5b9e\u73b0deep research\uff01\u5f88\u5f3a\u5927\u5f88\u7b80\u5355\u7684skills\u3002\u6211\u4e00\u6b65\u4e00\u6b65\u4ecb\u7ecd\u5b9e\u73b0deep research\uff0c\u56e0\u4e3adeep research\u5c31\u662fagent\u6846\u67b6\u7b2c\u4e00\u5e94\u7528\uff0c\u5bf9\u6bd4\u4e00\u4e0b\u5404\u4e2a\u6846\u67b6\u5b9e\u73b0\u8fd9\u4e2adeep research\uff0c\u5c31\u77e5\u9053\u54ea\u4e2a\u6846\u67b6\u624d\u662f\u771f\u5389\u5bb3\u3002"
   },
@@ -682,6 +682,24 @@
     "stars": 69,
     "created_at": "2025-12-21",
     "description": "FTE+AI: Vendor Replacement Program Framework"
+  },
+  {
+    "name": "leerob/pixo",
+    "url": "https://github.com/leerob/pixo",
+    "followers": 0,
+    "forks": 2,
+    "stars": 69,
+    "created_at": "2025-12-21",
+    "description": "High-performance image compression library written in Rust."
+  },
+  {
+    "name": "OpLumina/unredact.py",
+    "url": "https://github.com/OpLumina/unredact.py",
+    "followers": 0,
+    "forks": 14,
+    "stars": 68,
+    "created_at": "2025-12-25",
+    "description": "a python project that removes weak redaction methods such as black text highlighted black, and putting a non-flattened image over text."
   },
   {
     "name": "erinosborn8/repo_1766599703_157",
@@ -747,24 +765,6 @@
     "description": ""
   },
   {
-    "name": "OpLumina/unredact.py",
-    "url": "https://github.com/OpLumina/unredact.py",
-    "followers": 0,
-    "forks": 14,
-    "stars": 67,
-    "created_at": "2025-12-25",
-    "description": "a python project that removes weak redaction methods such as black text highlighted black, and putting a non-flattened image over text."
-  },
-  {
-    "name": "leerob/pixo",
-    "url": "https://github.com/leerob/pixo",
-    "followers": 0,
-    "forks": 2,
-    "stars": 67,
-    "created_at": "2025-12-21",
-    "description": "High-performance image compression library written in Rust."
-  },
-  {
     "name": "larryhoneycutt/repo_1766526346_15830",
     "url": "https://github.com/larryhoneycutt/repo_1766526346_15830",
     "followers": 0,
@@ -804,9 +804,18 @@
     "name": "darkfiv/DouSql",
     "url": "https://github.com/darkfiv/DouSql",
     "followers": 0,
-    "forks": 4,
-    "stars": 62,
+    "forks": 5,
+    "stars": 65,
     "created_at": "2025-12-25",
+    "description": ""
+  },
+  {
+    "name": "Sharp-ML/SHARP-ML",
+    "url": "https://github.com/Sharp-ML/SHARP-ML",
+    "followers": 0,
+    "forks": 11,
+    "stars": 62,
+    "created_at": "2025-12-21",
     "description": ""
   },
   {
@@ -817,15 +826,6 @@
     "stars": 62,
     "created_at": "2025-12-25",
     "description": "\u4e00\u6b3e\u73b0\u4ee3\u5316\u7684 Docker Compose \u53ef\u89c6\u5316\u751f\u6210\u5668\uff0c\u901a\u8fc7\u62d6\u62fd\u64cd\u4f5c\u5feb\u901f\u6784\u5efa\u5bb9\u5668\u7f16\u6392\u914d\u7f6e\u6587\u4ef6\u3002"
-  },
-  {
-    "name": "Sharp-ML/SHARP-ML",
-    "url": "https://github.com/Sharp-ML/SHARP-ML",
-    "followers": 0,
-    "forks": 11,
-    "stars": 61,
-    "created_at": "2025-12-21",
-    "description": ""
   },
   {
     "name": "Solo-Defi/repo_1766507709_5010",
@@ -867,7 +867,7 @@
     "name": "postrv/narsil-mcp",
     "url": "https://github.com/postrv/narsil-mcp",
     "followers": 0,
-    "forks": 5,
+    "forks": 4,
     "stars": 57,
     "created_at": "2025-12-24",
     "description": "Rust MCP server for comprehensive code intelligence - 76 tools, 16 languages, security scanning, call graphs, and more"
