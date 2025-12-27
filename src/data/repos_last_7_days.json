@@ -4,7 +4,7 @@
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "followers": 30,
     "forks": 288,
-    "stars": 3592,
+    "stars": 3598,
     "created_at": "2025-12-21",
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
   },
@@ -13,7 +13,7 @@
     "url": "https://github.com/bellard/mquickjs",
     "followers": 26,
     "forks": 150,
-    "stars": 4417,
+    "stars": 4418,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
@@ -22,7 +22,7 @@
     "url": "https://github.com/antonmedv/textarea",
     "followers": 10,
     "forks": 61,
-    "stars": 915,
+    "stars": 919,
     "created_at": "2025-12-22",
     "description": "A minimalist text editor that lives in URL"
   },
@@ -31,7 +31,7 @@
     "url": "https://github.com/ratava/lumina-energy-card",
     "followers": 7,
     "forks": 12,
-    "stars": 102,
+    "stars": 103,
     "created_at": "2025-12-21",
     "description": "Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays"
   },
@@ -49,7 +49,7 @@
     "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
     "followers": 5,
     "forks": 31,
-    "stars": 415,
+    "stars": 416,
     "created_at": "2025-12-23",
     "description": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions."
   },
@@ -108,11 +108,11 @@
     "description": "Connect Cursor, Copilot & Claude directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language."
   },
   {
-    "name": "parcadei/Continuous-Claude",
-    "url": "https://github.com/parcadei/Continuous-Claude",
+    "name": "parcadei/Continuous-Claude-v2",
+    "url": "https://github.com/parcadei/Continuous-Claude-v2",
     "followers": 3,
     "forks": 48,
-    "stars": 633,
+    "stars": 637,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -121,7 +121,7 @@
     "url": "https://github.com/eyeblech/cinecli",
     "followers": 3,
     "forks": 24,
-    "stars": 607,
+    "stars": 609,
     "created_at": "2025-12-21",
     "description": "CineCLI is a cross-platform command-line movie browser built with Python."
   },
@@ -129,8 +129,8 @@
     "name": "leedrake5/unredact",
     "url": "https://github.com/leedrake5/unredact",
     "followers": 3,
-    "forks": 53,
-    "stars": 424,
+    "forks": 54,
+    "stars": 425,
     "created_at": "2025-12-23",
     "description": "A simple tool for reading in poorly redacted documents and reproducing their origional form"
   },
@@ -157,7 +157,7 @@
     "url": "https://github.com/popovicu/ultimate-linux",
     "followers": 3,
     "forks": 5,
-    "stars": 172,
+    "stars": 174,
     "created_at": "2025-12-24",
     "description": "The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!"
   },
@@ -202,7 +202,7 @@
     "url": "https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
     "followers": 2,
     "forks": 40,
-    "stars": 280,
+    "stars": 281,
     "created_at": "2025-12-21",
     "description": "100+ RAG interview questions with answers."
   },
@@ -210,8 +210,8 @@
     "name": "siinghd/yourinfo",
     "url": "https://github.com/siinghd/yourinfo",
     "followers": 2,
-    "forks": 27,
-    "stars": 237,
+    "forks": 28,
+    "stars": 239,
     "created_at": "2025-12-24",
     "description": "Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization"
   },
@@ -220,7 +220,7 @@
     "url": "https://github.com/abhishekkrthakur/NyRAG",
     "followers": 2,
     "forks": 22,
-    "stars": 194,
+    "stars": 195,
     "created_at": "2025-12-22",
     "description": "advanced, scalable, no-code RAG"
   },
@@ -229,7 +229,7 @@
     "url": "https://github.com/MiniMax-AI/MiniMax-M2.1",
     "followers": 2,
     "forks": 11,
-    "stars": 174,
+    "stars": 175,
     "created_at": "2025-12-22",
     "description": "MiniMax M2.1, a SOTA model for real-world dev & agents."
   },
@@ -237,7 +237,7 @@
     "name": "pierridotite/stonks-dashboard",
     "url": "https://github.com/pierridotite/stonks-dashboard",
     "followers": 2,
-    "forks": 12,
+    "forks": 13,
     "stars": 137,
     "created_at": "2025-12-23",
     "description": "A cyberpunk-style, real-time financial monitor that runs directly in the terminal. It visualizes cryptocurrency and stock market data using ASCII charts and dynamic coloring."
@@ -273,8 +273,8 @@
     "name": "Imetomi/retro-futuristic-ui-design",
     "url": "https://github.com/Imetomi/retro-futuristic-ui-design",
     "followers": 2,
-    "forks": 6,
-    "stars": 76,
+    "forks": 7,
+    "stars": 77,
     "created_at": "2025-12-22",
     "description": "Creating web-based retro effects is quite hard, use this for inspiration"
   },
@@ -301,7 +301,7 @@
     "url": "https://github.com/YangJiiii/EnsWilde",
     "followers": 2,
     "forks": 3,
-    "stars": 68,
+    "stars": 69,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -319,7 +319,7 @@
     "url": "https://github.com/ClashConnectRules/Self-Configuration",
     "followers": 1,
     "forks": 48,
-    "stars": 667,
+    "stars": 668,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -337,7 +337,7 @@
     "url": "https://github.com/tiann/hapi",
     "followers": 1,
     "forks": 33,
-    "stars": 327,
+    "stars": 328,
     "created_at": "2025-12-24",
     "description": "App for agentic coding - access coding agent anywhere"
   },
@@ -346,7 +346,7 @@
     "url": "https://github.com/nguyenphutrong/quotio",
     "followers": 1,
     "forks": 27,
-    "stars": 238,
+    "stars": 240,
     "created_at": "2025-12-24",
     "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions \u2013 with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid."
   },
@@ -354,8 +354,8 @@
     "name": "simonw/claude-code-transcripts",
     "url": "https://github.com/simonw/claude-code-transcripts",
     "followers": 1,
-    "forks": 19,
-    "stars": 213,
+    "forks": 21,
+    "stars": 222,
     "created_at": "2025-12-24",
     "description": "Tools for publishing transcripts for Claude Code sessions"
   },
@@ -363,8 +363,8 @@
     "name": "asklokesh/claudeskill-loki-mode",
     "url": "https://github.com/asklokesh/claudeskill-loki-mode",
     "followers": 1,
-    "forks": 34,
-    "stars": 162,
+    "forks": 35,
+    "stars": 164,
     "created_at": "2025-12-26",
     "description": "Multi-agent autonomous startup system for Claude Code"
   },
@@ -381,8 +381,8 @@
     "name": "0x0funky/audioghost-ai",
     "url": "https://github.com/0x0funky/audioghost-ai",
     "followers": 1,
-    "forks": 8,
-    "stars": 159,
+    "forks": 9,
+    "stars": 160,
     "created_at": "2025-12-22",
     "description": "Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI."
   },
@@ -399,8 +399,8 @@
     "name": "joe-desimone/mongobleed",
     "url": "https://github.com/joe-desimone/mongobleed",
     "followers": 1,
-    "forks": 21,
-    "stars": 131,
+    "forks": 23,
+    "stars": 135,
     "created_at": "2025-12-26",
     "description": ""
   },
@@ -409,7 +409,7 @@
     "url": "https://github.com/Lolendor/reVCDOS",
     "followers": 1,
     "forks": 65,
-    "stars": 125,
+    "stars": 127,
     "created_at": "2025-12-23",
     "description": "Web-based port of GTA: Vice City running in browser via WebAssembly."
   },
@@ -427,7 +427,7 @@
     "url": "https://github.com/UniSecurityGuard/UniSecurityGuard",
     "followers": 1,
     "forks": 0,
-    "stars": 97,
+    "stars": 98,
     "created_at": "2025-12-27",
     "description": "\u672c\u79d1\u534e\u4e94\uff0c\u66fe\u8d74\u7f8eqs50\u8bfb\u535a\uff0c\u67d0\u5144\u5f1f\u9662\u6821\u526f\u6559\u6388\uff0c\u6821\u56ed\u95e8\u536b\u4ead\u5973\u6027\u4e3b\u7406\u4eba\uff0c\u4e3a\u9632\u6b62\u70b8\u53f7\u7684\u5907\u4efd\u5e73\u53f0\uff0c\u662f\u672c\u4eba\u3002"
   },
@@ -504,6 +504,15 @@
     "description": "Jarida (Jadx + Frida) is a Jadx GUI plugin that lets you trace and optionally patch Java method return values at runtime using Frida, directly from Jadx\u2019s decompiled view."
   },
   {
+    "name": "abusoww/tuxmate",
+    "url": "https://github.com/abusoww/tuxmate",
+    "followers": 0,
+    "forks": 9,
+    "stars": 354,
+    "created_at": "2025-12-24",
+    "description": "THE MISSING BULK APP INSTALLER FOR LINUX"
+  },
+  {
     "name": "cyl19970726/poly-sdk",
     "url": "https://github.com/cyl19970726/poly-sdk",
     "followers": 0,
@@ -511,15 +520,6 @@
     "stars": 345,
     "created_at": "2025-12-23",
     "description": ""
-  },
-  {
-    "name": "abusoww/tuxmate",
-    "url": "https://github.com/abusoww/tuxmate",
-    "followers": 0,
-    "forks": 8,
-    "stars": 344,
-    "created_at": "2025-12-24",
-    "description": "THE MISSING BULK APP INSTALLER FOR LINUX"
   },
   {
     "name": "BlackSky-Jose/solana-fun-token-launch-pad",
@@ -535,7 +535,7 @@
     "url": "https://github.com/Maldev-Academy/DumpChromeSecrets",
     "followers": 0,
     "forks": 25,
-    "stars": 209,
+    "stars": 210,
     "created_at": "2025-12-21",
     "description": "Extract data from modern Chrome versions, including refresh tokens, cookies, saved credentials, autofill data, browsing history, and bookmarks"
   },
@@ -552,7 +552,7 @@
     "name": "tsoding/formula",
     "url": "https://github.com/tsoding/formula",
     "followers": 0,
-    "forks": 12,
+    "forks": 13,
     "stars": 142,
     "created_at": "2025-12-25",
     "description": "\"One Formula That Demystifies 3D Graphics\""
@@ -589,7 +589,7 @@
     "url": "https://github.com/chaogei/windsurf-account-manager-simple",
     "followers": 0,
     "forks": 51,
-    "stars": 120,
+    "stars": 121,
     "created_at": "2025-12-23",
     "description": ""
   },
@@ -598,7 +598,7 @@
     "url": "https://github.com/f1shy-dev/distracted",
     "followers": 0,
     "forks": 8,
-    "stars": 105,
+    "stars": 114,
     "created_at": "2025-12-26",
     "description": "blocks distracting websites! annoy you to get back on them..."
   },
@@ -607,9 +607,18 @@
     "url": "https://github.com/kenryu42/claude-code-safety-net",
     "followers": 0,
     "forks": 6,
-    "stars": 105,
+    "stars": 107,
     "created_at": "2025-12-25",
     "description": "A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute."
+  },
+  {
+    "name": "RackulaLives/Rackula",
+    "url": "https://github.com/RackulaLives/Rackula",
+    "followers": 0,
+    "forks": 1,
+    "stars": 100,
+    "created_at": "2025-12-25",
+    "description": ""
   },
   {
     "name": "bjzhou/iptv-collector",
@@ -627,15 +636,6 @@
     "forks": 9,
     "stars": 93,
     "created_at": "2025-12-23",
-    "description": ""
-  },
-  {
-    "name": "RackulaLives/Rackula",
-    "url": "https://github.com/RackulaLives/Rackula",
-    "followers": 0,
-    "forks": 1,
-    "stars": 93,
-    "created_at": "2025-12-25",
     "description": ""
   },
   {
@@ -688,7 +688,7 @@
     "url": "https://github.com/chongdashu/cc-skills-nanobananapro",
     "followers": 0,
     "forks": 17,
-    "stars": 84,
+    "stars": 85,
     "created_at": "2025-12-25",
     "description": ""
   },
