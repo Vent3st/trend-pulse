@@ -4,7 +4,7 @@
     "url": "https://github.com/bellard/mquickjs",
     "followers": 26,
     "forks": 155,
-    "stars": 4525,
+    "stars": 4530,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
@@ -12,8 +12,8 @@
     "name": "antonmedv/textarea",
     "url": "https://github.com/antonmedv/textarea",
     "followers": 10,
-    "forks": 65,
-    "stars": 984,
+    "forks": 66,
+    "stars": 992,
     "created_at": "2025-12-22",
     "description": "A minimalist text editor that lives in URL"
   },
@@ -31,7 +31,7 @@
     "url": "https://github.com/parcadei/Continuous-Claude-v2",
     "followers": 5,
     "forks": 53,
-    "stars": 723,
+    "stars": 727,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -72,11 +72,20 @@
     "description": "Connect Cursor, Copilot & Claude directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language."
   },
   {
+    "name": "koki7o/claude-code-for-beginners",
+    "url": "https://github.com/koki7o/claude-code-for-beginners",
+    "followers": 4,
+    "forks": 15,
+    "stars": 72,
+    "created_at": "2025-12-27",
+    "description": "Your Complete Beginner's Course to Mastering AI-Powered Development with Claude Code"
+  },
+  {
     "name": "leedrake5/unredact",
     "url": "https://github.com/leedrake5/unredact",
     "followers": 3,
     "forks": 56,
-    "stars": 442,
+    "stars": 446,
     "created_at": "2025-12-23",
     "description": "A simple tool for reading in poorly redacted documents and reproducing their origional form"
   },
@@ -112,7 +121,7 @@
     "url": "https://github.com/pierridotite/stonks-dashboard",
     "followers": 3,
     "forks": 13,
-    "stars": 140,
+    "stars": 141,
     "created_at": "2025-12-23",
     "description": "A cyberpunk-style, real-time financial monitor that runs directly in the terminal. It visualizes cryptocurrency and stock market data using ASCII charts and dynamic coloring."
   },
@@ -135,15 +144,6 @@
     "description": "An open-source navigation stack based on Odin1."
   },
   {
-    "name": "koki7o/claude-code-for-beginners",
-    "url": "https://github.com/koki7o/claude-code-for-beginners",
-    "followers": 3,
-    "forks": 15,
-    "stars": 71,
-    "created_at": "2025-12-27",
-    "description": "Your Complete Beginner's Course to Mastering AI-Powered Development with Claude Code"
-  },
-  {
     "name": "HyoKong/WorldWarp",
     "url": "https://github.com/HyoKong/WorldWarp",
     "followers": 3,
@@ -162,6 +162,15 @@
     "description": ""
   },
   {
+    "name": "simonw/claude-code-transcripts",
+    "url": "https://github.com/simonw/claude-code-transcripts",
+    "followers": 2,
+    "forks": 33,
+    "stars": 331,
+    "created_at": "2025-12-24",
+    "description": "Tools for publishing transcripts for Claude Code sessions"
+  },
+  {
     "name": "remorses/tuitube",
     "url": "https://github.com/remorses/tuitube",
     "followers": 2,
@@ -174,8 +183,8 @@
     "name": "technomancer702/nodecast-tv",
     "url": "https://github.com/technomancer702/nodecast-tv",
     "followers": 2,
-    "forks": 11,
-    "stars": 297,
+    "forks": 12,
+    "stars": 309,
     "created_at": "2025-12-27",
     "description": "A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly."
   },
@@ -193,7 +202,7 @@
     "url": "https://github.com/abhishekkrthakur/NyRAG",
     "followers": 2,
     "forks": 24,
-    "stars": 211,
+    "stars": 213,
     "created_at": "2025-12-22",
     "description": "advanced, scalable, no-code RAG"
   },
@@ -202,7 +211,7 @@
     "url": "https://github.com/MiniMax-AI/MiniMax-M2.1",
     "followers": 2,
     "forks": 12,
-    "stars": 187,
+    "stars": 188,
     "created_at": "2025-12-22",
     "description": "MiniMax M2.1, a SOTA model for real-world dev & agents."
   },
@@ -220,7 +229,7 @@
     "url": "https://github.com/Dennis960/BackApp",
     "followers": 2,
     "forks": 4,
-    "stars": 106,
+    "stars": 108,
     "created_at": "2025-12-22",
     "description": "UI for Backup automation over SSH, replacing custom shell scripts and cron configurations, as a binary < 50 MB"
   },
@@ -256,7 +265,7 @@
     "url": "https://github.com/jvdillon/netv",
     "followers": 2,
     "forks": 2,
-    "stars": 68,
+    "stars": 72,
     "created_at": "2025-12-28",
     "description": "neTV - IPTV for your Browser"
   },
@@ -264,8 +273,8 @@
     "name": "ClashConnectRules/Self-Configuration",
     "url": "https://github.com/ClashConnectRules/Self-Configuration",
     "followers": 1,
-    "forks": 60,
-    "stars": 769,
+    "forks": 61,
+    "stars": 772,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -274,7 +283,7 @@
     "url": "https://github.com/abusoww/tuxmate",
     "followers": 1,
     "forks": 27,
-    "stars": 602,
+    "stars": 614,
     "created_at": "2025-12-24",
     "description": "THE MISSING BULK APP INSTALLER FOR LINUX"
   },
@@ -288,6 +297,15 @@
     "description": ""
   },
   {
+    "name": "nguyenphutrong/quotio",
+    "url": "https://github.com/nguyenphutrong/quotio",
+    "followers": 1,
+    "forks": 34,
+    "stars": 339,
+    "created_at": "2025-12-24",
+    "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions \u2013 with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid."
+  },
+  {
     "name": "tiann/hapi",
     "url": "https://github.com/tiann/hapi",
     "followers": 1,
@@ -297,56 +315,38 @@
     "description": "App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere"
   },
   {
-    "name": "nguyenphutrong/quotio",
-    "url": "https://github.com/nguyenphutrong/quotio",
-    "followers": 1,
-    "forks": 33,
-    "stars": 332,
-    "created_at": "2025-12-24",
-    "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions \u2013 with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid."
-  },
-  {
-    "name": "simonw/claude-code-transcripts",
-    "url": "https://github.com/simonw/claude-code-transcripts",
-    "followers": 1,
-    "forks": 33,
-    "stars": 328,
-    "created_at": "2025-12-24",
-    "description": "Tools for publishing transcripts for Claude Code sessions"
-  },
-  {
     "name": "joe-desimone/mongobleed",
     "url": "https://github.com/joe-desimone/mongobleed",
     "followers": 1,
-    "forks": 41,
-    "stars": 229,
+    "forks": 42,
+    "stars": 244,
     "created_at": "2025-12-26",
     "description": ""
-  },
-  {
-    "name": "asklokesh/claudeskill-loki-mode",
-    "url": "https://github.com/asklokesh/claudeskill-loki-mode",
-    "followers": 1,
-    "forks": 43,
-    "stars": 183,
-    "created_at": "2025-12-26",
-    "description": "Multi-agent autonomous startup system for Claude Code"
   },
   {
     "name": "tobi/AudioPriorityBar",
     "url": "https://github.com/tobi/AudioPriorityBar",
     "followers": 1,
     "forks": 6,
-    "stars": 181,
+    "stars": 195,
     "created_at": "2025-12-27",
     "description": "A native macOS menu bar app for managing audio device priorities"
+  },
+  {
+    "name": "asklokesh/claudeskill-loki-mode",
+    "url": "https://github.com/asklokesh/claudeskill-loki-mode",
+    "followers": 1,
+    "forks": 44,
+    "stars": 185,
+    "created_at": "2025-12-26",
+    "description": "Multi-agent autonomous startup system for Claude Code"
   },
   {
     "name": "UniSecurityGuard/UniSecurityGuard",
     "url": "https://github.com/UniSecurityGuard/UniSecurityGuard",
     "followers": 1,
     "forks": 0,
-    "stars": 175,
+    "stars": 177,
     "created_at": "2025-12-27",
     "description": "\u672c\u79d1\u534e\u4e94\uff0c\u66fe\u8d74\u7f8eqs50\u8bfb\u535a\uff0c\u67d0\u5144\u5f1f\u9662\u6821\u526f\u6559\u6388\uff0c\u6821\u56ed\u95e8\u536b\u4ead\u5973\u6027\u4e3b\u7406\u4eba\uff0c\u4e3a\u9632\u6b62\u70b8\u53f7\u7684\u5907\u4efd\u5e73\u53f0\uff0c\u662f\u672c\u4eba\u3002"
   },
@@ -355,7 +355,7 @@
     "url": "https://github.com/ink1ing/anti-api",
     "followers": 1,
     "forks": 11,
-    "stars": 169,
+    "stars": 170,
     "created_at": "2025-12-24",
     "description": "Turn Antigravity into Anthropic API compatible server. Usable with Claude Code / Xcode / Cherry Studio / ChatWise!"
   },
@@ -373,18 +373,9 @@
     "url": "https://github.com/f1shy-dev/distracted",
     "followers": 1,
     "forks": 12,
-    "stars": 153,
+    "stars": 154,
     "created_at": "2025-12-26",
     "description": "blocks distracting websites! annoy you to get back on them..."
-  },
-  {
-    "name": "davidfowl/tally",
-    "url": "https://github.com/davidfowl/tally",
-    "followers": 1,
-    "forks": 9,
-    "stars": 147,
-    "created_at": "2025-12-26",
-    "description": "LLM-powered spending categorization. Let AI classify your bank transactions."
   },
   {
     "name": "Lolendor/reVCDOS",
@@ -400,7 +391,7 @@
     "url": "https://github.com/adnxy/rnsec",
     "followers": 1,
     "forks": 21,
-    "stars": 118,
+    "stars": 125,
     "created_at": "2025-12-24",
     "description": "Lightweight Security Scanner for React Native & Expo"
   },
@@ -445,7 +436,7 @@
     "url": "https://github.com/tenacious6/cf-autoclick",
     "followers": 1,
     "forks": 32,
-    "stars": 91,
+    "stars": 92,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -517,7 +508,7 @@
     "url": "https://github.com/simondaubner/LiveStreamTranslateV3",
     "followers": 0,
     "forks": 0,
-    "stars": 177,
+    "stars": 178,
     "created_at": "2025-12-27",
     "description": "Uses LLM APIs to translate an audio source live. Perfect for live streaming with OBS."
   },
@@ -526,7 +517,7 @@
     "url": "https://github.com/RackulaLives/Rackula",
     "followers": 0,
     "forks": 2,
-    "stars": 164,
+    "stars": 169,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -538,6 +529,15 @@
     "stars": 159,
     "created_at": "2025-12-25",
     "description": "\"One Formula That Demystifies 3D Graphics\""
+  },
+  {
+    "name": "davidfowl/tally",
+    "url": "https://github.com/davidfowl/tally",
+    "followers": 0,
+    "forks": 10,
+    "stars": 150,
+    "created_at": "2025-12-26",
+    "description": "LLM-powered spending categorization. Let AI classify your bank transactions."
   },
   {
     "name": "tronghieuit/valtec-tts",
@@ -567,6 +567,15 @@
     "description": "A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute."
   },
   {
+    "name": "supermemoryai/opencode-supermemory",
+    "url": "https://github.com/supermemoryai/opencode-supermemory",
+    "followers": 0,
+    "forks": 6,
+    "stars": 132,
+    "created_at": "2025-12-24",
+    "description": "Supermemory plugin for OpenCode"
+  },
+  {
     "name": "chaogei/windsurf-account-manager-simple",
     "url": "https://github.com/chaogei/windsurf-account-manager-simple",
     "followers": 0,
@@ -576,22 +585,22 @@
     "description": ""
   },
   {
-    "name": "supermemoryai/opencode-supermemory",
-    "url": "https://github.com/supermemoryai/opencode-supermemory",
-    "followers": 0,
-    "forks": 6,
-    "stars": 124,
-    "created_at": "2025-12-24",
-    "description": "Supermemory plugin for OpenCode"
-  },
-  {
     "name": "kubeden/clopus-watcher",
     "url": "https://github.com/kubeden/clopus-watcher",
     "followers": 0,
     "forks": 15,
-    "stars": 119,
+    "stars": 121,
     "created_at": "2025-12-25",
     "description": "An autonomous 24/7 on-call engineer in the form of a Claude Code living in a cronjob."
+  },
+  {
+    "name": "JessyTsui/ai-coding-kit",
+    "url": "https://github.com/JessyTsui/ai-coding-kit",
+    "followers": 0,
+    "forks": 10,
+    "stars": 97,
+    "created_at": "2025-12-23",
+    "description": ""
   },
   {
     "name": "bjzhou/iptv-collector",
@@ -603,20 +612,11 @@
     "description": ""
   },
   {
-    "name": "JessyTsui/ai-coding-kit",
-    "url": "https://github.com/JessyTsui/ai-coding-kit",
-    "followers": 0,
-    "forks": 10,
-    "stars": 96,
-    "created_at": "2025-12-23",
-    "description": ""
-  },
-  {
     "name": "Luokavin/AutoGLM-For-Android",
     "url": "https://github.com/Luokavin/AutoGLM-For-Android",
     "followers": 0,
     "forks": 17,
-    "stars": 94,
+    "stars": 95,
     "created_at": "2025-12-27",
     "description": "\u57fa\u4e8e Open-AutoGLM \u7684 Android \u539f\u751f\u624b\u673a\u667a\u80fd\u52a9\u624b\u5e94\u7528 | Native Android Phone AI Assistant Based on Open-AutoGLM"
   },
@@ -652,7 +652,7 @@
     "url": "https://github.com/liangdabiao/Claude-Code-Deep-Research-main",
     "followers": 0,
     "forks": 11,
-    "stars": 84,
+    "stars": 85,
     "created_at": "2025-12-25",
     "description": "\u5229\u7528claude code agent\u6846\u67b6\u4e00\u6b65\u4e00\u6b65\u5b9e\u73b0deep research\uff01\u5f88\u5f3a\u5927\u5f88\u7b80\u5355\u7684skills\u3002\u6211\u4e00\u6b65\u4e00\u6b65\u4ecb\u7ecd\u5b9e\u73b0deep research\uff0c\u56e0\u4e3adeep research\u5c31\u662fagent\u6846\u67b6\u7b2c\u4e00\u5e94\u7528\uff0c\u5bf9\u6bd4\u4e00\u4e0b\u5404\u4e2a\u6846\u67b6\u5b9e\u73b0\u8fd9\u4e2adeep research\uff0c\u5c31\u77e5\u9053\u54ea\u4e2a\u6846\u67b6\u624d\u662f\u771f\u5389\u5bb3\u3002"
   },
@@ -661,7 +661,7 @@
     "url": "https://github.com/iamzhihuix/happy-claude-skills",
     "followers": 0,
     "forks": 6,
-    "stars": 82,
+    "stars": 84,
     "created_at": "2025-12-27",
     "description": ""
   },
@@ -669,8 +669,8 @@
     "name": "darkfiv/DouSql",
     "url": "https://github.com/darkfiv/DouSql",
     "followers": 0,
-    "forks": 5,
-    "stars": 80,
+    "forks": 6,
+    "stars": 81,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -729,6 +729,15 @@
     "description": "\u57fa\u4e8e Open-AutoGLM \u7684\u624b\u673a\u81ea\u52a8\u5316\u5b9a\u65f6\u4efb\u52a1\u7cfb\u7edf\uff0c\u8ba9 AI \u5e2e\u4f60\u5b9a\u65f6\u5b8c\u6210\u624b\u673a\u4e0a\u7684\u91cd\u590d\u6027\u5de5\u4f5c\u3002"
   },
   {
+    "name": "broady/claude2stream",
+    "url": "https://github.com/broady/claude2stream",
+    "followers": 0,
+    "forks": 3,
+    "stars": 72,
+    "created_at": "2025-12-27",
+    "description": "Claude history as live-tailing Durable Streams"
+  },
+  {
     "name": "OpLumina/unredact.py",
     "url": "https://github.com/OpLumina/unredact.py",
     "followers": 0,
@@ -760,7 +769,7 @@
     "url": "https://github.com/validatedev/BrewServicesManager",
     "followers": 0,
     "forks": 2,
-    "stars": 68,
+    "stars": 69,
     "created_at": "2025-12-25",
     "description": "A macOS menu bar app for managing Homebrew services"
   },
@@ -873,15 +882,6 @@
     "description": ""
   },
   {
-    "name": "broady/claude2stream",
-    "url": "https://github.com/broady/claude2stream",
-    "followers": 0,
-    "forks": 2,
-    "stars": 66,
-    "created_at": "2025-12-27",
-    "description": "Claude history as live-tailing Durable Streams"
-  },
-  {
     "name": "haiyewei/GoofishCredentialsBot",
     "url": "https://github.com/haiyewei/GoofishCredentialsBot",
     "followers": 0,
@@ -891,12 +891,12 @@
     "description": "\u95f2\u9c7c\u5361\u5bc6\u673a\u5668\u4eba - \u81ea\u52a8\u56de\u590d\u3001\u81ea\u52a8\u53d1\u8d27\u3001\u8ba2\u5355\u7ba1\u7406\u3001\u591a\u8d26\u53f7\u652f\u6301"
   },
   {
-    "name": "liangdabiao/claude-data-analysis-ultra-main",
-    "url": "https://github.com/liangdabiao/claude-data-analysis-ultra-main",
+    "name": "JaffryGao/notebooklmfix",
+    "url": "https://github.com/JaffryGao/notebooklmfix",
     "followers": 0,
-    "forks": 15,
-    "stars": 64,
-    "created_at": "2025-12-24",
-    "description": "\u8ba9\u5c0f\u767d\u90fd\u53ef\u4ee5\u4e00\u952e\u8fdb\u884c\u6570\u636e\u5206\u6790\uff0c\u641e\u4e92\u8054\u7f51\u7684\uff0c\u641e\u7535\u5546\u7684\uff0c\u641e\u5404\u79cd\u5404\u6837\u7684\uff0c\u90a3\u4e48\u5176\u5b9e\u5c31\u4f1a\u7528\u5230 \u4e92\u8054\u7f51\u7684\u6570\u636e\u5206\u6790\uff0c \u4f8b\u5982\u4e92\u8054\u7f51\u4f1a\u5173\u5fc3 \u62c9\u65b0\uff0c\u7559\u5b58\uff0c\u4fc3\u6d3b\uff0c\u63a8\u8350\uff0c\u8f6c\u5316\uff0cA/B test, \u7528\u6237\u5206\u6790 \u7b49\u7b49\u5f88\u591a\u6709\u7528\u7684\u6570\u636e\u5206\u6790\u3002 \u547d\u4ee4\u5c31\u662f\u201c/do-more\u201d."
+    "forks": 10,
+    "stars": 65,
+    "created_at": "2025-12-23",
+    "description": "Batch Slide HD of NotebookLM Generated Slides via AI"
   }
 ]
