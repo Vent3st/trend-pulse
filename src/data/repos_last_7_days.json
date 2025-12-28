@@ -4,7 +4,7 @@
     "url": "https://github.com/bellard/mquickjs",
     "followers": 26,
     "forks": 153,
-    "stars": 4444,
+    "stars": 4452,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
@@ -13,7 +13,7 @@
     "url": "https://github.com/antonmedv/textarea",
     "followers": 10,
     "forks": 62,
-    "stars": 937,
+    "stars": 940,
     "created_at": "2025-12-22",
     "description": "A minimalist text editor that lives in URL"
   },
@@ -22,7 +22,7 @@
     "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
     "followers": 6,
     "forks": 34,
-    "stars": 420,
+    "stars": 422,
     "created_at": "2025-12-23",
     "description": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions."
   },
@@ -31,7 +31,7 @@
     "url": "https://github.com/dennisyang1986/opensqt_market_maker",
     "followers": 4,
     "forks": 247,
-    "stars": 543,
+    "stars": 545,
     "created_at": "2025-12-24",
     "description": "OpenSQT \u662f\u4e00\u4e2a\u9ad8\u6027\u80fd\u3001\u4f4e\u5ef6\u8fdf\u7684\u52a0\u5bc6\u8d27\u5e01\u505a\u5e02\u5546\u7cfb\u7edf\uff0c\u4e13\u6ce8\u4e8e\u6c38\u7eed\u5408\u7ea6\u5e02\u573a\u7684\u505a\u591a\u7f51\u683c\u4ea4\u6613\u7b56\u7565\u3002\u7cfb\u7edf\u91c7\u7528 Go \u8bed\u8a00\u5f00\u53d1\uff0c\u57fa\u4e8e WebSocket \u5b9e\u65f6\u6570\u636e\u6d41\u9a71\u52a8\uff0c\u65e8\u5728\u4e3a Binance\u3001Bitget\u3001Gate.io \u7b49\u4e3b\u6d41\u4ea4\u6613\u6240\u63d0\u4f9b\u7a33\u5b9a\u7684\u6d41\u52a8\u6027\u652f\u6301\u3002"
   },
@@ -58,7 +58,7 @@
     "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
     "followers": 4,
     "forks": 20,
-    "stars": 95,
+    "stars": 96,
     "created_at": "2025-12-24",
     "description": "Connect Cursor, Copilot & Claude directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language."
   },
@@ -67,7 +67,7 @@
     "url": "https://github.com/parcadei/Continuous-Claude-v2",
     "followers": 3,
     "forks": 51,
-    "stars": 665,
+    "stars": 670,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -76,7 +76,7 @@
     "url": "https://github.com/leedrake5/unredact",
     "followers": 3,
     "forks": 54,
-    "stars": 426,
+    "stars": 428,
     "created_at": "2025-12-23",
     "description": "A simple tool for reading in poorly redacted documents and reproducing their origional form"
   },
@@ -94,7 +94,7 @@
     "url": "https://github.com/Doriandarko/gemini-writer",
     "followers": 3,
     "forks": 37,
-    "stars": 208,
+    "stars": 209,
     "created_at": "2025-12-24",
     "description": "AI writing agent powered by gemini 3 flash - autonomously creates novels and stories with deep reasoning"
   },
@@ -102,7 +102,7 @@
     "name": "popovicu/ultimate-linux",
     "url": "https://github.com/popovicu/ultimate-linux",
     "followers": 3,
-    "forks": 5,
+    "forks": 6,
     "stars": 176,
     "created_at": "2025-12-24",
     "description": "The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!"
@@ -121,7 +121,7 @@
     "url": "https://github.com/ManifoldTechLtd/Odin-Nav-Stack",
     "followers": 3,
     "forks": 3,
-    "stars": 67,
+    "stars": 68,
     "created_at": "2025-12-25",
     "description": "An open-source navigation stack based on Odin1."
   },
@@ -193,7 +193,7 @@
     "url": "https://github.com/technomancer702/nodecast-tv",
     "followers": 2,
     "forks": 4,
-    "stars": 104,
+    "stars": 121,
     "created_at": "2025-12-27",
     "description": "A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly."
   },
@@ -211,7 +211,7 @@
     "url": "https://github.com/Dennis960/BackApp",
     "followers": 2,
     "forks": 2,
-    "stars": 79,
+    "stars": 80,
     "created_at": "2025-12-22",
     "description": "UI for Backup automation over SSH, replacing custom shell scripts and cron configurations, as a binary < 50 MB"
   },
@@ -246,8 +246,8 @@
     "name": "ClashConnectRules/Self-Configuration",
     "url": "https://github.com/ClashConnectRules/Self-Configuration",
     "followers": 1,
-    "forks": 53,
-    "stars": 708,
+    "forks": 54,
+    "stars": 711,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -264,7 +264,7 @@
     "name": "tiann/hapi",
     "url": "https://github.com/tiann/hapi",
     "followers": 1,
-    "forks": 34,
+    "forks": 35,
     "stars": 331,
     "created_at": "2025-12-24",
     "description": "App for agentic coding - access coding agent anywhere"
@@ -274,7 +274,7 @@
     "url": "https://github.com/nguyenphutrong/quotio",
     "followers": 1,
     "forks": 28,
-    "stars": 275,
+    "stars": 278,
     "created_at": "2025-12-24",
     "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions \u2013 with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid."
   },
@@ -282,8 +282,8 @@
     "name": "simonw/claude-code-transcripts",
     "url": "https://github.com/simonw/claude-code-transcripts",
     "followers": 1,
-    "forks": 26,
-    "stars": 249,
+    "forks": 27,
+    "stars": 256,
     "created_at": "2025-12-24",
     "description": "Tools for publishing transcripts for Claude Code sessions"
   },
@@ -310,7 +310,7 @@
     "url": "https://github.com/0x0funky/audioghost-ai",
     "followers": 1,
     "forks": 9,
-    "stars": 162,
+    "stars": 163,
     "created_at": "2025-12-22",
     "description": "Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI."
   },
@@ -319,7 +319,7 @@
     "url": "https://github.com/joe-desimone/mongobleed",
     "followers": 1,
     "forks": 25,
-    "stars": 155,
+    "stars": 160,
     "created_at": "2025-12-26",
     "description": ""
   },
@@ -328,7 +328,7 @@
     "url": "https://github.com/UniSecurityGuard/UniSecurityGuard",
     "followers": 1,
     "forks": 0,
-    "stars": 136,
+    "stars": 144,
     "created_at": "2025-12-27",
     "description": "\u672c\u79d1\u534e\u4e94\uff0c\u66fe\u8d74\u7f8eqs50\u8bfb\u535a\uff0c\u67d0\u5144\u5f1f\u9662\u6821\u526f\u6559\u6388\uff0c\u6821\u56ed\u95e8\u536b\u4ead\u5973\u6027\u4e3b\u7406\u4eba\uff0c\u4e3a\u9632\u6b62\u70b8\u53f7\u7684\u5907\u4efd\u5e73\u53f0\uff0c\u662f\u672c\u4eba\u3002"
   },
@@ -337,7 +337,7 @@
     "url": "https://github.com/f1shy-dev/distracted",
     "followers": 1,
     "forks": 8,
-    "stars": 131,
+    "stars": 134,
     "created_at": "2025-12-26",
     "description": "blocks distracting websites! annoy you to get back on them..."
   },
@@ -345,8 +345,8 @@
     "name": "Lolendor/reVCDOS",
     "url": "https://github.com/Lolendor/reVCDOS",
     "followers": 1,
-    "forks": 66,
-    "stars": 130,
+    "forks": 67,
+    "stars": 132,
     "created_at": "2025-12-23",
     "description": "Web-based port of GTA: Vice City running in browser via WebAssembly."
   },
@@ -355,7 +355,7 @@
     "url": "https://github.com/AkideLiu/betterclaude-workers",
     "followers": 1,
     "forks": 16,
-    "stars": 111,
+    "stars": 113,
     "created_at": "2025-12-25",
     "description": "BetterClaude API Gateway"
   },
@@ -364,9 +364,18 @@
     "url": "https://github.com/davidfowl/tally",
     "followers": 1,
     "forks": 4,
-    "stars": 95,
+    "stars": 99,
     "created_at": "2025-12-26",
     "description": "LLM-powered spending categorization. Let AI classify your bank transactions."
+  },
+  {
+    "name": "valdanylchuk/xcc700",
+    "url": "https://github.com/valdanylchuk/xcc700",
+    "followers": 1,
+    "forks": 6,
+    "stars": 95,
+    "created_at": "2025-12-26",
+    "description": "mini C compiler for esp32"
   },
   {
     "name": "serendipity1004/cc-feature-implementer",
@@ -387,6 +396,15 @@
     "description": ""
   },
   {
+    "name": "rcarmo/PhotosExport",
+    "url": "https://github.com/rcarmo/PhotosExport",
+    "followers": 1,
+    "forks": 1,
+    "stars": 82,
+    "created_at": "2025-12-27",
+    "description": "Export ALL your data from Apple Photos"
+  },
+  {
     "name": "dickyermawan/kilas",
     "url": "https://github.com/dickyermawan/kilas",
     "followers": 1,
@@ -394,15 +412,6 @@
     "stars": 81,
     "created_at": "2025-12-22",
     "description": "Modern, Fast & Reliable WhatsApp Gateway Built with Baileys x Antigravity"
-  },
-  {
-    "name": "rcarmo/PhotosExport",
-    "url": "https://github.com/rcarmo/PhotosExport",
-    "followers": 1,
-    "forks": 1,
-    "stars": 80,
-    "created_at": "2025-12-27",
-    "description": "Export ALL your data from Apple Photos"
   },
   {
     "name": "yyy-OPS/slidedeconstruct-ai",
@@ -445,7 +454,7 @@
     "url": "https://github.com/abusoww/tuxmate",
     "followers": 0,
     "forks": 17,
-    "stars": 455,
+    "stars": 467,
     "created_at": "2025-12-24",
     "description": "THE MISSING BULK APP INSTALLER FOR LINUX"
   },
@@ -454,7 +463,7 @@
     "url": "https://github.com/cyl19970726/poly-sdk",
     "followers": 0,
     "forks": 101,
-    "stars": 345,
+    "stars": 346,
     "created_at": "2025-12-23",
     "description": ""
   },
@@ -499,7 +508,7 @@
     "url": "https://github.com/RackulaLives/Rackula",
     "followers": 0,
     "forks": 2,
-    "stars": 135,
+    "stars": 137,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -517,9 +526,18 @@
     "url": "https://github.com/kenryu42/claude-code-safety-net",
     "followers": 0,
     "forks": 8,
-    "stars": 120,
+    "stars": 121,
     "created_at": "2025-12-25",
     "description": "A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute."
+  },
+  {
+    "name": "simondaubner/Windows-Binary-Icon-Changer-V3",
+    "url": "https://github.com/simondaubner/Windows-Binary-Icon-Changer-V3",
+    "followers": 0,
+    "forks": 0,
+    "stars": 107,
+    "created_at": "2025-12-26",
+    "description": "A simple icon (.ico) changer for windows binaries"
   },
   {
     "name": "bjzhou/iptv-collector",
@@ -531,22 +549,22 @@
     "description": ""
   },
   {
-    "name": "valdanylchuk/xcc700",
-    "url": "https://github.com/valdanylchuk/xcc700",
-    "followers": 0,
-    "forks": 6,
-    "stars": 94,
-    "created_at": "2025-12-26",
-    "description": "mini C compiler for esp32"
-  },
-  {
     "name": "JessyTsui/ai-coding-kit",
     "url": "https://github.com/JessyTsui/ai-coding-kit",
     "followers": 0,
-    "forks": 9,
-    "stars": 93,
+    "forks": 10,
+    "stars": 94,
     "created_at": "2025-12-23",
     "description": ""
+  },
+  {
+    "name": "simondaubner/LiveStreamTranslateV3",
+    "url": "https://github.com/simondaubner/LiveStreamTranslateV3",
+    "followers": 0,
+    "forks": 0,
+    "stars": 91,
+    "created_at": "2025-12-27",
+    "description": "Uses LLM APIs to translate an audio source live. Perfect for live streaming with OBS."
   },
   {
     "name": "justhtmls/html-tools",
@@ -580,18 +598,9 @@
     "url": "https://github.com/liangdabiao/Claude-Code-Deep-Research-main",
     "followers": 0,
     "forks": 11,
-    "stars": 81,
+    "stars": 82,
     "created_at": "2025-12-25",
     "description": "\u5229\u7528claude code agent\u6846\u67b6\u4e00\u6b65\u4e00\u6b65\u5b9e\u73b0deep research\uff01\u5f88\u5f3a\u5927\u5f88\u7b80\u5355\u7684skills\u3002\u6211\u4e00\u6b65\u4e00\u6b65\u4ecb\u7ecd\u5b9e\u73b0deep research\uff0c\u56e0\u4e3adeep research\u5c31\u662fagent\u6846\u67b6\u7b2c\u4e00\u5e94\u7528\uff0c\u5bf9\u6bd4\u4e00\u4e0b\u5404\u4e2a\u6846\u67b6\u5b9e\u73b0\u8fd9\u4e2adeep research\uff0c\u5c31\u77e5\u9053\u54ea\u4e2a\u6846\u67b6\u624d\u662f\u771f\u5389\u5bb3\u3002"
-  },
-  {
-    "name": "simondaubner/Windows-Binary-Icon-Changer-V3",
-    "url": "https://github.com/simondaubner/Windows-Binary-Icon-Changer-V3",
-    "followers": 0,
-    "forks": 0,
-    "stars": 81,
-    "created_at": "2025-12-26",
-    "description": "A simple icon (.ico) changer for windows binaries"
   },
   {
     "name": "RayRRT/BOFs",
@@ -601,6 +610,15 @@
     "stars": 78,
     "created_at": "2025-12-22",
     "description": "Beacon Object Files (BOFs) for Cobalt Strike and Havoc C2. Implementations of Active Directory attacks and post-exploitation techniques."
+  },
+  {
+    "name": "kubeden/clopus-watcher",
+    "url": "https://github.com/kubeden/clopus-watcher",
+    "followers": 0,
+    "forks": 14,
+    "stars": 77,
+    "created_at": "2025-12-25",
+    "description": "An autonomous 24/7 on-call engineer in the form of a Claude Code living in a cronjob."
   },
   {
     "name": "darkfiv/DouSql",
@@ -646,15 +664,6 @@
     "stars": 71,
     "created_at": "2025-12-22",
     "description": "Real-time TTS for YouTube live streams."
-  },
-  {
-    "name": "kubeden/clopus-watcher",
-    "url": "https://github.com/kubeden/clopus-watcher",
-    "followers": 0,
-    "forks": 14,
-    "stars": 70,
-    "created_at": "2025-12-25",
-    "description": "An autonomous 24/7 on-call engineer in the form of a Claude Code living in a cronjob."
   },
   {
     "name": "OpLumina/unredact.py",
@@ -720,15 +729,6 @@
     "description": ""
   },
   {
-    "name": "simondaubner/LiveStreamTranslateV3",
-    "url": "https://github.com/simondaubner/LiveStreamTranslateV3",
-    "followers": 0,
-    "forks": 0,
-    "stars": 68,
-    "created_at": "2025-12-27",
-    "description": "Uses LLM APIs to translate an audio source live. Perfect for live streaming with OBS."
-  },
-  {
     "name": "tiffanypratt8/repo_1766532608_2391",
     "url": "https://github.com/tiffanypratt8/repo_1766532608_2391",
     "followers": 0,
@@ -783,6 +783,15 @@
     "description": ""
   },
   {
+    "name": "Luokavin/AutoGLM-For-Android",
+    "url": "https://github.com/Luokavin/AutoGLM-For-Android",
+    "followers": 0,
+    "forks": 10,
+    "stars": 66,
+    "created_at": "2025-12-27",
+    "description": "\u57fa\u4e8e Open-AutoGLM \u7684 Android \u539f\u751f\u624b\u673a\u667a\u80fd\u52a9\u624b\u5e94\u7528 | Native Android Phone AI Assistant Based on Open-AutoGLM"
+  },
+  {
     "name": "symbolicsoft/folder.zone",
     "url": "https://github.com/symbolicsoft/folder.zone",
     "followers": 0,
@@ -819,15 +828,6 @@
     "description": "\u57fa\u4e8e Open-AutoGLM \u7684\u624b\u673a\u81ea\u52a8\u5316\u5b9a\u65f6\u4efb\u52a1\u7cfb\u7edf\uff0c\u8ba9 AI \u5e2e\u4f60\u5b9a\u65f6\u5b8c\u6210\u624b\u673a\u4e0a\u7684\u91cd\u590d\u6027\u5de5\u4f5c\u3002"
   },
   {
-    "name": "Luokavin/AutoGLM-For-Android",
-    "url": "https://github.com/Luokavin/AutoGLM-For-Android",
-    "followers": 0,
-    "forks": 9,
-    "stars": 62,
-    "created_at": "2025-12-27",
-    "description": "\u57fa\u4e8e Open-AutoGLM \u7684 Android \u539f\u751f\u624b\u673a\u667a\u80fd\u52a9\u624b\u5e94\u7528 | Native Android Phone AI Assistant Based on Open-AutoGLM"
-  },
-  {
     "name": "haiyewei/GoofishCredentialsBot",
     "url": "https://github.com/haiyewei/GoofishCredentialsBot",
     "followers": 0,
@@ -855,6 +855,15 @@
     "description": "A macOS menu bar app for managing Homebrew services"
   },
   {
+    "name": "iamzhihuix/happy-claude-skills",
+    "url": "https://github.com/iamzhihuix/happy-claude-skills",
+    "followers": 0,
+    "forks": 5,
+    "stars": 61,
+    "created_at": "2025-12-27",
+    "description": ""
+  },
+  {
     "name": "Solo-Defi/repo_1766507709_5010",
     "url": "https://github.com/Solo-Defi/repo_1766507709_5010",
     "followers": 0,
@@ -876,7 +885,7 @@
     "name": "TalashNetCom/MiniKuma",
     "url": "https://github.com/TalashNetCom/MiniKuma",
     "followers": 0,
-    "forks": 0,
+    "forks": 1,
     "stars": 60,
     "created_at": "2025-12-24",
     "description": "Uptime-Kuma CSS for Status Page | Give your UptimeKuma status page a minimal look with custom CSS only"
@@ -889,14 +898,5 @@
     "stars": 59,
     "created_at": "2025-12-23",
     "description": ""
-  },
-  {
-    "name": "auracast-research/race-toolkit",
-    "url": "https://github.com/auracast-research/race-toolkit",
-    "followers": 0,
-    "forks": 5,
-    "stars": 59,
-    "created_at": "2025-12-22",
-    "description": "Communicate with Airoha-based Bluetooth devices using the RACE protocol via Bluetooth and USB."
   }
 ]
