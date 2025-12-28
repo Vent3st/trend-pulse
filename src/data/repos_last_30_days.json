@@ -49,7 +49,7 @@
     "url": "https://github.com/google/mcp",
     "followers": 40,
     "forks": 280,
-    "stars": 2697,
+    "stars": 2700,
     "created_at": "2025-12-05",
     "description": "Google \ud83d\udc9a MCP"
   },
@@ -57,8 +57,8 @@
     "name": "AndyMik90/Auto-Claude",
     "url": "https://github.com/AndyMik90/Auto-Claude",
     "followers": 37,
-    "forks": 508,
-    "stars": 3859,
+    "forks": 509,
+    "stars": 3861,
     "created_at": "2025-12-04",
     "description": "Autonomous multi-session AI coding"
   },
@@ -67,27 +67,9 @@
     "url": "https://github.com/Anionex/banana-slides",
     "followers": 33,
     "forks": 782,
-    "stars": 7152,
+    "stars": 7153,
     "created_at": "2025-11-29",
     "description": "\u4e00\u4e2a\u57fa\u4e8enano banana pro\ud83c\udf4c\u7684\u539f\u751fAI PPT\u751f\u6210\u5e94\u7528\uff0c\u8fc8\u5411\u771f\u6b63\u7684\uff02Vibe PPT\uff02; \u652f\u6301\u4e0a\u4f20\u4efb\u610f\u6a21\u677f\u56fe\u7247\uff1b\u4e0a\u4f20\u4efb\u610f\u7d20\u6750&\u667a\u80fd\u89e3\u6790\uff1b\u4e00\u53e5\u8bdd/\u5927\u7eb2/\u9875\u9762\u63cf\u8ff0\u81ea\u52a8\u751f\u6210PPT\uff1b\u53e3\u5934\u4fee\u6539\u6307\u5b9a\u533a\u57df\u3001\u4e00\u952e\u5bfc\u51fa - An AI-native PPT generator based on nano banana pro\ud83c\udf4c"
-  },
-  {
-    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-    "followers": 33,
-    "forks": 310,
-    "stars": 3877,
-    "created_at": "2025-12-21",
-    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
-  },
-  {
-    "name": "VibiumDev/vibium",
-    "url": "https://github.com/VibiumDev/vibium",
-    "followers": 33,
-    "forks": 82,
-    "stars": 1806,
-    "created_at": "2025-12-12",
-    "description": "Browser automation for AI agents and humans"
   },
   {
     "name": "lwj2015/lightron",
@@ -99,11 +81,29 @@
     "description": "A light implementation of megatron for research and study"
   },
   {
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "followers": 32,
+    "forks": 311,
+    "stars": 3882,
+    "created_at": "2025-12-21",
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
+  },
+  {
+    "name": "VibiumDev/vibium",
+    "url": "https://github.com/VibiumDev/vibium",
+    "followers": 32,
+    "forks": 82,
+    "stars": 1810,
+    "created_at": "2025-12-12",
+    "description": "Browser automation for AI agents and humans"
+  },
+  {
     "name": "apple/ml-sharp",
     "url": "https://github.com/apple/ml-sharp",
     "followers": 29,
     "forks": 364,
-    "stars": 5934,
+    "stars": 5939,
     "created_at": "2025-12-12",
     "description": "Sharp Monocular View Synthesis in Less Than a Second"
   },
@@ -112,7 +112,7 @@
     "url": "https://github.com/cporter202/API-mega-list",
     "followers": 27,
     "forks": 440,
-    "stars": 2228,
+    "stars": 2229,
     "created_at": "2025-12-09",
     "description": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub\u2014period. \ud83d\udcaa"
   },
@@ -121,7 +121,7 @@
     "url": "https://github.com/bellard/mquickjs",
     "followers": 26,
     "forks": 157,
-    "stars": 4558,
+    "stars": 4562,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
@@ -129,8 +129,8 @@
     "name": "code-yeongyu/oh-my-opencode",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
     "followers": 26,
-    "forks": 260,
-    "stars": 3554,
+    "forks": 261,
+    "stars": 3565,
     "created_at": "2025-12-03",
     "description": "#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) \u00b7 Curated agents with proper models \u00b7 Crafted tools like LSP/AST included \u00b7 Curated MCPs \u00b7 Claude Code Compatible Layer \u2014 Steroids for your OpenCode. The Best LLM Agent Experience is Here."
   },
@@ -138,8 +138,8 @@
     "name": "gommzystudio/device-activity-tracker",
     "url": "https://github.com/gommzystudio/device-activity-tracker",
     "followers": 25,
-    "forks": 307,
-    "stars": 1677,
+    "forks": 308,
+    "stars": 1683,
     "created_at": "2025-12-07",
     "description": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)"
   },
@@ -162,6 +162,15 @@
     "description": "\"Paper2Slides: From Paper to Presentation in One Click\""
   },
   {
+    "name": "cporter202/scraping-apis-for-devs",
+    "url": "https://github.com/cporter202/scraping-apis-for-devs",
+    "followers": 20,
+    "forks": 275,
+    "stars": 1384,
+    "created_at": "2025-12-10",
+    "description": "This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. "
+  },
+  {
     "name": "twostraws/SwiftAgents",
     "url": "https://github.com/twostraws/SwiftAgents",
     "followers": 20,
@@ -169,15 +178,6 @@
     "stars": 495,
     "created_at": "2025-12-06",
     "description": "An AGENTS.md file for Swift and SwiftUI projects."
-  },
-  {
-    "name": "cporter202/scraping-apis-for-devs",
-    "url": "https://github.com/cporter202/scraping-apis-for-devs",
-    "followers": 19,
-    "forks": 273,
-    "stars": 1377,
-    "created_at": "2025-12-10",
-    "description": "This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. "
   },
   {
     "name": "iam-veeramalla/mlops-zero-to-hero",
@@ -193,7 +193,7 @@
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
     "followers": 18,
     "forks": 408,
-    "stars": 2262,
+    "stars": 2263,
     "created_at": "2025-11-30",
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
   },
@@ -218,18 +218,18 @@
   {
     "name": "gemini-cli-extensions/conductor",
     "url": "https://github.com/gemini-cli-extensions/conductor",
-    "followers": 14,
+    "followers": 15,
     "forks": 85,
-    "stars": 1026,
+    "stars": 1027,
     "created_at": "2025-12-17",
     "description": "Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features."
   },
   {
     "name": "2025Emma/vibe-coding-cn",
     "url": "https://github.com/2025Emma/vibe-coding-cn",
-    "followers": 12,
+    "followers": 13,
     "forks": 370,
-    "stars": 3365,
+    "stars": 3366,
     "created_at": "2025-12-17",
     "description": ""
   },
@@ -273,8 +273,8 @@
     "name": "MineDojo/NitroGen",
     "url": "https://github.com/MineDojo/NitroGen",
     "followers": 11,
-    "forks": 133,
-    "stars": 1116,
+    "forks": 135,
+    "stars": 1120,
     "created_at": "2025-12-17",
     "description": "A Foundation Model for Generalist Gaming Agents"
   },
@@ -310,16 +310,25 @@
     "url": "https://github.com/antonmedv/textarea",
     "followers": 10,
     "forks": 67,
-    "stars": 1012,
+    "stars": 1014,
     "created_at": "2025-12-22",
     "description": "A minimalist text editor that lives in URL"
+  },
+  {
+    "name": "pranshuparmar/witr",
+    "url": "https://github.com/pranshuparmar/witr",
+    "followers": 9,
+    "forks": 62,
+    "stars": 3262,
+    "created_at": "2025-12-20",
+    "description": "Why is this running?"
   },
   {
     "name": "productdevbook/port-killer",
     "url": "https://github.com/productdevbook/port-killer",
     "followers": 9,
     "forks": 78,
-    "stars": 2609,
+    "stars": 2611,
     "created_at": "2025-12-16",
     "description": "Native macOS app for finding and killing processes on open ports. Perfect for developers."
   },
@@ -363,19 +372,10 @@
     "name": "zai-org/SCAIL",
     "url": "https://github.com/zai-org/SCAIL",
     "followers": 9,
-    "forks": 28,
+    "forks": 29,
     "stars": 561,
     "created_at": "2025-12-01",
     "description": "Offical Implementation of SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations"
-  },
-  {
-    "name": "pranshuparmar/witr",
-    "url": "https://github.com/pranshuparmar/witr",
-    "followers": 8,
-    "forks": 61,
-    "stars": 3198,
-    "created_at": "2025-12-20",
-    "description": "Why is this running?"
   },
   {
     "name": "Maxteabag/sqlit",
@@ -390,10 +390,19 @@
     "name": "PastKing/tgbot-verify",
     "url": "https://github.com/PastKing/tgbot-verify",
     "followers": 8,
-    "forks": 591,
-    "stars": 1636,
+    "forks": 590,
+    "stars": 1638,
     "created_at": "2025-12-07",
     "description": "\u4e00\u4e2a\u57fa\u4e8e Python Telegram Bot \u7684\u81ea\u52a8\u5316\u8ba4\u8bc1\u5de5\u5177\uff0c\u80fd\u591f\u81ea\u52a8\u5b8c\u6210 SheerID \u5e73\u53f0\u7684\u5b66\u751f/\u6559\u5e08\u8eab\u4efd\u9a8c\u8bc1\u6d41\u7a0b\u3002"
+  },
+  {
+    "name": "Lulzx/tinypdf",
+    "url": "https://github.com/Lulzx/tinypdf",
+    "followers": 8,
+    "forks": 48,
+    "stars": 1125,
+    "created_at": "2025-12-18",
+    "description": "Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs."
   },
   {
     "name": "antonmedv/gitmal",
@@ -403,15 +412,6 @@
     "stars": 1124,
     "created_at": "2025-11-30",
     "description": "A static page generator for repos"
-  },
-  {
-    "name": "Lulzx/tinypdf",
-    "url": "https://github.com/Lulzx/tinypdf",
-    "followers": 8,
-    "forks": 48,
-    "stars": 1124,
-    "created_at": "2025-12-18",
-    "description": "Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs."
   },
   {
     "name": "durable-streams/durable-streams",
@@ -444,8 +444,8 @@
     "name": "SawyerHood/dev-browser",
     "url": "https://github.com/SawyerHood/dev-browser",
     "followers": 7,
-    "forks": 97,
-    "stars": 1513,
+    "forks": 98,
+    "stars": 1515,
     "created_at": "2025-12-02",
     "description": "A Claude Skill to give your agent the ability to use a web browser"
   },
@@ -454,7 +454,7 @@
     "url": "https://github.com/QwenLM/Qwen-Image-Layered",
     "followers": 7,
     "forks": 76,
-    "stars": 1062,
+    "stars": 1063,
     "created_at": "2025-12-18",
     "description": "Qwen-Image-Layered: Layered Decomposition for Inherent Editablity"
   },
@@ -472,7 +472,7 @@
     "url": "https://github.com/karpathy/hn-time-capsule",
     "followers": 7,
     "forks": 50,
-    "stars": 516,
+    "stars": 517,
     "created_at": "2025-12-10",
     "description": "Analyzing Hacker News discussions from a decade ago in hindsight with LLMs"
   },
@@ -517,7 +517,7 @@
     "url": "https://github.com/parcadei/Continuous-Claude-v2",
     "followers": 6,
     "forks": 53,
-    "stars": 772,
+    "stars": 784,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -553,7 +553,7 @@
     "url": "https://github.com/gaearon/rscexplorer",
     "followers": 5,
     "forks": 26,
-    "stars": 886,
+    "stars": 887,
     "created_at": "2025-12-16",
     "description": "A tool for people curious about the React Server Components protocol"
   },
@@ -697,7 +697,7 @@
     "url": "https://github.com/NoeFabris/opencode-antigravity-auth",
     "followers": 3,
     "forks": 38,
-    "stars": 528,
+    "stars": 529,
     "created_at": "2025-12-09",
     "description": ""
   },
@@ -751,7 +751,7 @@
     "url": "https://github.com/aiflowy/aiflowy",
     "followers": 2,
     "forks": 69,
-    "stars": 728,
+    "stars": 731,
     "created_at": "2025-12-15",
     "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
   },
@@ -778,7 +778,7 @@
     "url": "https://github.com/journey-ad/gemini-watermark-remover",
     "followers": 1,
     "forks": 151,
-    "stars": 1407,
+    "stars": 1408,
     "created_at": "2025-12-19",
     "description": "A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / \u57fa\u4e8e Javascript \u7684\u7eaf\u6d4f\u89c8\u5668\u7aef Gemini AI \u56fe\u50cf\u65e0\u635f\u53bb\u6c34\u5370\u5de5\u5177\uff0c\u4f7f\u7528\u6570\u5b66\u7cbe\u786e\u7684\u53cd\u5411 Alpha \u6df7\u5408\u7b97\u6cd5"
   },
@@ -814,7 +814,7 @@
     "url": "https://github.com/abusoww/tuxmate",
     "followers": 1,
     "forks": 28,
-    "stars": 646,
+    "stars": 649,
     "created_at": "2025-12-24",
     "description": "THE MISSING BULK APP INSTALLER FOR LINUX"
   },
@@ -859,7 +859,7 @@
     "url": "https://github.com/allenk/GeminiWatermarkTool",
     "followers": 0,
     "forks": 51,
-    "stars": 559,
+    "stars": 561,
     "created_at": "2025-12-12",
     "description": "Gemini Nano Banana / Pro watermark maintenance tool"
   },
@@ -868,7 +868,7 @@
     "url": "https://github.com/DeepMyst/Mysti",
     "followers": 0,
     "forks": 23,
-    "stars": 548,
+    "stars": 552,
     "created_at": "2025-11-29",
     "description": "AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code."
   },
