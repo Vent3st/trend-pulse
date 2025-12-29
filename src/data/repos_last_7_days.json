@@ -3,8 +3,8 @@
     "name": "garagesteve1155/PowerTrader_AI",
     "url": "https://github.com/garagesteve1155/PowerTrader_AI",
     "followers": 21,
-    "forks": 68,
-    "stars": 162,
+    "forks": 72,
+    "stars": 166,
     "created_at": "2025-12-27",
     "description": "Fully automated crypto trading powered by a custom price prediction AI and a structured/tiered DCA system."
   },
@@ -13,7 +13,7 @@
     "url": "https://github.com/DodoraApp/DodoStream",
     "followers": 12,
     "forks": 7,
-    "stars": 106,
+    "stars": 108,
     "created_at": "2025-12-28",
     "description": "Streaming evolved."
   },
@@ -21,8 +21,8 @@
     "name": "parcadei/Continuous-Claude-v2",
     "url": "https://github.com/parcadei/Continuous-Claude-v2",
     "followers": 8,
-    "forks": 58,
-    "stars": 964,
+    "forks": 59,
+    "stars": 978,
     "created_at": "2025-12-23",
     "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
@@ -31,7 +31,7 @@
     "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
     "followers": 6,
     "forks": 42,
-    "stars": 459,
+    "stars": 460,
     "created_at": "2025-12-23",
     "description": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions."
   },
@@ -40,7 +40,7 @@
     "url": "https://github.com/davidfowl/tally",
     "followers": 6,
     "forks": 28,
-    "stars": 337,
+    "stars": 339,
     "created_at": "2025-12-26",
     "description": "Let AI classify your bank transactions."
   },
@@ -49,7 +49,7 @@
     "url": "https://github.com/dennisyang1986/opensqt_market_maker",
     "followers": 5,
     "forks": 260,
-    "stars": 573,
+    "stars": 574,
     "created_at": "2025-12-24",
     "description": "OpenSQT \u662f\u4e00\u4e2a\u9ad8\u6027\u80fd\u3001\u4f4e\u5ef6\u8fdf\u7684\u52a0\u5bc6\u8d27\u5e01\u505a\u5e02\u5546\u7cfb\u7edf\uff0c\u4e13\u6ce8\u4e8e\u6c38\u7eed\u5408\u7ea6\u5e02\u573a\u7684\u505a\u591a\u7f51\u683c\u4ea4\u6613\u7b56\u7565\u3002\u7cfb\u7edf\u91c7\u7528 Go \u8bed\u8a00\u5f00\u53d1\uff0c\u57fa\u4e8e WebSocket \u5b9e\u65f6\u6570\u636e\u6d41\u9a71\u52a8\uff0c\u65e8\u5728\u4e3a Binance\u3001Bitget\u3001Gate.io \u7b49\u4e3b\u6d41\u4ea4\u6613\u6240\u63d0\u4f9b\u7a33\u5b9a\u7684\u6d41\u52a8\u6027\u652f\u6301\u3002"
   },
@@ -57,8 +57,8 @@
     "name": "HKUDS/DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
     "followers": 5,
-    "forks": 53,
-    "stars": 306,
+    "forks": 56,
+    "stars": 324,
     "created_at": "2025-12-28",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\""
   },
@@ -66,8 +66,8 @@
     "name": "koki7o/claude-code-for-beginners",
     "url": "https://github.com/koki7o/claude-code-for-beginners",
     "followers": 5,
-    "forks": 22,
-    "stars": 100,
+    "forks": 23,
+    "stars": 102,
     "created_at": "2025-12-27",
     "description": "Your Complete Beginner's Course to Mastering AI-Powered Development with Claude Code"
   },
@@ -85,7 +85,7 @@
     "url": "https://github.com/nguyenphutrong/quotio",
     "followers": 4,
     "forks": 75,
-    "stars": 1135,
+    "stars": 1139,
     "created_at": "2025-12-24",
     "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions \u2013 with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid."
   },
@@ -94,7 +94,7 @@
     "url": "https://github.com/simonw/claude-code-transcripts",
     "followers": 4,
     "forks": 38,
-    "stars": 416,
+    "stars": 420,
     "created_at": "2025-12-24",
     "description": "Tools for publishing transcripts for Claude Code sessions"
   },
@@ -103,16 +103,25 @@
     "url": "https://github.com/popovicu/ultimate-linux",
     "followers": 4,
     "forks": 10,
-    "stars": 223,
+    "stars": 225,
     "created_at": "2025-12-24",
     "description": "The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!"
+  },
+  {
+    "name": "kavehtehrani/cloudflare-speed-cli",
+    "url": "https://github.com/kavehtehrani/cloudflare-speed-cli",
+    "followers": 4,
+    "forks": 16,
+    "stars": 222,
+    "created_at": "2025-12-26",
+    "description": "CLI for internet speed test via cloudflare"
   },
   {
     "name": "mausimus/ShaderBeam",
     "url": "https://github.com/mausimus/ShaderBeam",
     "followers": 4,
     "forks": 1,
-    "stars": 111,
+    "stars": 119,
     "created_at": "2025-12-25",
     "description": "Overlay for running BFI/CRT Beam Simulation shaders on Windows desktop"
   },
@@ -139,7 +148,7 @@
     "url": "https://github.com/leedrake5/unredact",
     "followers": 3,
     "forks": 58,
-    "stars": 456,
+    "stars": 457,
     "created_at": "2025-12-23",
     "description": "A simple tool for reading in poorly redacted documents and reproducing their origional form"
   },
@@ -148,7 +157,7 @@
     "url": "https://github.com/siinghd/yourinfo",
     "followers": 3,
     "forks": 30,
-    "stars": 280,
+    "stars": 281,
     "created_at": "2025-12-24",
     "description": "Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization"
   },
@@ -171,20 +180,11 @@
     "description": "AI writing agent powered by gemini 3 flash - autonomously creates novels and stories with deep reasoning"
   },
   {
-    "name": "kavehtehrani/cloudflare-speed-cli",
-    "url": "https://github.com/kavehtehrani/cloudflare-speed-cli",
-    "followers": 3,
-    "forks": 16,
-    "stars": 215,
-    "created_at": "2025-12-26",
-    "description": "CLI for internet speed test via cloudflare"
-  },
-  {
     "name": "adnxy/rnsec",
     "url": "https://github.com/adnxy/rnsec",
     "followers": 3,
-    "forks": 24,
-    "stars": 202,
+    "forks": 20,
+    "stars": 204,
     "created_at": "2025-12-24",
     "description": "Lightweight Security Scanner for React Native & Expo"
   },
@@ -192,8 +192,8 @@
     "name": "rcarmo/PhotosExport",
     "url": "https://github.com/rcarmo/PhotosExport",
     "followers": 3,
-    "forks": 5,
-    "stars": 144,
+    "forks": 6,
+    "stars": 145,
     "created_at": "2025-12-27",
     "description": "Export ALL your data from Apple Photos"
   },
@@ -238,7 +238,7 @@
     "url": "https://github.com/BangerTech/Prism-Dashboard",
     "followers": 3,
     "forks": 3,
-    "stars": 79,
+    "stars": 80,
     "created_at": "2025-12-23",
     "description": "A modern, glassmorphism-inspired dashboard for Home Assistant"
   },
@@ -247,16 +247,25 @@
     "url": "https://github.com/tobi/AudioPriorityBar",
     "followers": 2,
     "forks": 11,
-    "stars": 376,
+    "stars": 379,
     "created_at": "2025-12-27",
     "description": "A native macOS menu bar app for managing audio device priorities"
+  },
+  {
+    "name": "AnmolSaini16/mapcn",
+    "url": "https://github.com/AnmolSaini16/mapcn",
+    "followers": 2,
+    "forks": 17,
+    "stars": 365,
+    "created_at": "2025-12-28",
+    "description": "Beautiful map components. 100% Free, Zero config, one command setup."
   },
   {
     "name": "op7418/guizang-s-prompt",
     "url": "https://github.com/op7418/guizang-s-prompt",
     "followers": 2,
     "forks": 30,
-    "stars": 331,
+    "stars": 333,
     "created_at": "2025-12-29",
     "description": "\u8fd9\u91cc\u662f\u6b78\u85cf\u7684\u63d0\u793a\u8bcd\u50a8\u5b58\u5e93\uff0c\u5b58\u653e\u7740\u6b78\u85cf\u64b0\u5199\u7684\u6240\u6709 AI \u6a21\u578b\u63d0\u793a\u8bcd\uff08This is Guizang's prompt repository, containing all AI model prompts written by Guizang.\uff09"
   },
@@ -265,7 +274,7 @@
     "url": "https://github.com/ridafkih/keeper.sh",
     "followers": 2,
     "forks": 2,
-    "stars": 183,
+    "stars": 189,
     "created_at": "2025-12-23",
     "description": "A monorepository for (time)keeper\u2014a calendar synchronization and booking tool."
   },
@@ -301,7 +310,7 @@
     "url": "https://github.com/abusoww/tuxmate",
     "followers": 1,
     "forks": 34,
-    "stars": 770,
+    "stars": 778,
     "created_at": "2025-12-24",
     "description": "THE MISSING BULK APP INSTALLER FOR LINUX"
   },
@@ -309,8 +318,8 @@
     "name": "joe-desimone/mongobleed",
     "url": "https://github.com/joe-desimone/mongobleed",
     "followers": 1,
-    "forks": 100,
-    "stars": 607,
+    "forks": 101,
+    "stars": 617,
     "created_at": "2025-12-26",
     "description": ""
   },
@@ -318,19 +327,10 @@
     "name": "technomancer702/nodecast-tv",
     "url": "https://github.com/technomancer702/nodecast-tv",
     "followers": 1,
-    "forks": 18,
-    "stars": 424,
+    "forks": 19,
+    "stars": 427,
     "created_at": "2025-12-27",
     "description": "A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly."
-  },
-  {
-    "name": "AnmolSaini16/mapcn",
-    "url": "https://github.com/AnmolSaini16/mapcn",
-    "followers": 1,
-    "forks": 15,
-    "stars": 351,
-    "created_at": "2025-12-28",
-    "description": "Beautiful map components. 100% Free, Zero config, one command setup."
   },
   {
     "name": "tiann/hapi",
@@ -364,7 +364,7 @@
     "url": "https://github.com/kenryu42/claude-code-safety-net",
     "followers": 1,
     "forks": 12,
-    "stars": 168,
+    "stars": 170,
     "created_at": "2025-12-25",
     "description": "A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute."
   },
@@ -405,6 +405,15 @@
     "description": "BetterClaude API Gateway"
   },
   {
+    "name": "zhuokaizhao/academia_cv_template",
+    "url": "https://github.com/zhuokaizhao/academia_cv_template",
+    "followers": 1,
+    "forks": 12,
+    "stars": 116,
+    "created_at": "2025-12-28",
+    "description": ""
+  },
+  {
     "name": "valdanylchuk/xcc700",
     "url": "https://github.com/valdanylchuk/xcc700",
     "followers": 1,
@@ -414,12 +423,12 @@
     "description": "mini C compiler for esp32"
   },
   {
-    "name": "zhuokaizhao/academia_cv_template",
-    "url": "https://github.com/zhuokaizhao/academia_cv_template",
+    "name": "vercel-labs/just-bash",
+    "url": "https://github.com/vercel-labs/just-bash",
     "followers": 1,
-    "forks": 12,
+    "forks": 13,
     "stars": 112,
-    "created_at": "2025-12-28",
+    "created_at": "2025-12-23",
     "description": ""
   },
   {
@@ -432,13 +441,13 @@
     "description": ""
   },
   {
-    "name": "vercel-labs/just-bash",
-    "url": "https://github.com/vercel-labs/just-bash",
+    "name": "Finsys/dockhand",
+    "url": "https://github.com/Finsys/dockhand",
     "followers": 1,
-    "forks": 13,
-    "stars": 108,
-    "created_at": "2025-12-23",
-    "description": ""
+    "forks": 3,
+    "stars": 101,
+    "created_at": "2025-12-28",
+    "description": "Dockhand - Docker management you will like."
   },
   {
     "name": "tenacious6/cf-autoclick",
@@ -457,15 +466,6 @@
     "stars": 99,
     "created_at": "2025-12-23",
     "description": ""
-  },
-  {
-    "name": "Finsys/dockhand",
-    "url": "https://github.com/Finsys/dockhand",
-    "followers": 1,
-    "forks": 2,
-    "stars": 92,
-    "created_at": "2025-12-28",
-    "description": "Dockhand - Docker management you will like."
   },
   {
     "name": "yyy-OPS/slidedeconstruct-ai",
@@ -499,7 +499,7 @@
     "url": "https://github.com/joelhooks/opencode-vibe",
     "followers": 1,
     "forks": 7,
-    "stars": 72,
+    "stars": 74,
     "created_at": "2025-12-27",
     "description": "\ud83c\udfc4\u200d\u2642\ufe0f Next.js 16 web UI for OpenCode - real-time chat with streaming, SSE sync, and React Server Components"
   },
@@ -517,7 +517,7 @@
     "url": "https://github.com/liuxiaomingskm/datashield-lightweight-labs",
     "followers": 0,
     "forks": 0,
-    "stars": 539,
+    "stars": 551,
     "created_at": "2025-12-28",
     "description": "a lightweight tool to protect privacy/user data in Internet"
   },
@@ -526,7 +526,7 @@
     "url": "https://github.com/cyl19970726/poly-sdk",
     "followers": 0,
     "forks": 105,
-    "stars": 353,
+    "stars": 355,
     "created_at": "2025-12-23",
     "description": ""
   },
@@ -535,7 +535,7 @@
     "url": "https://github.com/asklokesh/claudeskill-loki-mode",
     "followers": 0,
     "forks": 58,
-    "stars": 269,
+    "stars": 270,
     "created_at": "2025-12-26",
     "description": "Multi-agent autonomous startup system for Claude Code"
   },
@@ -543,8 +543,8 @@
     "name": "BlackSky-Jose/solana-fun-token-launch-pad",
     "url": "https://github.com/BlackSky-Jose/solana-fun-token-launch-pad",
     "followers": 0,
-    "forks": 222,
-    "stars": 217,
+    "forks": 223,
+    "stars": 218,
     "created_at": "2025-12-24",
     "description": "A comprehensive Next.js-based token launchpad platform for creating and managing SPL tokens on the Solana blockchain. This application provides an intuitive interface for token creation, liquidity management, market creation, and token authority management"
   },
@@ -553,7 +553,7 @@
     "url": "https://github.com/RackulaLives/Rackula",
     "followers": 0,
     "forks": 7,
-    "stars": 210,
+    "stars": 213,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -562,7 +562,7 @@
     "url": "https://github.com/supermemoryai/opencode-supermemory",
     "followers": 0,
     "forks": 8,
-    "stars": 194,
+    "stars": 196,
     "created_at": "2025-12-24",
     "description": "Supermemory plugin for OpenCode"
   },
@@ -571,7 +571,7 @@
     "url": "https://github.com/kubeden/clopus-watcher",
     "followers": 0,
     "forks": 26,
-    "stars": 186,
+    "stars": 188,
     "created_at": "2025-12-25",
     "description": "An autonomous 24/7 on-call engineer in the form of a Claude Code living in a cronjob."
   },
@@ -580,7 +580,7 @@
     "url": "https://github.com/tsoding/formula",
     "followers": 0,
     "forks": 20,
-    "stars": 185,
+    "stars": 186,
     "created_at": "2025-12-25",
     "description": "\"One Formula That Demystifies 3D Graphics\""
   },
@@ -634,7 +634,7 @@
     "url": "https://github.com/Grazulex/laravel-api-kit",
     "followers": 0,
     "forks": 9,
-    "stars": 103,
+    "stars": 104,
     "created_at": "2025-12-25",
     "description": "A modern, API-only Laravel 12 starter kit following 2024-2025 best practices."
   },
@@ -720,6 +720,15 @@
     "description": "2025 CCF BDCI DeepSearch \u8d5b\u9053 Top \u65b9\u6848"
   },
   {
+    "name": "mostafaaElsherbiny/oop-tasks",
+    "url": "https://github.com/mostafaaElsherbiny/oop-tasks",
+    "followers": 0,
+    "forks": 9,
+    "stars": 77,
+    "created_at": "2025-12-27",
+    "description": ""
+  },
+  {
     "name": "tmkook/vchat",
     "url": "https://github.com/tmkook/vchat",
     "followers": 0,
@@ -727,15 +736,6 @@
     "stars": 77,
     "created_at": "2025-12-23",
     "description": "vchat is a chat ui automation testing framework."
-  },
-  {
-    "name": "mostafaaElsherbiny/oop-tasks",
-    "url": "https://github.com/mostafaaElsherbiny/oop-tasks",
-    "followers": 0,
-    "forks": 9,
-    "stars": 76,
-    "created_at": "2025-12-27",
-    "description": ""
   },
   {
     "name": "iamcheyan/Dotfiles",
@@ -751,27 +751,27 @@
     "url": "https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026",
     "followers": 0,
     "forks": 3,
-    "stars": 75,
+    "stars": 76,
     "created_at": "2025-12-28",
     "description": "The 2026 Ultimate Guide to Free Cloud Hosting. Compare 100+ Free Tier vs Paid platforms: Vercel, Netlify, Heroku, AWS, & VPS. Deploy Node.js, Python, Docker, Databases (SQL/NoSQL), & AI Models for free."
-  },
-  {
-    "name": "OpLumina/unredact.py",
-    "url": "https://github.com/OpLumina/unredact.py",
-    "followers": 0,
-    "forks": 15,
-    "stars": 74,
-    "created_at": "2025-12-25",
-    "description": "a python project that removes weak redaction methods such as black text highlighted black, and putting a non-flattened image over text."
   },
   {
     "name": "mnemosyne-artificial-intelligence/doppelganger",
     "url": "https://github.com/mnemosyne-artificial-intelligence/doppelganger",
     "followers": 0,
     "forks": 2,
-    "stars": 73,
+    "stars": 75,
     "created_at": "2025-12-25",
     "description": "Doppelg\u00e4nger is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It provides a visual task editor, a structured JSON task format, and advanced execution modes that go far beyond traditional scrapers."
+  },
+  {
+    "name": "OpLumina/unredact.py",
+    "url": "https://github.com/OpLumina/unredact.py",
+    "followers": 0,
+    "forks": 15,
+    "stars": 75,
+    "created_at": "2025-12-25",
+    "description": "a python project that removes weak redaction methods such as black text highlighted black, and putting a non-flattened image over text."
   },
   {
     "name": "validatedev/BrewServicesManager",
@@ -801,6 +801,15 @@
     "description": "AI\u56fe\u7247\u751f\u6210\u7f16\u8f91\u7f51\u7ad9\uff0c\u53ef\u4ee5\u6846\u9009\u56fe\u7247\u5c40\u90e8\u533a\u57df\u8fdb\u884c\u7f16\u8f91\u4fee\u6539\u3002"
   },
   {
+    "name": "shootthesound/comfyUI-LongLook",
+    "url": "https://github.com/shootthesound/comfyUI-LongLook",
+    "followers": 0,
+    "forks": 7,
+    "stars": 71,
+    "created_at": "2025-12-27",
+    "description": "A ComfyUI node pack that implements FreeLong (NeurIPS 2024) spectral blending for Wan 2.2 video generation"
+  },
+  {
     "name": "haiyewei/GoofishCredentialsBot",
     "url": "https://github.com/haiyewei/GoofishCredentialsBot",
     "followers": 0,
@@ -808,15 +817,6 @@
     "stars": 71,
     "created_at": "2025-12-25",
     "description": "\u95f2\u9c7c\u5361\u5bc6\u673a\u5668\u4eba - \u81ea\u52a8\u56de\u590d\u3001\u81ea\u52a8\u53d1\u8d27\u3001\u8ba2\u5355\u7ba1\u7406\u3001\u591a\u8d26\u53f7\u652f\u6301"
-  },
-  {
-    "name": "shootthesound/comfyUI-LongLook",
-    "url": "https://github.com/shootthesound/comfyUI-LongLook",
-    "followers": 0,
-    "forks": 7,
-    "stars": 70,
-    "created_at": "2025-12-27",
-    "description": "A ComfyUI node pack that implements FreeLong (NeurIPS 2024) spectral blending for Wan 2.2 video generation"
   },
   {
     "name": "erinosborn8/repo_1766599703_157",
