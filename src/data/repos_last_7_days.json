@@ -12,8 +12,8 @@
     "name": "HKUDS/DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
     "followers": 14,
-    "forks": 165,
-    "stars": 1065,
+    "forks": 166,
+    "stars": 1077,
     "created_at": "2025-12-28",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\""
   },
@@ -31,7 +31,7 @@
     "url": "https://github.com/op7418/guizang-s-prompt",
     "followers": 6,
     "forks": 58,
-    "stars": 590,
+    "stars": 591,
     "created_at": "2025-12-29",
     "description": "\u8fd9\u91cc\u662f\u6b78\u85cf\u7684\u63d0\u793a\u8bcd\u50a8\u5b58\u5e93\uff0c\u5b58\u653e\u7740\u6b78\u85cf\u64b0\u5199\u7684\u6240\u6709 AI \u6a21\u578b\u63d0\u793a\u8bcd\uff08This is Guizang's prompt repository, containing all AI model prompts written by Guizang.\uff09"
   },
@@ -40,7 +40,7 @@
     "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
     "followers": 5,
     "forks": 37,
-    "stars": 533,
+    "stars": 535,
     "created_at": "2025-12-29",
     "description": "HY-Motion model for 3D character animation generation. "
   },
@@ -49,7 +49,7 @@
     "url": "https://github.com/davidfowl/tally",
     "followers": 5,
     "forks": 38,
-    "stars": 474,
+    "stars": 477,
     "created_at": "2025-12-26",
     "description": "Let agents classify your bank transactions."
   },
@@ -58,7 +58,7 @@
     "url": "https://github.com/Dimillian/Skills",
     "followers": 5,
     "forks": 11,
-    "stars": 266,
+    "stars": 269,
     "created_at": "2025-12-30",
     "description": "My Codex Skills"
   },
@@ -67,7 +67,7 @@
     "url": "https://github.com/mausimus/ShaderBeam",
     "followers": 5,
     "forks": 5,
-    "stars": 256,
+    "stars": 257,
     "created_at": "2025-12-25",
     "description": "Overlay for running BFI/CRT Beam Simulation shaders on Windows desktop"
   },
@@ -85,7 +85,7 @@
     "url": "https://github.com/felix068/LinuxGate",
     "followers": 5,
     "forks": 2,
-    "stars": 100,
+    "stars": 111,
     "created_at": "2025-12-31",
     "description": "A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongside Windows."
   },
@@ -93,7 +93,7 @@
     "name": "joe-desimone/mongobleed",
     "url": "https://github.com/joe-desimone/mongobleed",
     "followers": 4,
-    "forks": 127,
+    "forks": 128,
     "stars": 770,
     "created_at": "2025-12-26",
     "description": ""
@@ -121,7 +121,7 @@
     "url": "https://github.com/backnotprop/plannotator",
     "followers": 4,
     "forks": 12,
-    "stars": 154,
+    "stars": 155,
     "created_at": "2025-12-28",
     "description": "Annotate and review coding agent plans visually, share with your team, send feedback with one click."
   },
@@ -130,7 +130,7 @@
     "url": "https://github.com/valdanylchuk/xcc700",
     "followers": 4,
     "forks": 10,
-    "stars": 151,
+    "stars": 152,
     "created_at": "2025-12-26",
     "description": "mini C compiler for esp32"
   },
@@ -156,8 +156,8 @@
     "name": "heilcheng/awesome-agent-skills",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
     "followers": 3,
-    "forks": 32,
-    "stars": 514,
+    "forks": 33,
+    "stars": 529,
     "created_at": "2025-12-29",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)"
   },
@@ -184,7 +184,7 @@
     "url": "https://github.com/Grazulex/laravel-api-kit",
     "followers": 3,
     "forks": 26,
-    "stars": 209,
+    "stars": 210,
     "created_at": "2025-12-25",
     "description": "A modern, API-only Laravel 12 starter kit following 2024-2025 best practices."
   },
@@ -210,8 +210,8 @@
     "name": "tripleyak/SkillForge",
     "url": "https://github.com/tripleyak/SkillForge",
     "followers": 3,
-    "forks": 14,
-    "stars": 159,
+    "forks": 15,
+    "stars": 163,
     "created_at": "2025-12-30",
     "description": "The ultimate meta-skill for generating best-in-class Claude Code skills."
   },
@@ -229,7 +229,7 @@
     "url": "https://github.com/tsale/awesome-dfir-skills",
     "followers": 3,
     "forks": 8,
-    "stars": 99,
+    "stars": 100,
     "created_at": "2025-12-27",
     "description": "A curated collection of DFIR skills and workflows for InfoSec practitioners."
   },
@@ -246,8 +246,8 @@
     "name": "buyukakyuz/corroded",
     "url": "https://github.com/buyukakyuz/corroded",
     "followers": 2,
-    "forks": 18,
-    "stars": 799,
+    "forks": 19,
+    "stars": 806,
     "created_at": "2025-12-29",
     "description": "Illegal rust"
   },
@@ -265,7 +265,7 @@
     "url": "https://github.com/joelhooks/opencode-vibe",
     "followers": 2,
     "forks": 10,
-    "stars": 101,
+    "stars": 102,
     "created_at": "2025-12-27",
     "description": "\ud83c\udfc4\u200d\u2642\ufe0f Next.js 16 web UI for OpenCode - real-time chat with streaming, SSE sync, and React Server Components"
   },
@@ -283,7 +283,7 @@
     "url": "https://github.com/GMaN1911/claude-cognitive",
     "followers": 2,
     "forks": 8,
-    "stars": 88,
+    "stars": 92,
     "created_at": "2025-12-30",
     "description": "Working memory for Claude Code - persistent context and multi-instance coordination"
   },
@@ -310,7 +310,7 @@
     "url": "https://github.com/k2-fsa/Flow2GAN",
     "followers": 2,
     "forks": 6,
-    "stars": 71,
+    "stars": 72,
     "created_at": "2025-12-29",
     "description": "Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-Step High-Fidelity Audio Generation"
   },
@@ -328,7 +328,7 @@
     "url": "https://github.com/technomancer702/nodecast-tv",
     "followers": 1,
     "forks": 35,
-    "stars": 520,
+    "stars": 521,
     "created_at": "2025-12-27",
     "description": "A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly."
   },
@@ -336,8 +336,8 @@
     "name": "Lulzx/zpdf",
     "url": "https://github.com/Lulzx/zpdf",
     "followers": 1,
-    "forks": 13,
-    "stars": 481,
+    "forks": 14,
+    "stars": 486,
     "created_at": "2025-12-30",
     "description": "Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration."
   },
@@ -345,8 +345,8 @@
     "name": "kenryu42/claude-code-safety-net",
     "url": "https://github.com/kenryu42/claude-code-safety-net",
     "followers": 1,
-    "forks": 16,
-    "stars": 322,
+    "forks": 17,
+    "stars": 328,
     "created_at": "2025-12-25",
     "description": "A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute."
   },
@@ -363,7 +363,7 @@
     "name": "kubeden/clopus-watcher",
     "url": "https://github.com/kubeden/clopus-watcher",
     "followers": 1,
-    "forks": 33,
+    "forks": 34,
     "stars": 221,
     "created_at": "2025-12-25",
     "description": "An autonomous 24/7 on-call engineer in the form of a Claude Code living in a cronjob."
@@ -391,7 +391,7 @@
     "url": "https://github.com/marckohlbrugge/sessy",
     "followers": 1,
     "forks": 8,
-    "stars": 153,
+    "stars": 154,
     "created_at": "2025-12-30",
     "description": "Open-source email observability for AWS SES"
   },
@@ -400,7 +400,7 @@
     "url": "https://github.com/darkfiv/DouSql",
     "followers": 1,
     "forks": 8,
-    "stars": 146,
+    "stars": 147,
     "created_at": "2025-12-25",
     "description": ""
   },
@@ -409,7 +409,7 @@
     "url": "https://github.com/ygwyg/merchant",
     "followers": 1,
     "forks": 14,
-    "stars": 132,
+    "stars": 134,
     "created_at": "2025-12-29",
     "description": "The backend for selling things on the internet."
   },
@@ -427,7 +427,7 @@
     "url": "https://github.com/Wenyueh/MinivLLM",
     "followers": 1,
     "forks": 6,
-    "stars": 112,
+    "stars": 113,
     "created_at": "2025-12-29",
     "description": "Based on Nano-vLLM, a simple replication of vLLM with self-contained paged attention and flash attention implementation"
   },
@@ -490,7 +490,7 @@
     "url": "https://github.com/gonzalezreal/textual",
     "followers": 1,
     "forks": 0,
-    "stars": 83,
+    "stars": 84,
     "created_at": "2025-12-27",
     "description": "Render and customize rich attributed text in SwiftUI"
   },
@@ -499,7 +499,7 @@
     "url": "https://github.com/infinigence/FUSCO",
     "followers": 1,
     "forks": 7,
-    "stars": 76,
+    "stars": 78,
     "created_at": "2025-12-29",
     "description": "High-performance distributed data shuffling (all-to-all) library for MoE training and inference"
   },
@@ -607,7 +607,7 @@
     "url": "https://github.com/rohanprasadofficial/localflare",
     "followers": 0,
     "forks": 7,
-    "stars": 156,
+    "stars": 161,
     "created_at": "2025-12-28",
     "description": "local cloudflare"
   },
@@ -837,6 +837,15 @@
     "description": "S3-compatible storage in ~1.4K lines of Zig. Zero dependencies."
   },
   {
+    "name": "lucidrains/metacontroller",
+    "url": "https://github.com/lucidrains/metacontroller",
+    "followers": 0,
+    "forks": 6,
+    "stars": 70,
+    "created_at": "2025-12-27",
+    "description": "Implementation of the MetaController proposed in \"Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning\""
+  },
+  {
     "name": "duolaAmengweb3/polyseer",
     "url": "https://github.com/duolaAmengweb3/polyseer",
     "followers": 0,
@@ -846,19 +855,10 @@
     "description": ""
   },
   {
-    "name": "lucidrains/metacontroller",
-    "url": "https://github.com/lucidrains/metacontroller",
-    "followers": 0,
-    "forks": 6,
-    "stars": 69,
-    "created_at": "2025-12-27",
-    "description": "Implementation of the MetaController proposed in \"Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning\""
-  },
-  {
     "name": "coffinxp/crtmon",
     "url": "https://github.com/coffinxp/crtmon",
     "followers": 0,
-    "forks": 13,
+    "forks": 14,
     "stars": 68,
     "created_at": "2025-12-27",
     "description": "Monitor your targets and hunt fresh assets in real time."
