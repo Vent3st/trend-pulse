@@ -43,8 +43,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "Vent3st@users.noreply.github.com"
+          git config --local user.name "Vent3st"
           git add src/data/*.json
           git diff --staged --quiet || git commit -m "chore: update trending data [skip ci]"
           git push origin HEAD
