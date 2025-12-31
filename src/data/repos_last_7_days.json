@@ -4,7 +4,7 @@
     "url": "https://github.com/garagesteve1155/PowerTrader_AI",
     "followers": 26,
     "forks": 107,
-    "stars": 251,
+    "stars": 252,
     "created_at": "2025-12-27",
     "description": "Fully automated crypto trading powered by a custom price prediction AI and a structured/tiered DCA system."
   },
@@ -12,8 +12,8 @@
     "name": "HKUDS/DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
     "followers": 14,
-    "forks": 163,
-    "stars": 1021,
+    "forks": 164,
+    "stars": 1043,
     "created_at": "2025-12-28",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\""
   },
@@ -40,7 +40,7 @@
     "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
     "followers": 5,
     "forks": 37,
-    "stars": 528,
+    "stars": 531,
     "created_at": "2025-12-29",
     "description": "HY-Motion model for 3D character animation generation. "
   },
@@ -48,8 +48,8 @@
     "name": "davidfowl/tally",
     "url": "https://github.com/davidfowl/tally",
     "followers": 5,
-    "forks": 37,
-    "stars": 470,
+    "forks": 38,
+    "stars": 473,
     "created_at": "2025-12-26",
     "description": "Let agents classify your bank transactions."
   },
@@ -58,7 +58,7 @@
     "url": "https://github.com/Dimillian/Skills",
     "followers": 5,
     "forks": 11,
-    "stars": 265,
+    "stars": 266,
     "created_at": "2025-12-30",
     "description": "My Codex Skills"
   },
@@ -67,7 +67,7 @@
     "url": "https://github.com/mausimus/ShaderBeam",
     "followers": 5,
     "forks": 5,
-    "stars": 253,
+    "stars": 254,
     "created_at": "2025-12-25",
     "description": "Overlay for running BFI/CRT Beam Simulation shaders on Windows desktop"
   },
@@ -85,7 +85,7 @@
     "url": "https://github.com/felix068/LinuxGate",
     "followers": 5,
     "forks": 1,
-    "stars": 92,
+    "stars": 96,
     "created_at": "2025-12-31",
     "description": "A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongside Windows."
   },
@@ -103,7 +103,7 @@
     "url": "https://github.com/AnmolSaini16/mapcn",
     "followers": 4,
     "forks": 28,
-    "stars": 661,
+    "stars": 662,
     "created_at": "2025-12-28",
     "description": "Beautiful map components. 100% Free, Zero config, one command setup."
   },
@@ -130,7 +130,7 @@
     "url": "https://github.com/backnotprop/plannotator",
     "followers": 4,
     "forks": 12,
-    "stars": 148,
+    "stars": 151,
     "created_at": "2025-12-28",
     "description": "Annotate and review coding agent plans visually, share with your team, send feedback with one click."
   },
@@ -156,8 +156,8 @@
     "name": "heilcheng/awesome-agent-skills",
     "url": "https://github.com/heilcheng/awesome-agent-skills",
     "followers": 3,
-    "forks": 30,
-    "stars": 488,
+    "forks": 31,
+    "stars": 503,
     "created_at": "2025-12-29",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)"
   },
@@ -165,8 +165,8 @@
     "name": "tobi/AudioPriorityBar",
     "url": "https://github.com/tobi/AudioPriorityBar",
     "followers": 3,
-    "forks": 12,
-    "stars": 463,
+    "forks": 13,
+    "stars": 464,
     "created_at": "2025-12-27",
     "description": "A native macOS menu bar app for managing audio device priorities"
   },
@@ -193,7 +193,7 @@
     "url": "https://github.com/rcarmo/PhotosExport",
     "followers": 3,
     "forks": 6,
-    "stars": 164,
+    "stars": 165,
     "created_at": "2025-12-27",
     "description": "Export ALL your data from Apple Photos"
   },
@@ -202,7 +202,7 @@
     "url": "https://github.com/Tencent-Hunyuan/HY-MT",
     "followers": 3,
     "forks": 13,
-    "stars": 160,
+    "stars": 163,
     "created_at": "2025-12-26",
     "description": ""
   },
@@ -220,7 +220,7 @@
     "url": "https://github.com/jvdillon/netv",
     "followers": 3,
     "forks": 7,
-    "stars": 145,
+    "stars": 146,
     "created_at": "2025-12-28",
     "description": "neTV - IPTV in your Browser & Transcoding on your Server"
   },
@@ -229,7 +229,7 @@
     "url": "https://github.com/tsale/awesome-dfir-skills",
     "followers": 3,
     "forks": 8,
-    "stars": 98,
+    "stars": 99,
     "created_at": "2025-12-27",
     "description": "A curated collection of DFIR skills and workflows for InfoSec practitioners."
   },
@@ -246,8 +246,8 @@
     "name": "buyukakyuz/corroded",
     "url": "https://github.com/buyukakyuz/corroded",
     "followers": 2,
-    "forks": 12,
-    "stars": 781,
+    "forks": 13,
+    "stars": 795,
     "created_at": "2025-12-29",
     "description": "Illegal rust"
   },
@@ -283,7 +283,7 @@
     "url": "https://github.com/GMaN1911/claude-cognitive",
     "followers": 2,
     "forks": 6,
-    "stars": 80,
+    "stars": 84,
     "created_at": "2025-12-30",
     "description": "Working memory for Claude Code - persistent context and multi-instance coordination"
   },
@@ -346,7 +346,7 @@
     "url": "https://github.com/Lulzx/zpdf",
     "followers": 1,
     "forks": 13,
-    "stars": 466,
+    "stars": 476,
     "created_at": "2025-12-30",
     "description": "Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration."
   },
@@ -355,7 +355,7 @@
     "url": "https://github.com/kenryu42/claude-code-safety-net",
     "followers": 1,
     "forks": 16,
-    "stars": 321,
+    "stars": 322,
     "created_at": "2025-12-25",
     "description": "A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute."
   },
@@ -400,7 +400,7 @@
     "url": "https://github.com/marckohlbrugge/sessy",
     "followers": 1,
     "forks": 8,
-    "stars": 150,
+    "stars": 151,
     "created_at": "2025-12-30",
     "description": "Open-source email observability for AWS SES"
   },
@@ -418,7 +418,7 @@
     "url": "https://github.com/ygwyg/merchant",
     "followers": 1,
     "forks": 14,
-    "stars": 130,
+    "stars": 131,
     "created_at": "2025-12-29",
     "description": "The backend for selling things on the internet."
   },
@@ -445,7 +445,7 @@
     "url": "https://github.com/k1LoW/git-wt",
     "followers": 1,
     "forks": 6,
-    "stars": 108,
+    "stars": 109,
     "created_at": "2025-12-26",
     "description": "A Git subcommand that makes `git worktree` simple"
   },
@@ -570,7 +570,7 @@
     "name": "asklokesh/claudeskill-loki-mode",
     "url": "https://github.com/asklokesh/claudeskill-loki-mode",
     "followers": 0,
-    "forks": 67,
+    "forks": 68,
     "stars": 313,
     "created_at": "2025-12-26",
     "description": "Multi-agent autonomous startup system for Claude Code"
@@ -589,7 +589,7 @@
     "url": "https://github.com/tsoding/formula",
     "followers": 0,
     "forks": 23,
-    "stars": 216,
+    "stars": 218,
     "created_at": "2025-12-25",
     "description": "\"One Formula That Demystifies 3D Graphics\""
   },
@@ -607,7 +607,7 @@
     "url": "https://github.com/rohanprasadofficial/localflare",
     "followers": 0,
     "forks": 7,
-    "stars": 152,
+    "stars": 154,
     "created_at": "2025-12-28",
     "description": "local cloudflare"
   },
@@ -630,6 +630,15 @@
     "description": "\u4e00\u952e\u5b8c\u5907\u7684\u7ec8\u7aef\u5f00\u53d1\u73af\u5883\uff1a\u96c6\u6210\u4e86Zsh + Powerlevel10k+Neovim (\u9884\u88c5\u4e86AI\u52a9\u624b)+ Rust \u751f\u6001\u7684\u73b0\u4ee3\u5316\u5de5\u5177\u94fe"
   },
   {
+    "name": "ingriddaleusag-dotcom/PeekPiliRelease",
+    "url": "https://github.com/ingriddaleusag-dotcom/PeekPiliRelease",
+    "followers": 0,
+    "forks": 23,
+    "stars": 108,
+    "created_at": "2025-12-29",
+    "description": ""
+  },
+  {
     "name": "aqstack/sentinel",
     "url": "https://github.com/aqstack/sentinel",
     "followers": 0,
@@ -637,15 +646,6 @@
     "stars": 107,
     "created_at": "2025-12-25",
     "description": "Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes"
-  },
-  {
-    "name": "ingriddaleusag-dotcom/PeekPiliRelease",
-    "url": "https://github.com/ingriddaleusag-dotcom/PeekPiliRelease",
-    "followers": 0,
-    "forks": 23,
-    "stars": 106,
-    "created_at": "2025-12-29",
-    "description": ""
   },
   {
     "name": "shootthesound/comfyUI-LongLook",
@@ -756,6 +756,15 @@
     "description": "\ud83c\udfb0 Smart text animation component with character-level diff scrolling. React & Vue supported. \u652f\u6301\u4efb\u610f\u5b57\u7b26\u7684\u9ad8\u6027\u80fd\u6587\u672c\u5dee\u5f02\u52a8\u753b\u6eda\u52a8\u7ec4\u4ef6\uff0c\u9002\u7528\u4e8e React \u548c Vue\u3002"
   },
   {
+    "name": "haiyewei/GoofishCredentialsBot",
+    "url": "https://github.com/haiyewei/GoofishCredentialsBot",
+    "followers": 0,
+    "forks": 19,
+    "stars": 80,
+    "created_at": "2025-12-25",
+    "description": "\u95f2\u9c7c\u5361\u5bc6\u673a\u5668\u4eba - \u81ea\u52a8\u56de\u590d\u3001\u81ea\u52a8\u53d1\u8d27\u3001\u8ba2\u5355\u7ba1\u7406\u3001\u591a\u8d26\u53f7\u652f\u6301"
+  },
+  {
     "name": "chunxiuxiamo/ai-image-edit",
     "url": "https://github.com/chunxiuxiamo/ai-image-edit",
     "followers": 0,
@@ -772,15 +781,6 @@
     "stars": 79,
     "created_at": "2025-12-27",
     "description": "A Kiro Client in Rust"
-  },
-  {
-    "name": "haiyewei/GoofishCredentialsBot",
-    "url": "https://github.com/haiyewei/GoofishCredentialsBot",
-    "followers": 0,
-    "forks": 19,
-    "stars": 79,
-    "created_at": "2025-12-25",
-    "description": "\u95f2\u9c7c\u5361\u5bc6\u673a\u5668\u4eba - \u81ea\u52a8\u56de\u590d\u3001\u81ea\u52a8\u53d1\u8d27\u3001\u8ba2\u5355\u7ba1\u7406\u3001\u591a\u8d26\u53f7\u652f\u6301"
   },
   {
     "name": "numman-ali/codex-wrapped",
@@ -832,7 +832,7 @@
     "url": "https://github.com/Lulzx/zs3",
     "followers": 0,
     "forks": 0,
-    "stars": 71,
+    "stars": 72,
     "created_at": "2025-12-29",
     "description": "S3-compatible storage in ~1.4K lines of Zig. Zero dependencies."
   },
