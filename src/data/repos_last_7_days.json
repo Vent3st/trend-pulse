@@ -12,8 +12,8 @@
     "name": "HKUDS/DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
     "followers": 14,
-    "forks": 180,
-    "stars": 1186,
+    "forks": 182,
+    "stars": 1200,
     "created_at": "2025-12-28",
     "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\""
   },
@@ -36,11 +36,20 @@
     "description": "\u8fd9\u91cc\u662f\u6b78\u85cf\u7684\u63d0\u793a\u8bcd\u50a8\u5b58\u5e93\uff0c\u5b58\u653e\u7740\u6b78\u85cf\u64b0\u5199\u7684\u6240\u6709 AI \u6a21\u578b\u63d0\u793a\u8bcd\uff08This is Guizang's prompt repository, containing all AI model prompts written by Guizang.\uff09"
   },
   {
+    "name": "heilcheng/awesome-agent-skills",
+    "url": "https://github.com/heilcheng/awesome-agent-skills",
+    "followers": 6,
+    "forks": 36,
+    "stars": 595,
+    "created_at": "2025-12-29",
+    "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)"
+  },
+  {
     "name": "AnmolSaini16/mapcn",
     "url": "https://github.com/AnmolSaini16/mapcn",
     "followers": 5,
     "forks": 31,
-    "stars": 730,
+    "stars": 739,
     "created_at": "2025-12-28",
     "description": "Beautiful map components. 100% Free, Zero config, one command setup."
   },
@@ -49,7 +58,7 @@
     "url": "https://github.com/davidfowl/tally",
     "followers": 5,
     "forks": 38,
-    "stars": 489,
+    "stars": 490,
     "created_at": "2025-12-26",
     "description": "Let agents classify your bank transactions."
   },
@@ -66,7 +75,7 @@
     "name": "backnotprop/plannotator",
     "url": "https://github.com/backnotprop/plannotator",
     "followers": 5,
-    "forks": 15,
+    "forks": 16,
     "stars": 178,
     "created_at": "2025-12-28",
     "description": "Annotate and review coding agent plans visually, share with your team, send feedback with one click."
@@ -76,7 +85,7 @@
     "url": "https://github.com/felix068/LinuxGate",
     "followers": 5,
     "forks": 3,
-    "stars": 137,
+    "stars": 138,
     "created_at": "2025-12-31",
     "description": "A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongside Windows."
   },
@@ -102,26 +111,17 @@
     "name": "joe-desimone/mongobleed",
     "url": "https://github.com/joe-desimone/mongobleed",
     "followers": 4,
-    "forks": 129,
-    "stars": 774,
+    "forks": 130,
+    "stars": 775,
     "created_at": "2025-12-26",
     "description": ""
-  },
-  {
-    "name": "heilcheng/awesome-agent-skills",
-    "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "followers": 4,
-    "forks": 36,
-    "stars": 587,
-    "created_at": "2025-12-29",
-    "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)"
   },
   {
     "name": "Tencent-Hunyuan/HY-Motion-1.0",
     "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
     "followers": 4,
     "forks": 40,
-    "stars": 549,
+    "stars": 552,
     "created_at": "2025-12-29",
     "description": "HY-Motion model for 3D character animation generation. "
   },
@@ -147,7 +147,7 @@
     "name": "tsale/awesome-dfir-skills",
     "url": "https://github.com/tsale/awesome-dfir-skills",
     "followers": 4,
-    "forks": 8,
+    "forks": 9,
     "stars": 111,
     "created_at": "2025-12-27",
     "description": "A curated collection of DFIR skills and workflows for InfoSec practitioners."
@@ -157,7 +157,7 @@
     "url": "https://github.com/lzjever/routilux",
     "followers": 4,
     "forks": 6,
-    "stars": 75,
+    "stars": 76,
     "created_at": "2025-12-28",
     "description": "Event-driven workflow orchestration framework for Python. Build  complex data/ai pipelines, API workflows, and reactive systems with  ease. Features flexible connections, state management, error  handling, and concurrent execution."
   },
@@ -228,8 +228,8 @@
     "name": "humanplane/cross-market-state-fusion",
     "url": "https://github.com/humanplane/cross-market-state-fusion",
     "followers": 3,
-    "forks": 28,
-    "stars": 86,
+    "forks": 29,
+    "stars": 88,
     "created_at": "2025-12-29",
     "description": "RL agent fusing real-time Binance futures data into Polymarket prediction markets. On-device training with MLX on Apple Silicon."
   },
@@ -247,7 +247,7 @@
     "url": "https://github.com/buyukakyuz/corroded",
     "followers": 2,
     "forks": 20,
-    "stars": 835,
+    "stars": 839,
     "created_at": "2025-12-29",
     "description": "Illegal rust"
   },
@@ -265,7 +265,7 @@
     "url": "https://github.com/GMaN1911/claude-cognitive",
     "followers": 2,
     "forks": 14,
-    "stars": 116,
+    "stars": 119,
     "created_at": "2025-12-30",
     "description": "Working memory for Claude Code - persistent context and multi-instance coordination"
   },
@@ -301,7 +301,7 @@
     "url": "https://github.com/k2-fsa/Flow2GAN",
     "followers": 2,
     "forks": 6,
-    "stars": 76,
+    "stars": 77,
     "created_at": "2025-12-29",
     "description": "Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-Step High-Fidelity Audio Generation"
   },
@@ -337,7 +337,7 @@
     "url": "https://github.com/yoanbernabeu/openbento",
     "followers": 2,
     "forks": 6,
-    "stars": 55,
+    "stars": 56,
     "created_at": "2025-12-30",
     "description": "A beautiful, open-source bento grid generator for creating stunning link-in-bio pages"
   },
@@ -345,8 +345,8 @@
     "name": "Lulzx/zpdf",
     "url": "https://github.com/Lulzx/zpdf",
     "followers": 1,
-    "forks": 17,
-    "stars": 536,
+    "forks": 18,
+    "stars": 538,
     "created_at": "2025-12-30",
     "description": "Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration."
   },
@@ -427,7 +427,7 @@
     "url": "https://github.com/k1LoW/git-wt",
     "followers": 1,
     "forks": 6,
-    "stars": 110,
+    "stars": 111,
     "created_at": "2025-12-26",
     "description": "A Git subcommand that makes `git worktree` simple"
   },
@@ -463,9 +463,18 @@
     "url": "https://github.com/roshie548/proxmux",
     "followers": 1,
     "forks": 5,
-    "stars": 84,
+    "stars": 85,
     "created_at": "2025-12-31",
     "description": "Terminal UI for managing Proxmox VE - VMs, containers, storage, and more"
+  },
+  {
+    "name": "VoidmatrixHeathcliff/VoidNovelEngine",
+    "url": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine",
+    "followers": 1,
+    "forks": 3,
+    "stars": 83,
+    "created_at": "2025-12-31",
+    "description": "A free, modern engine for visual novels | \u81ea\u7531\uff0c\u73b0\u4ee3\u5316\u7684\u89c6\u89c9\u5c0f\u8bf4\u5f15\u64ce"
   },
   {
     "name": "infinigence/FUSCO",
@@ -475,15 +484,6 @@
     "stars": 80,
     "created_at": "2025-12-29",
     "description": "High-performance distributed data shuffling (all-to-all) library for MoE training and inference"
-  },
-  {
-    "name": "VoidmatrixHeathcliff/VoidNovelEngine",
-    "url": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine",
-    "followers": 1,
-    "forks": 3,
-    "stars": 75,
-    "created_at": "2025-12-31",
-    "description": "A free, modern engine for visual novels | \u81ea\u7531\uff0c\u73b0\u4ee3\u5316\u7684\u89c6\u89c9\u5c0f\u8bf4\u5f15\u64ce"
   },
   {
     "name": "RanvirRox/EkaKey-autocorrect-globally",
@@ -598,7 +598,7 @@
     "url": "https://github.com/rohanprasadofficial/localflare",
     "followers": 0,
     "forks": 7,
-    "stars": 171,
+    "stars": 173,
     "created_at": "2025-12-28",
     "description": "local cloudflare"
   },
@@ -625,7 +625,7 @@
     "url": "https://github.com/ingriddaleusag-dotcom/PeekPiliRelease",
     "followers": 0,
     "forks": 25,
-    "stars": 109,
+    "stars": 111,
     "created_at": "2025-12-29",
     "description": ""
   },
@@ -666,6 +666,15 @@
     "description": "The 2026 Ultimate Guide to Free Cloud Hosting. Compare 100+ Free Tier vs Paid platforms: Vercel, Netlify, Heroku, AWS, & VPS. Deploy Node.js, Python, Docker, Databases (SQL/NoSQL), & AI Models for free."
   },
   {
+    "name": "atomicman57/universal-config-converter",
+    "url": "https://github.com/atomicman57/universal-config-converter",
+    "followers": 0,
+    "forks": 22,
+    "stars": 89,
+    "created_at": "2025-12-29",
+    "description": "Convert between YAML, JSON, TOML,XML, INI and ENV config formats seamlessly"
+  },
+  {
     "name": "hank9999/kiro.rs",
     "url": "https://github.com/hank9999/kiro.rs",
     "followers": 0,
@@ -688,7 +697,7 @@
     "url": "https://github.com/tombcato/smart-ticker",
     "followers": 0,
     "forks": 5,
-    "stars": 81,
+    "stars": 82,
     "created_at": "2025-12-28",
     "description": "\ud83c\udfb0 Smart text animation component with character-level diff scrolling. React & Vue supported. \u652f\u6301\u4efb\u610f\u5b57\u7b26\u7684\u9ad8\u6027\u80fd\u6587\u672c\u5dee\u5f02\u52a8\u753b\u6eda\u52a8\u7ec4\u4ef6\uff0c\u9002\u7528\u4e8e React \u548c Vue\u3002"
   },
@@ -718,15 +727,6 @@
     "stars": 79,
     "created_at": "2025-12-28",
     "description": "AI\u56fe\u7247\u751f\u6210\u7f16\u8f91\u7f51\u7ad9\uff0c\u53ef\u4ee5\u6846\u9009\u56fe\u7247\u5c40\u90e8\u533a\u57df\u8fdb\u884c\u7f16\u8f91\u4fee\u6539\u3002"
-  },
-  {
-    "name": "atomicman57/universal-config-converter",
-    "url": "https://github.com/atomicman57/universal-config-converter",
-    "followers": 0,
-    "forks": 22,
-    "stars": 78,
-    "created_at": "2025-12-29",
-    "description": "Convert between YAML, JSON, TOML,XML, INI and ENV config formats seamlessly"
   },
   {
     "name": "0xSero/open-queue",
@@ -792,21 +792,21 @@
     "description": ""
   },
   {
+    "name": "llong8/a2a",
+    "url": "https://github.com/llong8/a2a",
+    "followers": 0,
+    "forks": 0,
+    "stars": 61,
+    "created_at": "2025-12-28",
+    "description": ""
+  },
+  {
     "name": "golbin/gw",
     "url": "https://github.com/golbin/gw",
     "followers": 0,
     "forks": 5,
     "stars": 61,
     "created_at": "2025-12-30",
-    "description": ""
-  },
-  {
-    "name": "llong8/a2a",
-    "url": "https://github.com/llong8/a2a",
-    "followers": 0,
-    "forks": 0,
-    "stars": 60,
-    "created_at": "2025-12-28",
     "description": ""
   },
   {
