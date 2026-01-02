@@ -4,7 +4,7 @@
     "url": "https://github.com/garagesteve1155/PowerTrader_AI",
     "followers": 27,
     "forks": 116,
-    "stars": 268,
+    "stars": 270,
     "created_at": "2025-12-27",
     "description": "Fully automated crypto trading powered by a custom price prediction AI and a structured/tiered DCA system."
   },
@@ -13,7 +13,7 @@
     "url": "https://github.com/GitAhubI-Lover/classify_i_machine_learning",
     "followers": 25,
     "forks": 28,
-    "stars": 104,
+    "stars": 105,
     "created_at": "2025-12-31",
     "description": "classify_i_machine_learning"
   },
@@ -38,11 +38,20 @@
   {
     "name": "Tencent-Hunyuan/HY-Motion-1.0",
     "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
-    "followers": 10,
+    "followers": 11,
     "forks": 65,
-    "stars": 1017,
+    "stars": 1033,
     "created_at": "2025-12-29",
     "description": "HY-Motion model for 3D character animation generation. "
+  },
+  {
+    "name": "AnmolSaini16/mapcn",
+    "url": "https://github.com/AnmolSaini16/mapcn",
+    "followers": 9,
+    "forks": 64,
+    "stars": 1603,
+    "created_at": "2025-12-28",
+    "description": "Beautiful map components. 100% Free, Zero config, one command setup."
   },
   {
     "name": "DodoraApp/DodoStream",
@@ -52,15 +61,6 @@
     "stars": 136,
     "created_at": "2025-12-28",
     "description": "Streaming evolved."
-  },
-  {
-    "name": "AnmolSaini16/mapcn",
-    "url": "https://github.com/AnmolSaini16/mapcn",
-    "followers": 8,
-    "forks": 64,
-    "stars": 1577,
-    "created_at": "2025-12-28",
-    "description": "Beautiful map components. 100% Free, Zero config, one command setup."
   },
   {
     "name": "backnotprop/plannotator",
@@ -85,7 +85,7 @@
     "url": "https://github.com/heilcheng/awesome-agent-skills",
     "followers": 6,
     "forks": 54,
-    "stars": 750,
+    "stars": 753,
     "created_at": "2025-12-29",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)"
   },
@@ -94,7 +94,7 @@
     "url": "https://github.com/op7418/guizang-s-prompt",
     "followers": 6,
     "forks": 62,
-    "stars": 606,
+    "stars": 610,
     "created_at": "2025-12-29",
     "description": "\u8fd9\u91cc\u662f\u6b78\u85cf\u7684\u63d0\u793a\u8bcd\u50a8\u5b58\u5e93\uff0c\u5b58\u653e\u7740\u6b78\u85cf\u64b0\u5199\u7684\u6240\u6709 AI \u6a21\u578b\u63d0\u793a\u8bcd\uff08This is Guizang's prompt repository, containing all AI model prompts written by Guizang.\uff09"
   },
@@ -103,7 +103,7 @@
     "url": "https://github.com/Dimillian/Skills",
     "followers": 5,
     "forks": 13,
-    "stars": 321,
+    "stars": 323,
     "created_at": "2025-12-30",
     "description": "My Codex Skills"
   },
@@ -120,8 +120,8 @@
     "name": "humanplane/cross-market-state-fusion",
     "url": "https://github.com/humanplane/cross-market-state-fusion",
     "followers": 4,
-    "forks": 65,
-    "stars": 212,
+    "forks": 67,
+    "stars": 217,
     "created_at": "2025-12-29",
     "description": "RL agent fusing real-time Binance futures data into Polymarket prediction markets. On-device training with MLX on Apple Silicon."
   },
@@ -130,7 +130,7 @@
     "url": "https://github.com/Finsys/dockhand",
     "followers": 4,
     "forks": 5,
-    "stars": 206,
+    "stars": 207,
     "created_at": "2025-12-28",
     "description": "Dockhand - Docker management you will like."
   },
@@ -175,7 +175,7 @@
     "url": "https://github.com/buyukakyuz/corroded",
     "followers": 3,
     "forks": 24,
-    "stars": 970,
+    "stars": 972,
     "created_at": "2025-12-29",
     "description": "Illegal rust"
   },
@@ -184,7 +184,7 @@
     "url": "https://github.com/Lulzx/zpdf",
     "followers": 3,
     "forks": 20,
-    "stars": 634,
+    "stars": 635,
     "created_at": "2025-12-30",
     "description": "Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration."
   },
@@ -192,8 +192,8 @@
     "name": "IQuestLab/IQuest-Coder-V1",
     "url": "https://github.com/IQuestLab/IQuest-Coder-V1",
     "followers": 3,
-    "forks": 20,
-    "stars": 511,
+    "forks": 21,
+    "stars": 522,
     "created_at": "2025-12-31",
     "description": ""
   },
@@ -211,7 +211,7 @@
     "url": "https://github.com/GMaN1911/claude-cognitive",
     "followers": 3,
     "forks": 16,
-    "stars": 195,
+    "stars": 198,
     "created_at": "2025-12-30",
     "description": "Working memory for Claude Code - persistent context and multi-instance coordination"
   },
@@ -237,8 +237,8 @@
     "name": "itshover/itshover",
     "url": "https://github.com/itshover/itshover",
     "followers": 3,
-    "forks": 8,
-    "stars": 99,
+    "forks": 9,
+    "stars": 104,
     "created_at": "2025-12-29",
     "description": "Icons that move with intent"
   },
@@ -265,7 +265,7 @@
     "url": "https://github.com/CloudAI-X/claude-workflow",
     "followers": 2,
     "forks": 73,
-    "stars": 457,
+    "stars": 465,
     "created_at": "2026-01-01",
     "description": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands"
   },
@@ -301,7 +301,7 @@
     "url": "https://github.com/omar-haris/smart-coding-mcp",
     "followers": 2,
     "forks": 20,
-    "stars": 106,
+    "stars": 107,
     "created_at": "2025-12-27",
     "description": "An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search research."
   },
@@ -337,7 +337,7 @@
     "url": "https://github.com/huifer/Claude-Ally-Health",
     "followers": 2,
     "forks": 8,
-    "stars": 73,
+    "stars": 74,
     "created_at": "2025-12-31",
     "description": "Claude-Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medications, track medical records, and access professional multidisciplinary consultation analysis\u2014making health management smarter and more accessible"
   },
@@ -346,7 +346,7 @@
     "url": "https://github.com/hyunwoongko/solar-vs-glm-vs-phi",
     "followers": 2,
     "forks": 6,
-    "stars": 62,
+    "stars": 64,
     "created_at": "2026-01-01",
     "description": ""
   },
@@ -373,7 +373,7 @@
     "url": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine",
     "followers": 1,
     "forks": 21,
-    "stars": 259,
+    "stars": 266,
     "created_at": "2025-12-31",
     "description": "A free, modern engine for visual novels | \u81ea\u7531\uff0c\u73b0\u4ee3\u5316\u7684\u89c6\u89c9\u5c0f\u8bf4\u5f15\u64ce"
   },
@@ -387,11 +387,20 @@
     "description": "\u672c\u79d1\u534e\u4e94\uff0c\u66fe\u8d74\u7f8eqs50\u8bfb\u535a\uff0c\u67d0\u5144\u5f1f\u9662\u6821\u526f\u6559\u6388\uff0c\u6821\u56ed\u95e8\u536b\u4ead\u5973\u6027\u4e3b\u7406\u4eba\uff0c\u4e3a\u9632\u6b62\u70b8\u53f7\u7684\u5907\u4efd\u5e73\u53f0\uff0c\u662f\u672c\u4eba\u3002"
   },
   {
+    "name": "datawhalechina/easy-vibe",
+    "url": "https://github.com/datawhalechina/easy-vibe",
+    "followers": 1,
+    "forks": 12,
+    "stars": 224,
+    "created_at": "2025-12-28",
+    "description": "\u9879\u76ee\u5236\u5b66\u4e60\u6559\u7a0b\uff0c\u5e2e\u52a9\u4f60\u4ece 0 \u5230 1 \u6784\u5efa AI \u539f\u751f\u5e94\u7528\u3002 "
+  },
+  {
     "name": "ygwyg/merchant",
     "url": "https://github.com/ygwyg/merchant",
     "followers": 1,
     "forks": 24,
-    "stars": 204,
+    "stars": 208,
     "created_at": "2025-12-29",
     "description": "The backend for selling things on the internet."
   },
@@ -418,7 +427,7 @@
     "url": "https://github.com/YuukiJapanTech/AUhikari-802.1x",
     "followers": 1,
     "forks": 20,
-    "stars": 133,
+    "stars": 135,
     "created_at": "2025-12-31",
     "description": "au\u3072\u304b\u308a\u3067HGW\u306e\u4ee3\u308f\u308a\u306b802.1x\u8a8d\u8a3c\u3092\u884c\u3044\u3001HGW\u3092\u4f7f\u7528\u305b\u305a\u306b\u63a5\u7d9a\u3057\u307e\u3059\u3002"
   },
@@ -463,7 +472,7 @@
     "url": "https://github.com/infinigence/FUSCO",
     "followers": 1,
     "forks": 7,
-    "stars": 83,
+    "stars": 84,
     "created_at": "2025-12-29",
     "description": "High-performance distributed data shuffling (all-to-all) library for MoE training and inference"
   },
@@ -495,6 +504,15 @@
     "description": "Kopia oficjalnego kodu ze strony rz\u0105dowej https://www.mobywatel.gov.pl/kod-zrodlowy-mobywatel-mobilny"
   },
   {
+    "name": "banteg/takopi",
+    "url": "https://github.com/banteg/takopi",
+    "followers": 1,
+    "forks": 7,
+    "stars": 61,
+    "created_at": "2025-12-29",
+    "description": "he just wants to help-pi!"
+  },
+  {
     "name": "ashfn/islechat",
     "url": "https://github.com/ashfn/islechat",
     "followers": 1,
@@ -502,15 +520,6 @@
     "stars": 61,
     "created_at": "2025-12-29",
     "description": "chat server powered by SSH"
-  },
-  {
-    "name": "banteg/takopi",
-    "url": "https://github.com/banteg/takopi",
-    "followers": 1,
-    "forks": 7,
-    "stars": 59,
-    "created_at": "2025-12-29",
-    "description": "he just wants to help-pi!"
   },
   {
     "name": "ircfspace/encodify",
@@ -544,25 +553,16 @@
     "url": "https://github.com/rohanprasadofficial/localflare",
     "followers": 0,
     "forks": 8,
-    "stars": 243,
+    "stars": 252,
     "created_at": "2025-12-28",
     "description": "local cloudflare"
-  },
-  {
-    "name": "datawhalechina/easy-vibe",
-    "url": "https://github.com/datawhalechina/easy-vibe",
-    "followers": 0,
-    "forks": 11,
-    "stars": 208,
-    "created_at": "2025-12-28",
-    "description": "\u9879\u76ee\u5236\u5b66\u4e60\u6559\u7a0b\uff0c\u5e2e\u52a9\u4f60\u4ece 0 \u5230 1 \u6784\u5efa AI \u539f\u751f\u5e94\u7528\u3002 "
   },
   {
     "name": "dabit3/openform",
     "url": "https://github.com/dabit3/openform",
     "followers": 0,
-    "forks": 49,
-    "stars": 204,
+    "forks": 50,
+    "stars": 210,
     "created_at": "2025-12-30",
     "description": "Open Source TypeForm Clone"
   },
@@ -607,7 +607,7 @@
     "url": "https://github.com/DOSAYGO-STUDIO/HackerBook",
     "followers": 0,
     "forks": 14,
-    "stars": 124,
+    "stars": 125,
     "created_at": "2025-12-29",
     "description": "Hacker Book - COMMUNITY, ALL THE HN ARE BELONG TO YOU. An unkillable, static offline archive of all of Hacker News."
   },
@@ -634,7 +634,7 @@
     "url": "https://github.com/nucufowidofi38/ai-apps",
     "followers": 0,
     "forks": 0,
-    "stars": 111,
+    "stars": 115,
     "created_at": "2025-12-31",
     "description": "Tired of wasting your time on shady tool? Try this:\u279c\u279c https://proreviews.short.gy/ud. Realistic and Accurate images and videos generation in seconds. Used by 100k users daily. \u279c\u279c https://proreviews.short.gy/ud"
   },
@@ -643,7 +643,7 @@
     "url": "https://github.com/shootthesound/comfyUI-LongLook",
     "followers": 0,
     "forks": 12,
-    "stars": 106,
+    "stars": 107,
     "created_at": "2025-12-27",
     "description": "A ComfyUI node pack that implements FreeLong (NeurIPS 2024) spectral blending for Wan 2.2 video generation"
   },
@@ -688,7 +688,7 @@
     "url": "https://github.com/hank9999/kiro.rs",
     "followers": 0,
     "forks": 17,
-    "stars": 91,
+    "stars": 92,
     "created_at": "2025-12-27",
     "description": "A Kiro Client in Rust"
   },
@@ -720,11 +720,20 @@
     "description": ""
   },
   {
+    "name": "llong8/a2a",
+    "url": "https://github.com/llong8/a2a",
+    "followers": 0,
+    "forks": 0,
+    "stars": 82,
+    "created_at": "2025-12-28",
+    "description": ""
+  },
+  {
     "name": "chunxiuxiamo/ai-image-edit",
     "url": "https://github.com/chunxiuxiamo/ai-image-edit",
     "followers": 0,
     "forks": 14,
-    "stars": 80,
+    "stars": 81,
     "created_at": "2025-12-28",
     "description": "AI\u56fe\u7247\u751f\u6210\u7f16\u8f91\u7f51\u7ad9\uff0c\u53ef\u4ee5\u6846\u9009\u56fe\u7247\u5c40\u90e8\u533a\u57df\u8fdb\u884c\u7f16\u8f91\u4fee\u6539\u3002"
   },
@@ -733,7 +742,7 @@
     "url": "https://github.com/Maciejonos/qbitwebui",
     "followers": 0,
     "forks": 3,
-    "stars": 80,
+    "stars": 81,
     "created_at": "2025-12-31",
     "description": "Modern frontend for qBittorrent"
   },
@@ -745,15 +754,6 @@
     "stars": 79,
     "created_at": "2025-12-29",
     "description": "S3-compatible storage in Zig. Zero dependencies."
-  },
-  {
-    "name": "llong8/a2a",
-    "url": "https://github.com/llong8/a2a",
-    "followers": 0,
-    "forks": 0,
-    "stars": 78,
-    "created_at": "2025-12-28",
-    "description": ""
   },
   {
     "name": "0xSero/open-queue",
@@ -781,6 +781,15 @@
     "stars": 75,
     "created_at": "2025-12-29",
     "description": "An Open Foundation Model and Benchmark to Accelerate Generative Recommendation"
+  },
+  {
+    "name": "yifanzhang-pro/deep-delta-learning",
+    "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
+    "followers": 0,
+    "forks": 6,
+    "stars": 75,
+    "created_at": "2026-01-01",
+    "description": "Official Project Page for \"Deep Delta Learning\""
   },
   {
     "name": "suiyuebaobao/go-proxy-pro",
@@ -817,15 +826,6 @@
     "stars": 70,
     "created_at": "2025-12-29",
     "description": "Run your own private tracker in less than 5min"
-  },
-  {
-    "name": "yifanzhang-pro/deep-delta-learning",
-    "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
-    "followers": 0,
-    "forks": 4,
-    "stars": 68,
-    "created_at": "2026-01-01",
-    "description": "Official Project Page for \"Deep Delta Learning\""
   },
   {
     "name": "R44VC0RP/OpenCode-Island",
@@ -868,9 +868,18 @@
     "url": "https://github.com/TeamWarp/effect-api-example",
     "followers": 0,
     "forks": 0,
-    "stars": 57,
+    "stars": 58,
     "created_at": "2025-12-30",
     "description": ""
+  },
+  {
+    "name": "joshhu/imagepdf2txt",
+    "url": "https://github.com/joshhu/imagepdf2txt",
+    "followers": 0,
+    "forks": 11,
+    "stars": 57,
+    "created_at": "2025-12-31",
+    "description": "\u4f7f\u7528 PaddleOCR \u5c07\u5716\u7247\u578b PDF \u6a94\u6848\u8f49\u63db\u6210\u7d14\u6587\u5b57"
   },
   {
     "name": "xenitV1/claude-code-maestro",
@@ -882,20 +891,11 @@
     "description": ""
   },
   {
-    "name": "joshhu/imagepdf2txt",
-    "url": "https://github.com/joshhu/imagepdf2txt",
-    "followers": 0,
-    "forks": 10,
-    "stars": 56,
-    "created_at": "2025-12-31",
-    "description": "\u4f7f\u7528 PaddleOCR \u5c07\u5716\u7247\u578b PDF \u6a94\u6848\u8f49\u63db\u6210\u7d14\u6587\u5b57"
-  },
-  {
     "name": "eztg/GPT_Sheerid_Auto",
     "url": "https://github.com/eztg/GPT_Sheerid_Auto",
     "followers": 0,
     "forks": 27,
-    "stars": 54,
+    "stars": 55,
     "created_at": "2025-12-30",
     "description": "\u81ea\u52a8\u9a8c\u8bc1\u5de5\u5177 - \u652f\u6301 TLS \u6307\u7eb9\u6a21\u62df\u3001\u4ee3\u7406\u8f6e\u6362\u3001\u90ae\u7bb1\u81ea\u52a8\u6536\u53d6\u9a8c\u8bc1\u7801"
   }
