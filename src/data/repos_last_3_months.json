@@ -3,8 +3,8 @@
     "name": "karpathy/nanochat",
     "url": "https://github.com/karpathy/nanochat",
     "followers": 274,
-    "forks": 5057,
-    "stars": 39626,
+    "forks": 5056,
+    "stars": 39628,
     "created_at": "2025-10-13",
     "description": "The best ChatGPT that $100 can buy."
   },
@@ -12,8 +12,8 @@
     "name": "karpathy/llm-council",
     "url": "https://github.com/karpathy/llm-council",
     "followers": 178,
-    "forks": 2416,
-    "stars": 12552,
+    "forks": 2417,
+    "stars": 12554,
     "created_at": "2025-11-22",
     "description": "LLM Council works together to answer your hardest questions"
   },
@@ -21,8 +21,8 @@
     "name": "ComposioHQ/awesome-claude-skills",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills",
     "followers": 140,
-    "forks": 1472,
-    "stars": 13966,
+    "forks": 1473,
+    "stars": 13969,
     "created_at": "2025-10-17",
     "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
   },
@@ -31,7 +31,7 @@
     "url": "https://github.com/obra/superpowers",
     "followers": 115,
     "forks": 1102,
-    "stars": 13378,
+    "stars": 13384,
     "created_at": "2025-10-09",
     "description": "Claude Code superpowers: core skills library"
   },
@@ -76,7 +76,7 @@
     "url": "https://github.com/zai-org/Open-AutoGLM",
     "followers": 96,
     "forks": 3281,
-    "stars": 20435,
+    "stars": 20436,
     "created_at": "2025-12-08",
     "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone"
   },
@@ -94,7 +94,7 @@
     "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
     "followers": 85,
     "forks": 1071,
-    "stars": 8062,
+    "stars": 8065,
     "created_at": "2025-10-30",
     "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents"
   },
@@ -103,7 +103,7 @@
     "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
     "followers": 83,
     "forks": 574,
-    "stars": 7005,
+    "stars": 7010,
     "created_at": "2025-11-10",
     "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model."
   },
@@ -138,7 +138,7 @@
     "name": "gommzystudio/device-activity-tracker",
     "url": "https://github.com/gommzystudio/device-activity-tracker",
     "followers": 54,
-    "forks": 563,
+    "forks": 564,
     "stars": 4192,
     "created_at": "2025-12-07",
     "description": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)"
@@ -147,8 +147,8 @@
     "name": "francescopace/espectre",
     "url": "https://github.com/francescopace/espectre",
     "followers": 53,
-    "forks": 370,
-    "stars": 5104,
+    "forks": 371,
+    "stars": 5108,
     "created_at": "2025-10-26",
     "description": "\ud83d\udedc ESPectre \ud83d\udc7b  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration."
   },
@@ -156,8 +156,8 @@
     "name": "AndyMik90/Auto-Claude",
     "url": "https://github.com/AndyMik90/Auto-Claude",
     "followers": 49,
-    "forks": 740,
-    "stars": 5049,
+    "forks": 741,
+    "stars": 5056,
     "created_at": "2025-12-04",
     "description": "Autonomous multi-session AI coding"
   },
@@ -166,7 +166,7 @@
     "url": "https://github.com/EveryInc/compound-engineering-plugin",
     "followers": 48,
     "forks": 283,
-    "stars": 3366,
+    "stars": 3368,
     "created_at": "2025-10-09",
     "description": "Official Claude Code compound engineering plugin"
   },
@@ -184,7 +184,7 @@
     "url": "https://github.com/travisvn/awesome-claude-skills",
     "followers": 42,
     "forks": 256,
-    "stars": 3997,
+    "stars": 3998,
     "created_at": "2025-10-16",
     "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows \u2014 particularly Claude Code"
   },
@@ -201,8 +201,8 @@
     "name": "google/mcp",
     "url": "https://github.com/google/mcp",
     "followers": 42,
-    "forks": 288,
-    "stars": 2807,
+    "forks": 289,
+    "stars": 2808,
     "created_at": "2025-12-05",
     "description": "Google \ud83d\udc9a MCP"
   },
@@ -210,8 +210,8 @@
     "name": "steveyegge/beads",
     "url": "https://github.com/steveyegge/beads",
     "followers": 40,
-    "forks": 462,
-    "stars": 7628,
+    "forks": 463,
+    "stars": 7629,
     "created_at": "2025-10-12",
     "description": "Beads - A memory upgrade for your coding agent"
   },
@@ -219,8 +219,8 @@
     "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "followers": 39,
-    "forks": 412,
-    "stars": 5242,
+    "forks": 413,
+    "stars": 5248,
     "created_at": "2025-12-21",
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
   },
@@ -243,6 +243,15 @@
     "description": "\ud83c\udf4c 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library"
   },
   {
+    "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "followers": 38,
+    "forks": 604,
+    "stars": 4667,
+    "created_at": "2025-11-30",
+    "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
+  },
+  {
     "name": "IAmTomShaw/f1-race-replay",
     "url": "https://github.com/IAmTomShaw/f1-race-replay",
     "followers": 38,
@@ -256,25 +265,16 @@
     "url": "https://github.com/ByteDance-Seed/Depth-Anything-3",
     "followers": 37,
     "forks": 329,
-    "stars": 3788,
+    "stars": 3789,
     "created_at": "2025-11-12",
     "description": "Depth Anything 3"
-  },
-  {
-    "name": "nextlevelbuilder/ui-ux-pro-max-skill",
-    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "followers": 36,
-    "forks": 599,
-    "stars": 4621,
-    "created_at": "2025-11-30",
-    "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
   },
   {
     "name": "virattt/dexter",
     "url": "https://github.com/virattt/dexter",
     "followers": 35,
     "forks": 597,
-    "stars": 4472,
+    "stars": 4473,
     "created_at": "2025-10-14",
     "description": "An autonomous agent for deep financial research"
   },
@@ -292,7 +292,7 @@
     "url": "https://github.com/MattParkerDev/SharpIDE",
     "followers": 34,
     "forks": 84,
-    "stars": 3162,
+    "stars": 3163,
     "created_at": "2025-11-08",
     "description": "A modern, cross platform IDE for .NET, built with .NET & Godot"
   },
@@ -319,7 +319,7 @@
     "url": "https://github.com/BehiSecc/awesome-claude-skills",
     "followers": 32,
     "forks": 251,
-    "stars": 3474,
+    "stars": 3477,
     "created_at": "2025-10-17",
     "description": "A curated list of Claude Skills."
   },
@@ -328,7 +328,7 @@
     "url": "https://github.com/apple/ml-sharp",
     "followers": 31,
     "forks": 400,
-    "stars": 6339,
+    "stars": 6341,
     "created_at": "2025-12-12",
     "description": "Sharp Monocular View Synthesis in Less Than a Second"
   },
@@ -346,7 +346,7 @@
     "url": "https://github.com/VibiumDev/vibium",
     "followers": 31,
     "forks": 99,
-    "stars": 2080,
+    "stars": 2082,
     "created_at": "2025-12-12",
     "description": "Browser automation for AI agents and humans"
   },
@@ -354,8 +354,8 @@
     "name": "code-yeongyu/oh-my-opencode",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
     "followers": 30,
-    "forks": 353,
-    "stars": 4835,
+    "forks": 355,
+    "stars": 4845,
     "created_at": "2025-12-03",
     "description": "#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) \u00b7 Curated agents with proper models \u00b7 Crafted tools like LSP/AST included \u00b7 Curated MCPs \u00b7 Claude Code Compatible Layer \u2014 Steroids for your OpenCode. The Best LLM Agent Experience is Here."
   },
@@ -364,7 +364,7 @@
     "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
     "followers": 30,
     "forks": 387,
-    "stars": 2506,
+    "stars": 2508,
     "created_at": "2025-11-18",
     "description": "All parts of Claude Code's system prompt, 20 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version."
   },
@@ -376,6 +376,15 @@
     "stars": 4908,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
+  },
+  {
+    "name": "lbjlaq/Antigravity-Manager",
+    "url": "https://github.com/lbjlaq/Antigravity-Manager",
+    "followers": 28,
+    "forks": 833,
+    "stars": 6686,
+    "created_at": "2025-11-26",
+    "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).\u4e13\u4e1a\u7684 Antigravity \u8d26\u53f7\u7ba1\u7406\u4e0e\u5207\u6362\u5de5\u5177\u3002\u4e3a Antigravity \u63d0\u4f9b\u4e00\u952e\u65e0\u7f1d\u8d26\u53f7\u5207\u6362\u529f\u80fd\u3002"
   },
   {
     "name": "microsoft/fara",
@@ -414,15 +423,6 @@
     "description": "Lightning-Fast, On-Device TTS \u2014 running natively via ONNX."
   },
   {
-    "name": "lbjlaq/Antigravity-Manager",
-    "url": "https://github.com/lbjlaq/Antigravity-Manager",
-    "followers": 27,
-    "forks": 831,
-    "stars": 6676,
-    "created_at": "2025-11-26",
-    "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).\u4e13\u4e1a\u7684 Antigravity \u8d26\u53f7\u7ba1\u7406\u4e0e\u5207\u6362\u5de5\u5177\u3002\u4e3a Antigravity \u63d0\u4f9b\u4e00\u952e\u65e0\u7f1d\u8d26\u53f7\u5207\u6362\u529f\u80fd\u3002"
-  },
-  {
     "name": "facebookresearch/omnilingual-asr",
     "url": "https://github.com/facebookresearch/omnilingual-asr",
     "followers": 27,
@@ -436,7 +436,7 @@
     "url": "https://github.com/MoonshotAI/kimi-cli",
     "followers": 26,
     "forks": 375,
-    "stars": 3735,
+    "stars": 3736,
     "created_at": "2025-10-15",
     "description": "Kimi CLI is your next CLI agent."
   },
@@ -445,9 +445,18 @@
     "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
     "followers": 26,
     "forks": 319,
-    "stars": 2783,
+    "stars": 2785,
     "created_at": "2025-10-19",
     "description": "A set of ready to use scientific skills for Claude"
+  },
+  {
+    "name": "alam00000/bentopdf",
+    "url": "https://github.com/alam00000/bentopdf",
+    "followers": 25,
+    "forks": 661,
+    "stars": 9170,
+    "created_at": "2025-10-12",
+    "description": "A Privacy First PDF Toolkit"
   },
   {
     "name": "HKUDS/Paper2Slides",
@@ -459,20 +468,11 @@
     "description": "\"Paper2Slides: From Paper to Presentation in One Click\""
   },
   {
-    "name": "alam00000/bentopdf",
-    "url": "https://github.com/alam00000/bentopdf",
-    "followers": 24,
-    "forks": 659,
-    "stars": 9169,
-    "created_at": "2025-10-12",
-    "description": "A Privacy First PDF Toolkit"
-  },
-  {
     "name": "yusufkaraaslan/Skill_Seekers",
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
     "followers": 24,
     "forks": 611,
-    "stars": 5919,
+    "stars": 5921,
     "created_at": "2025-10-17",
     "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection"
   },
@@ -481,7 +481,7 @@
     "url": "https://github.com/numman-ali/openskills",
     "followers": 24,
     "forks": 279,
-    "stars": 3798,
+    "stars": 3799,
     "created_at": "2025-10-26",
     "description": "Universal skills loader for AI coding agents - npm i -g openskills"
   },
@@ -490,7 +490,7 @@
     "url": "https://github.com/microsoft/TRELLIS.2",
     "followers": 24,
     "forks": 206,
-    "stars": 2661,
+    "stars": 2662,
     "created_at": "2025-11-26",
     "description": "Native and Compact Structured Latents for 3D Generation"
   },
@@ -508,7 +508,7 @@
     "url": "https://github.com/tonyantony300/alt-sendme",
     "followers": 21,
     "forks": 243,
-    "stars": 4670,
+    "stars": 4669,
     "created_at": "2025-10-17",
     "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions."
   },
@@ -517,7 +517,7 @@
     "url": "https://github.com/pranshuparmar/witr",
     "followers": 20,
     "forks": 190,
-    "stars": 9214,
+    "stars": 9230,
     "created_at": "2025-12-20",
     "description": "Why is this running?"
   },
@@ -535,7 +535,7 @@
     "url": "https://github.com/2025Emma/vibe-coding-cn",
     "followers": 19,
     "forks": 543,
-    "stars": 4693,
+    "stars": 4694,
     "created_at": "2025-12-17",
     "description": ""
   },
@@ -562,7 +562,7 @@
     "url": "https://github.com/pshenok/server-survival",
     "followers": 17,
     "forks": 452,
-    "stars": 3888,
+    "stars": 3889,
     "created_at": "2025-11-21",
     "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling."
   },
@@ -661,7 +661,7 @@
     "url": "https://github.com/siddharthvaddem/openscreen",
     "followers": 13,
     "forks": 296,
-    "stars": 4902,
+    "stars": 4903,
     "created_at": "2025-10-10",
     "description": "Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. "
   },
@@ -715,7 +715,7 @@
     "url": "https://github.com/mixedbread-ai/mgrep",
     "followers": 11,
     "forks": 109,
-    "stars": 2470,
+    "stars": 2471,
     "created_at": "2025-11-06",
     "description": "A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more."
   },
@@ -724,7 +724,7 @@
     "url": "https://github.com/VoltAgent/awesome-claude-skills",
     "followers": 11,
     "forks": 131,
-    "stars": 1926,
+    "stars": 1933,
     "created_at": "2025-10-28",
     "description": "The awesome collection of Claude Skills and resources."
   },
@@ -733,7 +733,7 @@
     "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
     "followers": 10,
     "forks": 106,
-    "stars": 2551,
+    "stars": 2556,
     "created_at": "2025-11-20",
     "description": "HunyuanVideo-1.5: A leading lightweight video generation model"
   },
@@ -741,8 +741,8 @@
     "name": "AnmolSaini16/mapcn",
     "url": "https://github.com/AnmolSaini16/mapcn",
     "followers": 10,
-    "forks": 116,
-    "stars": 2425,
+    "forks": 119,
+    "stars": 2465,
     "created_at": "2025-12-28",
     "description": "Beautiful map components. 100% Free, Zero config, one command setup."
   },
@@ -760,7 +760,7 @@
     "url": "https://github.com/aidenybai/react-grab",
     "followers": 9,
     "forks": 184,
-    "stars": 4047,
+    "stars": 4048,
     "created_at": "2025-10-17",
     "description": "Select context for coding agents directly from your website"
   },
@@ -769,7 +769,7 @@
     "url": "https://github.com/productdevbook/port-killer",
     "followers": 9,
     "forks": 84,
-    "stars": 2787,
+    "stars": 2788,
     "created_at": "2025-12-16",
     "description": "A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click."
   },
@@ -787,7 +787,7 @@
     "url": "https://github.com/rainxchzed/Github-Store",
     "followers": 9,
     "forks": 66,
-    "stars": 2604,
+    "stars": 2609,
     "created_at": "2025-11-21",
     "description": "A free, open-source app store for GitHub releases \u2014 browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop."
   },
@@ -832,7 +832,7 @@
     "url": "https://github.com/mistralai/mistral-vibe",
     "followers": 8,
     "forks": 208,
-    "stars": 2450,
+    "stars": 2451,
     "created_at": "2025-12-08",
     "description": "Minimal CLI coding agent by Mistral"
   },
@@ -841,7 +841,7 @@
     "url": "https://github.com/SawyerHood/dev-browser",
     "followers": 8,
     "forks": 130,
-    "stars": 2116,
+    "stars": 2117,
     "created_at": "2025-12-02",
     "description": "A Claude Skill to give your agent the ability to use a web browser"
   },
@@ -868,7 +868,7 @@
     "url": "https://github.com/TanStack/ai",
     "followers": 7,
     "forks": 92,
-    "stars": 2081,
+    "stars": 2082,
     "created_at": "2025-10-08",
     "description": "\ud83e\udd16 SDK that enhances your applications with AI capabilities"
   },
@@ -877,7 +877,7 @@
     "url": "https://github.com/donlon/cloudflare-error-page",
     "followers": 5,
     "forks": 243,
-    "stars": 4860,
+    "stars": 4861,
     "created_at": "2025-11-19",
     "description": "Cloudflare error page generator"
   },
@@ -895,7 +895,7 @@
     "url": "https://github.com/unhappychoice/gitlogue",
     "followers": 3,
     "forks": 86,
-    "stars": 3853,
+    "stars": 3852,
     "created_at": "2025-11-08",
     "description": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story."
   }
