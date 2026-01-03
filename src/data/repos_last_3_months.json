@@ -11,9 +11,9 @@
   {
     "name": "karpathy/llm-council",
     "url": "https://github.com/karpathy/llm-council",
-    "followers": 179,
-    "forks": 2434,
-    "stars": 12600,
+    "followers": 180,
+    "forks": 2435,
+    "stars": 12601,
     "created_at": "2025-11-22",
     "description": "LLM Council works together to answer your hardest questions"
   },
@@ -22,7 +22,7 @@
     "url": "https://github.com/ComposioHQ/awesome-claude-skills",
     "followers": 141,
     "forks": 1497,
-    "stars": 14171,
+    "stars": 14176,
     "created_at": "2025-10-17",
     "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
   },
@@ -30,8 +30,8 @@
     "name": "obra/superpowers",
     "url": "https://github.com/obra/superpowers",
     "followers": 117,
-    "forks": 1114,
-    "stars": 13508,
+    "forks": 1115,
+    "stars": 13513,
     "created_at": "2025-10-09",
     "description": "Claude Code superpowers: core skills library"
   },
@@ -40,7 +40,7 @@
     "url": "https://github.com/HKUDS/AI-Trader",
     "followers": 110,
     "forks": 1717,
-    "stars": 10526,
+    "stars": 10525,
     "created_at": "2025-10-23",
     "description": "\"AI-Trader: Can AI Beat the Market?\"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971"
   },
@@ -49,7 +49,7 @@
     "url": "https://github.com/Tongyi-MAI/Z-Image",
     "followers": 103,
     "forks": 496,
-    "stars": 8445,
+    "stars": 8446,
     "created_at": "2025-11-26",
     "description": ""
   },
@@ -57,8 +57,8 @@
     "name": "SamsungSAILMontreal/TinyRecursiveModels",
     "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
     "followers": 101,
-    "forks": 941,
-    "stars": 6148,
+    "forks": 942,
+    "stars": 6149,
     "created_at": "2025-10-07",
     "description": ""
   },
@@ -76,7 +76,7 @@
     "url": "https://github.com/zai-org/Open-AutoGLM",
     "followers": 97,
     "forks": 3294,
-    "stars": 20536,
+    "stars": 20537,
     "created_at": "2025-12-08",
     "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone"
   },
@@ -85,7 +85,7 @@
     "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
     "followers": 95,
     "forks": 1952,
-    "stars": 21723,
+    "stars": 21722,
     "created_at": "2025-10-17",
     "description": "Contexts Optical Compression"
   },
@@ -93,8 +93,8 @@
     "name": "ZeroLu/awesome-nanobanana-pro",
     "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
     "followers": 87,
-    "forks": 603,
-    "stars": 7230,
+    "forks": 605,
+    "stars": 7238,
     "created_at": "2025-11-10",
     "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model."
   },
@@ -103,7 +103,7 @@
     "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
     "followers": 84,
     "forks": 1073,
-    "stars": 8080,
+    "stars": 8081,
     "created_at": "2025-10-30",
     "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents"
   },
@@ -130,7 +130,7 @@
     "url": "https://github.com/agentskills/agentskills",
     "followers": 59,
     "forks": 209,
-    "stars": 4252,
+    "stars": 4253,
     "created_at": "2025-12-16",
     "description": "Specification and documentation for Agent Skills"
   },
@@ -138,8 +138,8 @@
     "name": "francescopace/espectre",
     "url": "https://github.com/francescopace/espectre",
     "followers": 54,
-    "forks": 377,
-    "stars": 5205,
+    "forks": 378,
+    "stars": 5211,
     "created_at": "2025-10-26",
     "description": "\ud83d\udedc ESPectre \ud83d\udc7b  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration."
   },
@@ -157,7 +157,7 @@
     "url": "https://github.com/EveryInc/compound-engineering-plugin",
     "followers": 52,
     "forks": 299,
-    "stars": 3617,
+    "stars": 3621,
     "created_at": "2025-10-09",
     "description": "Official Claude Code compound engineering plugin"
   },
@@ -166,7 +166,7 @@
     "url": "https://github.com/AndyMik90/Auto-Claude",
     "followers": 49,
     "forks": 777,
-    "stars": 5235,
+    "stars": 5251,
     "created_at": "2025-12-04",
     "description": "Autonomous multi-session AI coding"
   },
@@ -182,18 +182,27 @@
   {
     "name": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "followers": 42,
+    "followers": 43,
     "forks": 683,
     "stars": 5625,
     "created_at": "2025-11-30",
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
   },
   {
+    "name": "steveyegge/beads",
+    "url": "https://github.com/steveyegge/beads",
+    "followers": 42,
+    "forks": 474,
+    "stars": 7837,
+    "created_at": "2025-10-12",
+    "description": "Beads - A memory upgrade for your coding agent"
+  },
+  {
     "name": "travisvn/awesome-claude-skills",
     "url": "https://github.com/travisvn/awesome-claude-skills",
     "followers": 42,
     "forks": 259,
-    "stars": 4046,
+    "stars": 4047,
     "created_at": "2025-10-16",
     "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows \u2014 particularly Claude Code"
   },
@@ -205,15 +214,6 @@
     "stars": 2817,
     "created_at": "2025-12-05",
     "description": "Google \ud83d\udc9a MCP"
-  },
-  {
-    "name": "steveyegge/beads",
-    "url": "https://github.com/steveyegge/beads",
-    "followers": 41,
-    "forks": 473,
-    "stars": 7826,
-    "created_at": "2025-10-12",
-    "description": "Beads - A memory upgrade for your coding agent"
   },
   {
     "name": "straight-tamago/misaka26",
@@ -229,7 +229,7 @@
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "followers": 40,
     "forks": 423,
-    "stars": 5372,
+    "stars": 5378,
     "created_at": "2025-12-21",
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
   },
@@ -256,7 +256,7 @@
     "url": "https://github.com/IAmTomShaw/f1-race-replay",
     "followers": 38,
     "forks": 490,
-    "stars": 3820,
+    "stars": 3821,
     "created_at": "2025-11-21",
     "description": "An interactive Formula 1 race visualisation and data analysis tool built with Python! \ud83c\udfce\ufe0f"
   },
@@ -272,18 +272,18 @@
   {
     "name": "virattt/dexter",
     "url": "https://github.com/virattt/dexter",
-    "followers": 35,
-    "forks": 601,
-    "stars": 4480,
+    "followers": 36,
+    "forks": 603,
+    "stars": 4495,
     "created_at": "2025-10-14",
     "description": "An autonomous agent for deep financial research"
   },
   {
     "name": "code-yeongyu/oh-my-opencode",
     "url": "https://github.com/code-yeongyu/oh-my-opencode",
-    "followers": 34,
-    "forks": 393,
-    "stars": 5491,
+    "followers": 35,
+    "forks": 395,
+    "stars": 5518,
     "created_at": "2025-12-03",
     "description": "#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) \u00b7 Curated agents with proper models \u00b7 Crafted tools like LSP/AST included \u00b7 Curated MCPs \u00b7 Claude Code Compatible Layer \u2014 Steroids for your OpenCode. The Best LLM Agent Experience is Here."
   },
@@ -292,7 +292,7 @@
     "url": "https://github.com/datalab-to/chandra",
     "followers": 34,
     "forks": 466,
-    "stars": 4179,
+    "stars": 4182,
     "created_at": "2025-10-08",
     "description": "OCR model that handles complex tables, forms, handwriting with full layout."
   },
@@ -337,7 +337,7 @@
     "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
     "followers": 32,
     "forks": 394,
-    "stars": 2541,
+    "stars": 2542,
     "created_at": "2025-11-18",
     "description": "All parts of Claude Code's system prompt, 20 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version."
   },
@@ -346,7 +346,7 @@
     "url": "https://github.com/apple/ml-sharp",
     "followers": 31,
     "forks": 410,
-    "stars": 6396,
+    "stars": 6399,
     "created_at": "2025-12-12",
     "description": "Sharp Monocular View Synthesis in Less Than a Second"
   },
@@ -364,7 +364,7 @@
     "url": "https://github.com/VibiumDev/vibium",
     "followers": 31,
     "forks": 102,
-    "stars": 2105,
+    "stars": 2108,
     "created_at": "2025-12-12",
     "description": "Browser automation for AI agents and humans"
   },
@@ -373,7 +373,7 @@
     "url": "https://github.com/lbjlaq/Antigravity-Manager",
     "followers": 30,
     "forks": 875,
-    "stars": 7141,
+    "stars": 7151,
     "created_at": "2025-11-26",
     "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).\u4e13\u4e1a\u7684 Antigravity \u8d26\u53f7\u7ba1\u7406\u4e0e\u5207\u6362\u5de5\u5177\u3002\u4e3a Antigravity \u63d0\u4f9b\u4e00\u952e\u65e0\u7f1d\u8d26\u53f7\u5207\u6362\u529f\u80fd\u3002"
   },
@@ -391,7 +391,7 @@
     "url": "https://github.com/bellard/mquickjs",
     "followers": 28,
     "forks": 174,
-    "stars": 4930,
+    "stars": 4931,
     "created_at": "2025-12-22",
     "description": "Public repository of the Micro QuickJS Javascript Engine"
   },
@@ -403,6 +403,15 @@
     "stars": 3403,
     "created_at": "2025-10-29",
     "description": "Fara-7B: An Efficient Agentic Model for Computer Use"
+  },
+  {
+    "name": "K-Dense-AI/claude-scientific-skills",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "followers": 28,
+    "forks": 331,
+    "stars": 2961,
+    "created_at": "2025-10-19",
+    "description": "A set of ready to use scientific skills for Claude"
   },
   {
     "name": "cporter202/API-mega-list",
@@ -417,26 +426,17 @@
     "name": "cporter202/scraping-apis-for-devs",
     "url": "https://github.com/cporter202/scraping-apis-for-devs",
     "followers": 28,
-    "forks": 366,
-    "stars": 2034,
+    "forks": 368,
+    "stars": 2040,
     "created_at": "2025-12-10",
     "description": "This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. "
-  },
-  {
-    "name": "K-Dense-AI/claude-scientific-skills",
-    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
-    "followers": 27,
-    "forks": 331,
-    "stars": 2955,
-    "created_at": "2025-10-19",
-    "description": "A set of ready to use scientific skills for Claude"
   },
   {
     "name": "facebookresearch/omnilingual-asr",
     "url": "https://github.com/facebookresearch/omnilingual-asr",
     "followers": 27,
     "forks": 215,
-    "stars": 2546,
+    "stars": 2547,
     "created_at": "2025-11-06",
     "description": "Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages"
   },
@@ -481,7 +481,7 @@
     "url": "https://github.com/numman-ali/openskills",
     "followers": 24,
     "forks": 284,
-    "stars": 3840,
+    "stars": 3841,
     "created_at": "2025-10-26",
     "description": "Universal skills loader for AI coding agents - npm i -g openskills"
   },
@@ -490,7 +490,7 @@
     "url": "https://github.com/microsoft/TRELLIS.2",
     "followers": 24,
     "forks": 211,
-    "stars": 2686,
+    "stars": 2687,
     "created_at": "2025-11-26",
     "description": "Native and Compact Structured Latents for 3D Generation"
   },
@@ -517,7 +517,7 @@
     "url": "https://github.com/pranshuparmar/witr",
     "followers": 20,
     "forks": 194,
-    "stars": 9525,
+    "stars": 9530,
     "created_at": "2025-12-20",
     "description": "Why is this running?"
   },
@@ -544,27 +544,36 @@
     "url": "https://github.com/Facepunch/sbox-public",
     "followers": 19,
     "forks": 224,
-    "stars": 3498,
+    "stars": 3499,
     "created_at": "2025-11-24",
     "description": "s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games"
+  },
+  {
+    "name": "pshenok/server-survival",
+    "url": "https://github.com/pshenok/server-survival",
+    "followers": 18,
+    "forks": 455,
+    "stars": 3901,
+    "created_at": "2025-11-21",
+    "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling."
+  },
+  {
+    "name": "pguso/ai-agents-from-scratch",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "followers": 18,
+    "forks": 325,
+    "stars": 2451,
+    "created_at": "2025-10-23",
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns."
   },
   {
     "name": "fathulfahmy/aio-usb-drive",
     "url": "https://github.com/fathulfahmy/aio-usb-drive",
     "followers": 18,
     "forks": 129,
-    "stars": 2352,
+    "stars": 2353,
     "created_at": "2025-10-06",
     "description": "Curated collection of useful to have programs on a multiboot USB drive"
-  },
-  {
-    "name": "pshenok/server-survival",
-    "url": "https://github.com/pshenok/server-survival",
-    "followers": 17,
-    "forks": 455,
-    "stars": 3900,
-    "created_at": "2025-11-21",
-    "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling."
   },
   {
     "name": "borndotcom/react-native-godot",
@@ -574,15 +583,6 @@
     "stars": 2497,
     "created_at": "2025-11-01",
     "description": "React Native Godot - Embed Godot Engine in React Native apps"
-  },
-  {
-    "name": "pguso/ai-agents-from-scratch",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "followers": 17,
-    "forks": 325,
-    "stars": 2451,
-    "created_at": "2025-10-23",
-    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns."
   },
   {
     "name": "karpathy/reader3",
@@ -697,7 +697,7 @@
     "url": "https://github.com/AnmolSaini16/mapcn",
     "followers": 12,
     "forks": 142,
-    "stars": 2923,
+    "stars": 2933,
     "created_at": "2025-12-28",
     "description": "Beautiful map components. 100% Free, Zero config, one command setup."
   },
@@ -724,7 +724,7 @@
     "url": "https://github.com/mixedbread-ai/mgrep",
     "followers": 11,
     "forks": 110,
-    "stars": 2478,
+    "stars": 2479,
     "created_at": "2025-11-06",
     "description": "A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more."
   },
@@ -732,8 +732,8 @@
     "name": "VoltAgent/awesome-claude-skills",
     "url": "https://github.com/VoltAgent/awesome-claude-skills",
     "followers": 11,
-    "forks": 138,
-    "stars": 2005,
+    "forks": 139,
+    "stars": 2006,
     "created_at": "2025-10-28",
     "description": "The awesome collection of Claude Skills and resources."
   },
@@ -741,8 +741,8 @@
     "name": "rainxchzed/Github-Store",
     "url": "https://github.com/rainxchzed/Github-Store",
     "followers": 10,
-    "forks": 72,
-    "stars": 2818,
+    "forks": 73,
+    "stars": 2823,
     "created_at": "2025-11-21",
     "description": "A free, open-source app store for GitHub releases \u2014 browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop."
   },
@@ -751,7 +751,7 @@
     "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
     "followers": 10,
     "forks": 106,
-    "stars": 2605,
+    "stars": 2607,
     "created_at": "2025-11-20",
     "description": "HunyuanVideo-1.5: A leading lightweight video generation model"
   },
@@ -778,7 +778,7 @@
     "url": "https://github.com/aidenybai/react-grab",
     "followers": 9,
     "forks": 186,
-    "stars": 4064,
+    "stars": 4065,
     "created_at": "2025-10-17",
     "description": "Select context for coding agents directly from your website"
   },
@@ -823,7 +823,7 @@
     "url": "https://github.com/RohanAdwankar/oxdraw",
     "followers": 9,
     "forks": 72,
-    "stars": 2146,
+    "stars": 2147,
     "created_at": "2025-10-07",
     "description": "Diagram as Code Tool Written in Rust with Draggable Editing"
   },
@@ -832,7 +832,7 @@
     "url": "https://github.com/breaking-brake/cc-wf-studio",
     "followers": 9,
     "forks": 224,
-    "stars": 1965,
+    "stars": 1967,
     "created_at": "2025-11-01",
     "description": "ClaudeCode Workflow Studio"
   },
@@ -840,8 +840,8 @@
     "name": "Maxteabag/sqlit",
     "url": "https://github.com/Maxteabag/sqlit",
     "followers": 8,
-    "forks": 56,
-    "stars": 2587,
+    "forks": 57,
+    "stars": 2588,
     "created_at": "2025-12-13",
     "description": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more."
   },
@@ -850,7 +850,7 @@
     "url": "https://github.com/SawyerHood/dev-browser",
     "followers": 8,
     "forks": 136,
-    "stars": 2166,
+    "stars": 2172,
     "created_at": "2025-12-02",
     "description": "A Claude Skill to give your agent the ability to use a web browser"
   },
@@ -868,7 +868,7 @@
     "url": "https://github.com/TanStack/ai",
     "followers": 6,
     "forks": 94,
-    "stars": 2093,
+    "stars": 2094,
     "created_at": "2025-10-08",
     "description": "\ud83e\udd16 SDK that enhances your applications with AI capabilities"
   },
