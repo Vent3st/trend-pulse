@@ -13,7 +13,7 @@
     "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
     "followers": 13,
     "forks": 80,
-    "stars": 1319,
+    "stars": 1332,
     "created_at": "2025-12-29",
     "description": "HY-Motion model for 3D character animation generation. "
   },
@@ -22,7 +22,7 @@
     "url": "https://github.com/JigSawFr/lacale-prowlarr-indexer",
     "followers": 10,
     "forks": 7,
-    "stars": 101,
+    "stars": 102,
     "created_at": "2025-12-29",
     "description": "La-Cale Prowlarr API Indexer"
   },
@@ -30,8 +30,8 @@
     "name": "felix068/LinuxGate",
     "url": "https://github.com/felix068/LinuxGate",
     "followers": 9,
-    "forks": 10,
-    "stars": 241,
+    "forks": 11,
+    "stars": 242,
     "created_at": "2025-12-31",
     "description": "A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongside Windows."
   },
@@ -40,7 +40,7 @@
     "url": "https://github.com/IQuestLab/IQuest-Coder-V1",
     "followers": 6,
     "forks": 50,
-    "stars": 877,
+    "stars": 900,
     "created_at": "2025-12-31",
     "description": ""
   },
@@ -49,7 +49,7 @@
     "url": "https://github.com/CloudAI-X/claude-workflow-v2",
     "followers": 6,
     "forks": 134,
-    "stars": 862,
+    "stars": 872,
     "created_at": "2026-01-01",
     "description": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands"
   },
@@ -58,7 +58,7 @@
     "url": "https://github.com/heilcheng/awesome-agent-skills",
     "followers": 6,
     "forks": 58,
-    "stars": 834,
+    "stars": 835,
     "created_at": "2025-12-29",
     "description": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)"
   },
@@ -67,7 +67,7 @@
     "url": "https://github.com/op7418/guizang-s-prompt",
     "followers": 6,
     "forks": 62,
-    "stars": 623,
+    "stars": 624,
     "created_at": "2025-12-29",
     "description": "\u8fd9\u91cc\u662f\u6b78\u85cf\u7684\u63d0\u793a\u8bcd\u50a8\u5b58\u5e93\uff0c\u5b58\u653e\u7740\u6b78\u85cf\u64b0\u5199\u7684\u6240\u6709 AI \u6a21\u578b\u63d0\u793a\u8bcd\uff08This is Guizang's prompt repository, containing all AI model prompts written by Guizang.\uff09"
   },
@@ -76,7 +76,7 @@
     "url": "https://github.com/GMaN1911/claude-cognitive",
     "followers": 6,
     "forks": 19,
-    "stars": 282,
+    "stars": 285,
     "created_at": "2025-12-30",
     "description": "Working memory for Claude Code - persistent context and multi-instance coordination"
   },
@@ -85,7 +85,7 @@
     "url": "https://github.com/kamranahmedse/claude-run",
     "followers": 6,
     "forks": 30,
-    "stars": 264,
+    "stars": 267,
     "created_at": "2025-12-31",
     "description": "A beautiful web UI for browsing Claude Code conversation history."
   },
@@ -94,25 +94,16 @@
     "url": "https://github.com/FlagOpen/Robo-Dopamine",
     "followers": 6,
     "forks": 0,
-    "stars": 71,
+    "stars": 72,
     "created_at": "2025-12-29",
     "description": "Official implementation of \"Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation\""
-  },
-  {
-    "name": "VoidmatrixHeathcliff/VoidNovelEngine",
-    "url": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine",
-    "followers": 5,
-    "forks": 47,
-    "stars": 507,
-    "created_at": "2025-12-31",
-    "description": "A free, modern engine for visual novels | \u81ea\u7531\uff0c\u73b0\u4ee3\u5316\u7684\u89c6\u89c9\u5c0f\u8bf4\u5f15\u64ce"
   },
   {
     "name": "Dimillian/Skills",
     "url": "https://github.com/Dimillian/Skills",
     "followers": 5,
-    "forks": 14,
-    "stars": 375,
+    "forks": 15,
+    "stars": 379,
     "created_at": "2025-12-30",
     "description": "My Codex Skills"
   },
@@ -121,25 +112,43 @@
     "url": "https://github.com/humanplane/cross-market-state-fusion",
     "followers": 5,
     "forks": 89,
-    "stars": 285,
+    "stars": 286,
     "created_at": "2025-12-29",
     "description": "RL agent fusing real-time Binance futures data into Polymarket prediction markets. On-device training with MLX on Apple Silicon."
+  },
+  {
+    "name": "ysharma3501/LinaCodec",
+    "url": "https://github.com/ysharma3501/LinaCodec",
+    "followers": 5,
+    "forks": 14,
+    "stars": 134,
+    "created_at": "2026-01-02",
+    "description": "A highly compressive and high-quality neural audio codec for speech models."
   },
   {
     "name": "senyo888/Humidity-Intelligence",
     "url": "https://github.com/senyo888/Humidity-Intelligence",
     "followers": 5,
     "forks": 0,
-    "stars": 90,
+    "stars": 93,
     "created_at": "2026-01-03",
     "description": "Smart humidity intelligence for Home Assistant \u2013 badges, comfort band and 24-hour multi-room chart."
+  },
+  {
+    "name": "VoidmatrixHeathcliff/VoidNovelEngine",
+    "url": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine",
+    "followers": 4,
+    "forks": 47,
+    "stars": 515,
+    "created_at": "2025-12-31",
+    "description": "A free, modern engine for visual novels | \u81ea\u7531\uff0c\u73b0\u4ee3\u5316\u7684\u89c6\u89c9\u5c0f\u8bf4\u5f15\u64ce"
   },
   {
     "name": "itshover/itshover",
     "url": "https://github.com/itshover/itshover",
     "followers": 4,
-    "forks": 28,
-    "stars": 480,
+    "forks": 30,
+    "stars": 493,
     "created_at": "2025-12-29",
     "description": "Icons that move with intent"
   },
@@ -157,25 +166,16 @@
     "url": "https://github.com/zs1083339604/FaceWinUnlock-Tauri",
     "followers": 4,
     "forks": 4,
-    "stars": 150,
+    "stars": 155,
     "created_at": "2026-01-02",
     "description": "\u4e00\u6b3e\u57fa\u4e8e Tauri \u6846\u67b6\u5f00\u53d1\u7684\u73b0\u4ee3\u5316 Windows \u9762\u5bb9\u8bc6\u522b\u89e3\u9501\u589e\u5f3a\u8f6f\u4ef6\u3002\u5b83\u901a\u8fc7\u81ea\u5b9a\u4e49 Credential Provider (DLL) \u6ce8\u5165 Windows \u767b\u5f55\u754c\u9762\uff0c\u7ed3\u5408\u524d\u7aef Vue 3 \u548c\u540e\u7aef OpenCV \u4eba\u8138\u8bc6\u522b\u7b97\u6cd5\uff0c\u4e3a\u7528\u6237\u63d0\u4f9b\u7c7b\u4f3c Windows Hello \u7684\u89e3\u9501\u4f53\u9a8c\u3002"
-  },
-  {
-    "name": "ysharma3501/LinaCodec",
-    "url": "https://github.com/ysharma3501/LinaCodec",
-    "followers": 4,
-    "forks": 11,
-    "stars": 128,
-    "created_at": "2026-01-02",
-    "description": "A highly compressive and high-quality neural audio codec for speech models."
   },
   {
     "name": "nicolasahar/morphic-programming",
     "url": "https://github.com/nicolasahar/morphic-programming",
     "followers": 4,
     "forks": 4,
-    "stars": 122,
+    "stars": 126,
     "created_at": "2026-01-01",
     "description": "First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy, and more"
   },
@@ -193,7 +193,7 @@
     "url": "https://github.com/buyukakyuz/corroded",
     "followers": 3,
     "forks": 30,
-    "stars": 1129,
+    "stars": 1134,
     "created_at": "2025-12-29",
     "description": "Illegal rust"
   },
@@ -202,7 +202,7 @@
     "url": "https://github.com/Lulzx/zpdf",
     "followers": 3,
     "forks": 21,
-    "stars": 698,
+    "stars": 701,
     "created_at": "2025-12-30",
     "description": "Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration."
   },
@@ -210,8 +210,8 @@
     "name": "KartikLabhshetwar/oneurl",
     "url": "https://github.com/KartikLabhshetwar/oneurl",
     "followers": 3,
-    "forks": 23,
-    "stars": 211,
+    "forks": 24,
+    "stars": 212,
     "created_at": "2025-12-31",
     "description": "One URL for all your links, An open-source alternative to Linktree. Create a beautiful profile page to share all your important links in one place."
   },
@@ -220,7 +220,7 @@
     "url": "https://github.com/k2-fsa/Flow2GAN",
     "followers": 3,
     "forks": 7,
-    "stars": 92,
+    "stars": 94,
     "created_at": "2025-12-29",
     "description": "Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-Step High-Fidelity Audio Generation"
   },
@@ -229,7 +229,7 @@
     "url": "https://github.com/CloudAI-X/the-trading-floor-v2",
     "followers": 3,
     "forks": 15,
-    "stars": 53,
+    "stars": 54,
     "created_at": "2025-12-29",
     "description": ""
   },
@@ -237,35 +237,44 @@
     "name": "alexknowshtml/smaug",
     "url": "https://github.com/alexknowshtml/smaug",
     "followers": 2,
-    "forks": 40,
-    "stars": 410,
+    "forks": 41,
+    "stars": 414,
     "created_at": "2026-01-02",
     "description": "Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark."
   },
   {
-    "name": "ygwyg/merchant",
-    "url": "https://github.com/ygwyg/merchant",
+    "name": "lklynet/hypermind",
+    "url": "https://github.com/lklynet/hypermind",
     "followers": 2,
-    "forks": 28,
-    "stars": 257,
-    "created_at": "2025-12-29",
-    "description": "The backend for selling things on the internet."
+    "forks": 17,
+    "stars": 347,
+    "created_at": "2026-01-02",
+    "description": "The High-Availability Solution to a Problem That Doesn't Exist."
   },
   {
     "name": "OthmanAdi/planning-with-files",
     "url": "https://github.com/OthmanAdi/planning-with-files",
     "followers": 2,
-    "forks": 50,
-    "stars": 246,
+    "forks": 52,
+    "stars": 259,
     "created_at": "2026-01-03",
     "description": "Claude Code skill implementing Manus-style persistent markdown planning \u2014 the workflow pattern behind the $2B acquisition."
+  },
+  {
+    "name": "ygwyg/merchant",
+    "url": "https://github.com/ygwyg/merchant",
+    "followers": 2,
+    "forks": 29,
+    "stars": 258,
+    "created_at": "2025-12-29",
+    "description": "The backend for selling things on the internet."
   },
   {
     "name": "rohunvora/just-fucking-cancel",
     "url": "https://github.com/rohunvora/just-fucking-cancel",
     "followers": 2,
-    "forks": 21,
-    "stars": 176,
+    "forks": 22,
+    "stars": 180,
     "created_at": "2026-01-02",
     "description": "claude code cancels your subscriptions for you"
   },
@@ -274,7 +283,7 @@
     "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
     "followers": 2,
     "forks": 10,
-    "stars": 175,
+    "stars": 176,
     "created_at": "2026-01-01",
     "description": "Official Project Page for \"Deep Delta Learning\""
   },
@@ -288,6 +297,15 @@
     "description": "au\u3072\u304b\u308a\u3067HGW\u306e\u4ee3\u308f\u308a\u306b802.1x\u8a8d\u8a3c\u3092\u884c\u3044\u3001HGW\u3092\u4f7f\u7528\u305b\u305a\u306b\u63a5\u7d9a\u3057\u307e\u3059\u3002"
   },
   {
+    "name": "AndreSlavescu/mHC.cu",
+    "url": "https://github.com/AndreSlavescu/mHC.cu",
+    "followers": 2,
+    "forks": 7,
+    "stars": 128,
+    "created_at": "2026-01-01",
+    "description": "mHC kernels implemented in CUDA"
+  },
+  {
     "name": "huifer/Claude-Ally-Health",
     "url": "https://github.com/huifer/Claude-Ally-Health",
     "followers": 2,
@@ -297,20 +315,11 @@
     "description": "Claude-Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medications, track medical records, and access professional multidisciplinary consultation analysis\u2014making health management smarter and more accessible"
   },
   {
-    "name": "AndreSlavescu/mHC.cu",
-    "url": "https://github.com/AndreSlavescu/mHC.cu",
-    "followers": 2,
-    "forks": 7,
-    "stars": 120,
-    "created_at": "2026-01-01",
-    "description": "mHC kernels implemented in CUDA"
-  },
-  {
     "name": "yoanbernabeu/openbento",
     "url": "https://github.com/yoanbernabeu/openbento",
     "followers": 2,
-    "forks": 16,
-    "stars": 112,
+    "forks": 17,
+    "stars": 114,
     "created_at": "2025-12-30",
     "description": "A beautiful, open-source bento grid generator for creating stunning link-in-bio pages"
   },
@@ -319,7 +328,7 @@
     "url": "https://github.com/tokenbender/mHC-manifold-constrained-hyper-connections",
     "followers": 2,
     "forks": 6,
-    "stars": 102,
+    "stars": 107,
     "created_at": "2026-01-01",
     "description": "implementations and experimentation on mHC by deepseek - https://arxiv.org/abs/2512.24880"
   },
@@ -327,8 +336,8 @@
     "name": "Meeep1/EeveeSpotifyRevivedPublic",
     "url": "https://github.com/Meeep1/EeveeSpotifyRevivedPublic",
     "followers": 2,
-    "forks": 72,
-    "stars": 99,
+    "forks": 74,
+    "stars": 100,
     "created_at": "2025-12-31",
     "description": ""
   },
@@ -337,7 +346,7 @@
     "url": "https://github.com/hyunwoongko/solar-vs-glm-vs-phi",
     "followers": 2,
     "forks": 10,
-    "stars": 92,
+    "stars": 93,
     "created_at": "2026-01-01",
     "description": "Solar vs GLM vs Phi"
   },
@@ -345,7 +354,7 @@
     "name": "uhbur8-lgtm/fully-unlocked-Private-Unleashed-2.0-FlipperZero-Firmware",
     "url": "https://github.com/uhbur8-lgtm/fully-unlocked-Private-Unleashed-2.0-FlipperZero-Firmware",
     "followers": 2,
-    "forks": 30,
+    "forks": 33,
     "stars": 66,
     "created_at": "2026-01-02",
     "description": "Private-Unleashed-2.0-FlipperZero-Firmware"
@@ -355,7 +364,7 @@
     "url": "https://github.com/IamCreateAI/NeoVerse",
     "followers": 2,
     "forks": 0,
-    "stars": 57,
+    "stars": 58,
     "created_at": "2025-12-29",
     "description": "NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos"
   },
@@ -363,8 +372,8 @@
     "name": "tukuaiai/tradecat",
     "url": "https://github.com/tukuaiai/tradecat",
     "followers": 1,
-    "forks": 110,
-    "stars": 342,
+    "forks": 115,
+    "stars": 362,
     "created_at": "2025-12-30",
     "description": "\u4ea4\u6613\u732b\uff1btradecat\uff1b\u5168\u5e02\u573a\u91cf\u5316\u4ea4\u6613\u6570\u636e\u5e73\u53f0"
   },
@@ -372,19 +381,10 @@
     "name": "dabit3/openform",
     "url": "https://github.com/dabit3/openform",
     "followers": 1,
-    "forks": 79,
-    "stars": 338,
+    "forks": 81,
+    "stars": 339,
     "created_at": "2025-12-30",
     "description": "Open Source TypeForm Clone"
-  },
-  {
-    "name": "lklynet/hypermind",
-    "url": "https://github.com/lklynet/hypermind",
-    "followers": 1,
-    "forks": 15,
-    "stars": 338,
-    "created_at": "2026-01-02",
-    "description": "The High-Availability Solution to a Problem That Doesn't Exist."
   },
   {
     "name": "roshie548/proxmux",
@@ -418,7 +418,7 @@
     "url": "https://github.com/Alanma23/tinytinyTPU-co",
     "followers": 1,
     "forks": 7,
-    "stars": 130,
+    "stars": 132,
     "created_at": "2025-12-31",
     "description": ""
   },
@@ -441,31 +441,40 @@
     "description": "LLM-written music"
   },
   {
-    "name": "banteg/takopi",
-    "url": "https://github.com/banteg/takopi",
-    "followers": 1,
-    "forks": 13,
-    "stars": 101,
-    "created_at": "2025-12-29",
-    "description": "he just wants to help-pi!"
-  },
-  {
     "name": "numman-ali/n-skills",
     "url": "https://github.com/numman-ali/n-skills",
     "followers": 1,
     "forks": 8,
-    "stars": 95,
+    "stars": 110,
     "created_at": "2026-01-02",
     "description": "Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills"
+  },
+  {
+    "name": "banteg/takopi",
+    "url": "https://github.com/banteg/takopi",
+    "followers": 1,
+    "forks": 13,
+    "stars": 102,
+    "created_at": "2025-12-29",
+    "description": "he just wants to help-pi!"
   },
   {
     "name": "infinigence/FUSCO",
     "url": "https://github.com/infinigence/FUSCO",
     "followers": 1,
     "forks": 7,
-    "stars": 89,
+    "stars": 90,
     "created_at": "2025-12-29",
     "description": "High-performance distributed data shuffling (all-to-all) library for MoE training and inference"
+  },
+  {
+    "name": "MaxHastings/llm-madness",
+    "url": "https://github.com/MaxHastings/llm-madness",
+    "followers": 1,
+    "forks": 10,
+    "stars": 88,
+    "created_at": "2025-12-30",
+    "description": ""
   },
   {
     "name": "mitsuhiko/gh-issue-sync",
@@ -475,15 +484,6 @@
     "stars": 82,
     "created_at": "2025-12-29",
     "description": "A github issue sync tool for working with issues locally"
-  },
-  {
-    "name": "MaxHastings/llm-madness",
-    "url": "https://github.com/MaxHastings/llm-madness",
-    "followers": 1,
-    "forks": 8,
-    "stars": 79,
-    "created_at": "2025-12-30",
-    "description": ""
   },
   {
     "name": "ashfn/islechat",
@@ -499,7 +499,7 @@
     "url": "https://github.com/dr34mhacks/XSSNow",
     "followers": 1,
     "forks": 23,
-    "stars": 75,
+    "stars": 77,
     "created_at": "2025-12-31",
     "description": "Find XSS payloads that actually work by filtering them based on real-world constraints instead of blind payload spraying."
   },
@@ -517,7 +517,7 @@
     "url": "https://github.com/Ringmast4r/crystal-vault",
     "followers": 1,
     "forks": 19,
-    "stars": 67,
+    "stars": 71,
     "created_at": "2025-12-31",
     "description": "Documenting Venezuela's surveillance infrastructure through their own open APIs. La B\u00f3veda de Cristal - A vault made of glass."
   },
@@ -535,7 +535,7 @@
     "url": "https://github.com/ircfspace/encodify",
     "followers": 1,
     "forks": 12,
-    "stars": 64,
+    "stars": 63,
     "created_at": "2025-12-30",
     "description": "\u06cc\u06a9 \u0627\u0628\u0632\u0627\u0631 \u062a\u062d\u062a \u0648\u0628 \u0645\u0646\u0627\u0633\u0628 \u0627\u0631\u0633\u0627\u0644 \u0627\u0645\u0646\u200c\u062a\u0631 \u062f\u0631 \u0634\u0631\u0627\u06cc\u0637 \u0634\u0646\u0648\u062f \u06cc\u0627 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a \u067e\u06cc\u0627\u0645\u06a9\u06cc\u060c \u06a9\u0647 \u0645\u062a\u0646\u060c \u0644\u06cc\u0646\u06a9 \u0648 \u06a9\u0627\u0646\u0641\u06cc\u06af\u200c\u0647\u0627 \u0631\u0627 \u0628\u0627 \u06a9\u0644\u06cc\u062f \u0627\u062e\u062a\u06cc\u0627\u0631\u06cc \u0628\u0647 \u06a9\u0644\u0645\u0627\u062a \u0641\u0627\u0631\u0633\u06cc \u062e\u0648\u0627\u0646\u0627 \u062a\u0628\u062f\u06cc\u0644 \u0646\u0645\u0648\u062f\u0647 \u0648 \u0627\u0645\u06a9\u0627\u0646 \u0628\u0627\u0632\u06af\u0631\u062f\u0627\u0646\u06cc \u0645\u062c\u062f\u062f \u0622\u0646\u200c\u0631\u0627 \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f."
   },
@@ -553,45 +553,54 @@
     "url": "https://github.com/baidu-baige/LoongFlow",
     "followers": 1,
     "forks": 8,
-    "stars": 55,
+    "stars": 58,
     "created_at": "2025-12-31",
     "description": "Evolve Agent Development Framework."
   },
   {
-    "name": "HuChengzhen/endorphin-positive-life-book",
-    "url": "https://github.com/HuChengzhen/endorphin-positive-life-book",
+    "name": "karpathy/rustbpe",
+    "url": "https://github.com/karpathy/rustbpe",
     "followers": 1,
-    "forks": 3,
-    "stars": 52,
-    "created_at": "2025-12-31",
-    "description": "\u6211\u7684\u575a\u5f3a\u548c\u52c7\u6c14\uff0c\u6218\u80dc\u7cbe\u795e\u5206\u88c2\u75c7\u7684\u6545\u4e8b"
+    "forks": 6,
+    "stars": 56,
+    "created_at": "2026-01-03",
+    "description": "The missing tiktoken training code"
+  },
+  {
+    "name": "discountry/polymarket-websocket-client",
+    "url": "https://github.com/discountry/polymarket-websocket-client",
+    "followers": 1,
+    "forks": 20,
+    "stars": 55,
+    "created_at": "2026-01-03",
+    "description": ""
   },
   {
     "name": "marckohlbrugge/sessy",
     "url": "https://github.com/marckohlbrugge/sessy",
     "followers": 0,
     "forks": 15,
-    "stars": 223,
+    "stars": 224,
     "created_at": "2025-12-30",
     "description": "Open-source email observability for AWS SES"
-  },
-  {
-    "name": "zhalice2011/ProxyLLM",
-    "url": "https://github.com/zhalice2011/ProxyLLM",
-    "followers": 0,
-    "forks": 42,
-    "stars": 185,
-    "created_at": "2026-01-02",
-    "description": "ProxyLLM\u662f\u4e00\u6b3e\u672c\u5730 Electron \u5e94\u7528\uff0c\u901a\u8fc7\u6355\u83b7\u6d4f\u89c8\u5668\u4f1a\u8bdd\u628a\u591a\u79cd LLM\u7f51\u7ad9\u7684\u80fd\u529b\u7edf\u4e00\u4e3a OpenAI \u517c\u5bb9 API, \u4e00\u952e\u5e94\u7528\u5230Claude Code (ProxyLLM is a local Electron application that captures browser sessions to unify the capabilities of multiple LLM websites into an OpenAI-compatible API, enabling one-click integration with Claude Code)"
   },
   {
     "name": "guillevc/yubal",
     "url": "https://github.com/guillevc/yubal",
     "followers": 0,
     "forks": 0,
-    "stars": 185,
+    "stars": 189,
     "created_at": "2025-12-29",
     "description": "YouTube Music album downloader with Spotify metadata auto-tagging"
+  },
+  {
+    "name": "zhalice2011/ProxyLLM",
+    "url": "https://github.com/zhalice2011/ProxyLLM",
+    "followers": 0,
+    "forks": 42,
+    "stars": 187,
+    "created_at": "2026-01-02",
+    "description": "ProxyLLM\u662f\u4e00\u6b3e\u672c\u5730 Electron \u5e94\u7528\uff0c\u901a\u8fc7\u6355\u83b7\u6d4f\u89c8\u5668\u4f1a\u8bdd\u628a\u591a\u79cd LLM\u7f51\u7ad9\u7684\u80fd\u529b\u7edf\u4e00\u4e3a OpenAI \u517c\u5bb9 API, \u4e00\u952e\u5e94\u7528\u5230Claude Code (ProxyLLM is a local Electron application that captures browser sessions to unify the capabilities of multiple LLM websites into an OpenAI-compatible API, enabling one-click integration with Claude Code)"
   },
   {
     "name": "nucufowidofi38/ai-apps",
@@ -615,8 +624,8 @@
     "name": "Kuaishou-OneRec/OpenOneRec",
     "url": "https://github.com/Kuaishou-OneRec/OpenOneRec",
     "followers": 0,
-    "forks": 14,
-    "stars": 152,
+    "forks": 17,
+    "stars": 166,
     "created_at": "2025-12-29",
     "description": "An Open Foundation Model and Benchmark to Accelerate Generative Recommendation"
   },
@@ -625,7 +634,7 @@
     "url": "https://github.com/lyehe/porterminal",
     "followers": 0,
     "forks": 2,
-    "stars": 144,
+    "stars": 146,
     "created_at": "2025-12-30",
     "description": "Quick n' dirty web terminal tunneling your phone & pc"
   },
@@ -634,7 +643,7 @@
     "url": "https://github.com/DOSAYGO-STUDIO/HackerBook",
     "followers": 0,
     "forks": 15,
-    "stars": 138,
+    "stars": 140,
     "created_at": "2025-12-29",
     "description": "Hacker Book - COMMUNITY, ALL THE HN ARE BELONG TO YOU. An unkillable, static offline archive of all of Hacker News."
   },
@@ -642,8 +651,8 @@
     "name": "ingriddaleusag-dotcom/PeekPiliRelease",
     "url": "https://github.com/ingriddaleusag-dotcom/PeekPiliRelease",
     "followers": 0,
-    "forks": 29,
-    "stars": 134,
+    "forks": 30,
+    "stars": 137,
     "created_at": "2025-12-29",
     "description": ""
   },
@@ -652,7 +661,7 @@
     "url": "https://github.com/MattParkerDev/sharpdbg",
     "followers": 0,
     "forks": 2,
-    "stars": 124,
+    "stars": 126,
     "created_at": "2025-12-29",
     "description": "SharpDbg is a .NET managed code debugger supporting the Debug Adapter Protocol, implemented completely in C#/.NET"
   },
@@ -661,16 +670,25 @@
     "url": "https://github.com/100-Devs-1-Game/Our-Open-Source-Games",
     "followers": 0,
     "forks": 1,
-    "stars": 105,
+    "stars": 109,
     "created_at": "2026-01-02",
     "description": "List of all Godot Collaborative Game Jam releases"
+  },
+  {
+    "name": "jarrodwatts/claude-hud",
+    "url": "https://github.com/jarrodwatts/claude-hud",
+    "followers": 0,
+    "forks": 4,
+    "stars": 101,
+    "created_at": "2026-01-02",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
   },
   {
     "name": "Al00X/jdsh",
     "url": "https://github.com/Al00X/jdsh",
     "followers": 0,
     "forks": 2,
-    "stars": 99,
+    "stars": 100,
     "created_at": "2025-12-29",
     "description": "Awesome CLI and TUI for JDownloader2"
   },
@@ -702,6 +720,15 @@
     "description": "S3-compatible storage in Zig. Zero dependencies."
   },
   {
+    "name": "fullstackwebdev/rlm_repl",
+    "url": "https://github.com/fullstackwebdev/rlm_repl",
+    "followers": 0,
+    "forks": 6,
+    "stars": 78,
+    "created_at": "2026-01-03",
+    "description": "Recursive Language Models (RLMs) implementation based on the paper by Zhang, Kraska, and Khattab"
+  },
+  {
     "name": "suiyuebaobao/go-proxy-pro",
     "url": "https://github.com/suiyuebaobao/go-proxy-pro",
     "followers": 0,
@@ -715,7 +742,7 @@
     "url": "https://github.com/golbin/gw",
     "followers": 0,
     "forks": 10,
-    "stars": 71,
+    "stars": 72,
     "created_at": "2025-12-30",
     "description": ""
   },
@@ -724,7 +751,7 @@
     "url": "https://github.com/nvelox/nvelox",
     "followers": 0,
     "forks": 3,
-    "stars": 67,
+    "stars": 68,
     "created_at": "2025-12-29",
     "description": "A lightweight, event-driven TCP/UDP load balancer and proxy built for high-concurrency and mass port binding."
   },
@@ -733,9 +760,18 @@
     "url": "https://github.com/eihabkhan/reddojs",
     "followers": 0,
     "forks": 1,
-    "stars": 67,
+    "stars": 68,
     "created_at": "2025-12-29",
     "description": "A tiny Undo/Redo Library for JavaScript, React, Vue, and Svelte"
+  },
+  {
+    "name": "pard0p/Remote-BOF-Runner",
+    "url": "https://github.com/pard0p/Remote-BOF-Runner",
+    "followers": 0,
+    "forks": 2,
+    "stars": 67,
+    "created_at": "2025-12-31",
+    "description": "Remote BOF Runner is a Havoc extension framework for remote execution of Beacon Object Files (BOFs) using a PIC loader made with Crystal Palace."
   },
   {
     "name": "joshhu/imagepdf2txt",
@@ -747,13 +783,22 @@
     "description": "\u4f7f\u7528 PaddleOCR \u5c07\u5716\u7247\u578b PDF \u6a94\u6848\u8f49\u63db\u6210\u7d14\u6587\u5b57"
   },
   {
-    "name": "pard0p/Remote-BOF-Runner",
-    "url": "https://github.com/pard0p/Remote-BOF-Runner",
+    "name": "Snailclimb/interview-guide",
+    "url": "https://github.com/Snailclimb/interview-guide",
     "followers": 0,
-    "forks": 2,
+    "forks": 16,
     "stars": 65,
-    "created_at": "2025-12-31",
-    "description": "Remote BOF Runner is a Havoc extension framework for remote execution of Beacon Object Files (BOFs) using a PIC loader made with Crystal Palace."
+    "created_at": "2026-01-03",
+    "description": "\u57fa\u4e8e Spring Boot 3.3 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis\uff0c\u5b9e\u73b0\u7b80\u5386\u667a\u80fd\u5206\u6790\u3001AI\u6a21\u62df\u9762\u8bd5\u3001\u77e5\u8bc6\u5e93RAG\u68c0\u7d22\u7b49\u6838\u5fc3\u529f\u80fd\u3002\u975e\u5e38\u9002\u5408\u4f5c\u4e3a\u5b66\u4e60\u548c\u7b80\u5386\u9879\u76ee\uff0c\u5b66\u4e60\u95e8\u69db\u4f4e\u3002"
+  },
+  {
+    "name": "m4lwhere/profilehound",
+    "url": "https://github.com/m4lwhere/profilehound",
+    "followers": 0,
+    "forks": 4,
+    "stars": 63,
+    "created_at": "2025-12-29",
+    "description": "ProfileHound - BloodHound OpenGraph collector for user profiles stored on domain machines. Make informed decisions about looting secrets by identifying active user profiles on domain machines."
   },
   {
     "name": "xenitV1/claude-code-maestro",
@@ -783,15 +828,6 @@
     "description": "neovim rice"
   },
   {
-    "name": "m4lwhere/profilehound",
-    "url": "https://github.com/m4lwhere/profilehound",
-    "followers": 0,
-    "forks": 4,
-    "stars": 61,
-    "created_at": "2025-12-29",
-    "description": "ProfileHound - BloodHound OpenGraph collector for user profiles stored on domain machines. Make informed decisions about looting secrets by identifying active user profiles on domain machines."
-  },
-  {
     "name": "TeamWarp/effect-api-example",
     "url": "https://github.com/TeamWarp/effect-api-example",
     "followers": 0,
@@ -799,6 +835,15 @@
     "stars": 61,
     "created_at": "2025-12-30",
     "description": ""
+  },
+  {
+    "name": "jtydhr88/ComfyUI-HY-Motion1",
+    "url": "https://github.com/jtydhr88/ComfyUI-HY-Motion1",
+    "followers": 0,
+    "forks": 3,
+    "stars": 61,
+    "created_at": "2025-12-30",
+    "description": "A ComfyUI plugin based on HY-Motion 1.0 for text-to-3D human motion generation."
   },
   {
     "name": "eztg/GPT_Sheerid_Auto",
@@ -810,31 +855,13 @@
     "description": "\u81ea\u52a8\u9a8c\u8bc1\u5de5\u5177 - \u652f\u6301 TLS \u6307\u7eb9\u6a21\u62df\u3001\u4ee3\u7406\u8f6e\u6362\u3001\u90ae\u7bb1\u81ea\u52a8\u6536\u53d6\u9a8c\u8bc1\u7801"
   },
   {
-    "name": "jtydhr88/ComfyUI-HY-Motion1",
-    "url": "https://github.com/jtydhr88/ComfyUI-HY-Motion1",
-    "followers": 0,
-    "forks": 3,
-    "stars": 60,
-    "created_at": "2025-12-30",
-    "description": "A ComfyUI plugin based on HY-Motion 1.0 for text-to-3D human motion generation."
-  },
-  {
     "name": "jxroot/ZeroPulse",
     "url": "https://github.com/jxroot/ZeroPulse",
     "followers": 0,
-    "forks": 10,
+    "forks": 11,
     "stars": 59,
     "created_at": "2025-12-30",
     "description": "\ud83d\udd12 Modern C2 Platform with Cloudflare Tunnel Integration | WinRM & SSH Remote Management | Real-time Terminal & Remote Desktop | Built with FastAPI & React"
-  },
-  {
-    "name": "fullstackwebdev/rlm_repl",
-    "url": "https://github.com/fullstackwebdev/rlm_repl",
-    "followers": 0,
-    "forks": 5,
-    "stars": 58,
-    "created_at": "2026-01-03",
-    "description": "Recursive Language Models (RLMs) implementation based on the paper by Zhang, Kraska, and Khattab"
   },
   {
     "name": "thangdam97/LN-VN-Translator",
@@ -871,14 +898,5 @@
     "stars": 54,
     "created_at": "2025-12-29",
     "description": ""
-  },
-  {
-    "name": "Jkloeten/WinIconChanger",
-    "url": "https://github.com/Jkloeten/WinIconChanger",
-    "followers": 0,
-    "forks": 0,
-    "stars": 52,
-    "created_at": "2026-01-01",
-    "description": "Very simple tool to change the .ico of any windows binary (.exe). Working best with 128 x 128 or higher resolution .icos."
   }
 ]
